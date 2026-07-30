@@ -1,0 +1,13 @@
+ticket_number,caller,category,priority,assignment_group,state,short_description,opened_at,resolved_at,response_target_minutes,resolution_target_hours
+INC0010001,Abel Tuter,Software,1 - Critical,Clinical Applications Support (Tier 2),Resolved,EHR unavailable clinic-wide - providers unable to access patient charts,2026-07-29 08:50,2026-07-29 09:32,15,1
+INC0010002,Abraham Lincoln,Software,3 - Moderate,Clinical Applications Support (Tier 2),In Progress,Provider unable to complete order entry in EHR - errors on submit,2026-07-29 09:45,,240,24
+INC0010003,Adela Cervantsz,Inquiry / Help,4 - Low,Service Desk (Tier 1),Closed,Password reset needed - locked out of workstation login,2026-07-29 09:04,2026-07-29 09:39,480,48
+INC0010004,Aileen Mottern,Inquiry / Help,3 - Moderate,Service Desk (Tier 1),Resolved,Account locked out after repeated failed login attempts,2026-07-29 10:07,2026-07-29 11:02,240,24
+INC0010005,Alejandra Prenatt,Inquiry / Help,4 - Low,IAM & Account Support,In Progress,New hire needs elevated EHR access provisioned before start date,2026-07-29 10:38,,480,48
+INC0010006,Alejandro Mascall,Hardware,3 - Moderate,Desktop & Hardware Support,New,Printer offline in Exam Room 3 - unable to print visit summaries,2026-07-29 08:40,,240,24
+INC0010007,Alene Rabeck,Network,3 - Moderate,Network & Infrastructure,Resolved,VPN not connecting for remote billing staff,2026-07-29 08:19,2026-07-29 14:39,240,24
+INC0010008,Alfonso Griglen,Network,2 - High,Network & Infrastructure,Closed,Satellite clinic WiFi outage - all staff at South Valley location offline,2026-07-29 09:06,2026-07-29 14:46,60,8
+INC0010009,Allie Pumphrey,Hardware,3 - Moderate,Desktop & Hardware Support,New,Badge reader malfunctioning at front desk - staff unable to clock in,2026-07-29 10:29,,240,24
+INC0010010,Allyson Gillispie,Software,2 - High,Clinical Applications Support (Tier 2),In Progress,e-Prescribing errors for physician - prescriptions failing to transmit to pharmacy,2026-07-29 10:34,,60,8
+INC0010011,Alva Pennigton,Hardware,3 - Moderate,Desktop & Hardware Support,Resolved,Mobile COW (computer on wheels) won't boot on nursing floor,2026-07-29 08:03,2026-07-30 13:13,240,24
+INC0010012,Alyssa Biasotti,Inquiry / Help,2 - High,IAM & Account Support,Resolved,MFA push notification not working for physician logging into Okta,2026-07-29 08:22,2026-07-29 08:50,60,8

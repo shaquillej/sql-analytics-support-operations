@@ -1,0 +1,2236 @@
+encounter_id,patient_id,provider_id,department_id,encounter_class,start_datetime,end_datetime,reason
+1,25,10,4,ambulatory,2026-01-28 14:30,2026-01-28 15:30,Lower back pain
+2,36,1,1,wellness,2026-01-28 13:45,2026-01-28 14:05,Diabetes management
+3,190,6,2,ambulatory,2026-01-28 13:45,2026-01-28 14:30,Asthma follow-up
+4,177,12,4,ambulatory,2026-01-28 08:45,2026-01-28 09:05,Post-surgical rehab
+5,159,12,4,ambulatory,2026-01-28 14:15,2026-01-28 14:45,Lower back pain
+6,177,8,3,ambulatory,2026-01-28 14:45,2026-01-28 15:15,Depression follow-up
+7,137,17,6,ambulatory,2026-01-28 13:30,2026-01-28 14:30,Imaging follow-up
+8,198,5,2,ambulatory,2026-01-28 11:45,2026-01-28 12:30,Sports physical
+9,75,13,5,emergency,2026-01-28 08:30,2026-01-28 09:30,Minor fracture eval
+10,164,16,6,ambulatory,2026-01-28 11:00,2026-01-28 11:45,X-ray order
+11,123,14,5,urgent,2026-01-28 11:30,2026-01-28 11:50,Minor fracture eval
+12,215,16,6,ambulatory,2026-01-28 14:45,2026-01-28 15:15,Routine bloodwork
+13,140,6,2,wellness,2026-01-28 15:15,2026-01-28 16:00,Ear infection
+14,48,15,5,urgent,2026-01-28 08:30,2026-01-28 08:45,Fever eval
+15,48,7,3,ambulatory,2026-01-28 15:30,2026-01-28 16:00,Initial intake assessment
+16,147,6,2,ambulatory,2026-01-28 12:30,2026-01-28 13:30,Well-child visit
+17,198,18,6,ambulatory,2026-01-28 12:00,2026-01-28 12:20,Pre-op labs
+18,96,9,3,ambulatory,2026-01-28 16:45,2026-01-28 17:00,Anxiety management
+19,16,16,6,ambulatory,2026-01-28 16:15,2026-01-28 17:15,X-ray order
+20,115,9,3,ambulatory,2026-01-28 15:15,2026-01-28 16:00,Anxiety management
+21,191,4,2,ambulatory,2026-01-28 09:00,2026-01-28 09:30,Sports physical
+22,197,7,3,wellness,2026-01-28 14:30,2026-01-28 15:00,Initial intake assessment
+23,101,3,1,wellness,2026-01-28 10:15,2026-01-28 10:35,Hypertension follow-up
+24,71,7,3,ambulatory,2026-01-29 09:00,2026-01-29 09:15,Anxiety management
+25,154,11,4,ambulatory,2026-01-29 08:15,2026-01-29 09:15,Lower back pain
+26,209,16,6,ambulatory,2026-01-29 13:30,2026-01-29 13:45,Imaging follow-up
+27,189,12,4,ambulatory,2026-01-29 10:45,2026-01-29 11:05,Sports injury recovery
+28,194,4,2,wellness,2026-01-29 15:15,2026-01-29 16:00,Immunizations
+29,217,14,5,urgent,2026-01-29 13:00,2026-01-29 14:00,Laceration
+30,56,15,5,urgent,2026-01-29 15:15,2026-01-29 16:15,Sprain/strain
+31,62,14,5,urgent,2026-01-29 16:30,2026-01-29 17:15,Acute respiratory infection
+32,121,3,1,ambulatory,2026-01-29 11:30,2026-01-29 12:30,Hypertension follow-up
+33,185,18,6,ambulatory,2026-01-29 14:30,2026-01-29 15:00,Imaging follow-up
+34,186,14,5,urgent,2026-01-29 15:45,2026-01-29 16:45,Fever eval
+35,210,1,1,wellness,2026-01-29 08:00,2026-01-29 08:30,Diabetes management
+36,4,11,4,ambulatory,2026-01-29 08:30,2026-01-29 09:30,Lower back pain
+37,159,1,1,wellness,2026-01-29 12:30,2026-01-29 12:50,Cold/flu symptoms
+38,168,4,2,wellness,2026-01-29 08:00,2026-01-29 08:15,Sports physical
+39,201,18,6,ambulatory,2026-01-30 13:00,2026-01-30 13:15,Routine bloodwork
+40,140,14,5,urgent,2026-01-30 08:15,2026-01-30 08:35,Laceration
+41,214,12,4,ambulatory,2026-01-30 14:30,2026-01-30 14:50,Post-surgical rehab
+42,126,5,2,ambulatory,2026-01-30 13:45,2026-01-30 14:00,Asthma follow-up
+43,183,5,2,wellness,2026-01-30 10:45,2026-01-30 11:15,Well-child visit
+44,186,7,3,wellness,2026-01-30 11:15,2026-01-30 11:35,Medication management
+45,71,2,1,ambulatory,2026-01-30 12:45,2026-01-30 13:30,Annual physical
+46,2,2,1,ambulatory,2026-01-30 13:45,2026-01-30 14:15,Annual physical
+47,52,6,2,ambulatory,2026-01-30 13:15,2026-01-30 13:45,Ear infection
+48,94,14,5,urgent,2026-01-30 09:15,2026-01-30 09:30,Sprain/strain
+49,173,14,5,urgent,2026-01-30 15:15,2026-01-30 16:15,Sprain/strain
+50,178,9,3,ambulatory,2026-01-30 16:00,2026-01-30 16:20,Anxiety management
+51,145,13,5,urgent,2026-01-30 14:30,2026-01-30 15:15,Fever eval
+52,198,5,2,wellness,2026-01-30 16:15,2026-01-30 16:30,Asthma follow-up
+53,37,15,5,urgent,2026-01-30 13:30,2026-01-30 14:15,Laceration
+54,12,5,2,wellness,2026-01-30 09:00,2026-01-30 09:30,Immunizations
+55,8,14,5,urgent,2026-01-30 11:45,2026-01-30 12:45,Fever eval
+56,118,4,2,ambulatory,2026-02-02 12:45,2026-02-02 13:15,Sports physical
+57,159,5,2,ambulatory,2026-02-02 12:00,2026-02-02 12:30,Well-child visit
+58,100,15,5,urgent,2026-02-02 14:15,2026-02-02 14:35,Sprain/strain
+59,159,2,1,ambulatory,2026-02-02 13:00,2026-02-02 13:45,Diabetes management
+60,44,2,1,ambulatory,2026-02-02 15:00,2026-02-02 15:45,Annual physical
+61,193,3,1,ambulatory,2026-02-02 12:00,2026-02-02 13:00,Annual physical
+62,157,15,5,urgent,2026-02-02 14:15,2026-02-02 14:45,Fever eval
+63,75,17,6,ambulatory,2026-02-02 12:00,2026-02-02 12:20,X-ray order
+64,195,13,5,urgent,2026-02-02 14:45,2026-02-02 15:45,Laceration
+65,95,15,5,emergency,2026-02-02 15:45,2026-02-02 16:05,Fever eval
+66,127,16,6,ambulatory,2026-02-02 12:30,2026-02-02 12:45,Routine bloodwork
+67,5,2,1,ambulatory,2026-02-02 10:45,2026-02-02 11:00,Cold/flu symptoms
+68,180,12,4,ambulatory,2026-02-02 11:45,2026-02-02 12:45,Balance/fall prevention
+69,114,6,2,ambulatory,2026-02-02 08:30,2026-02-02 08:45,Immunizations
+70,81,13,5,urgent,2026-02-03 13:30,2026-02-03 14:15,Fever eval
+71,161,4,2,wellness,2026-02-03 10:45,2026-02-03 11:45,Immunizations
+72,110,14,5,urgent,2026-02-03 13:15,2026-02-03 14:15,Acute respiratory infection
+73,192,10,4,ambulatory,2026-02-03 14:30,2026-02-03 15:30,Post-surgical rehab
+74,93,1,1,ambulatory,2026-02-03 10:45,2026-02-03 11:00,Medication refill
+75,68,10,4,ambulatory,2026-02-03 11:00,2026-02-03 11:15,Balance/fall prevention
+76,207,1,1,ambulatory,2026-02-03 16:30,2026-02-03 16:45,Hypertension follow-up
+77,117,16,6,ambulatory,2026-02-03 08:30,2026-02-03 09:15,X-ray order
+78,133,18,6,ambulatory,2026-02-03 12:15,2026-02-03 13:15,Imaging follow-up
+79,148,3,1,wellness,2026-02-03 09:45,2026-02-03 10:15,Annual physical
+80,173,15,5,emergency,2026-02-03 09:15,2026-02-03 09:35,Acute respiratory infection
+81,142,1,1,wellness,2026-02-03 14:15,2026-02-03 14:30,Cold/flu symptoms
+82,46,7,3,ambulatory,2026-02-03 16:00,2026-02-03 17:00,Medication management
+83,52,8,3,ambulatory,2026-02-03 12:15,2026-02-03 13:00,Depression follow-up
+84,187,15,5,urgent,2026-02-03 12:00,2026-02-03 12:15,Acute respiratory infection
+85,106,18,6,ambulatory,2026-02-03 13:45,2026-02-03 14:45,Routine bloodwork
+86,170,11,4,ambulatory,2026-02-03 10:15,2026-02-03 10:35,Sports injury recovery
+87,105,8,3,ambulatory,2026-02-03 16:30,2026-02-03 16:45,Medication management
+88,78,3,1,wellness,2026-02-03 08:15,2026-02-03 09:15,Annual physical
+89,67,2,1,ambulatory,2026-02-03 08:45,2026-02-03 09:05,Medication refill
+90,213,1,1,ambulatory,2026-02-03 10:15,2026-02-03 10:35,Annual physical
+91,208,17,6,ambulatory,2026-02-03 10:00,2026-02-03 11:00,X-ray order
+92,128,14,5,urgent,2026-02-04 08:45,2026-02-04 09:00,Sprain/strain
+93,63,12,4,ambulatory,2026-02-04 12:45,2026-02-04 13:05,Post-surgical rehab
+94,205,9,3,wellness,2026-02-04 11:00,2026-02-04 11:45,Initial intake assessment
+95,82,4,2,wellness,2026-02-04 11:00,2026-02-04 11:20,Well-child visit
+96,62,3,1,ambulatory,2026-02-04 16:00,2026-02-04 16:20,Diabetes management
+97,179,12,4,ambulatory,2026-02-04 13:00,2026-02-04 13:20,Lower back pain
+98,15,7,3,ambulatory,2026-02-04 11:00,2026-02-04 11:30,Depression follow-up
+99,151,1,1,wellness,2026-02-04 10:00,2026-02-04 10:30,Annual physical
+100,41,4,2,wellness,2026-02-04 14:45,2026-02-04 15:30,Sports physical
+101,76,6,2,ambulatory,2026-02-04 10:00,2026-02-04 11:00,Asthma follow-up
+102,27,3,1,ambulatory,2026-02-04 10:30,2026-02-04 11:15,Diabetes management
+103,64,1,1,wellness,2026-02-04 09:30,2026-02-04 09:50,Hypertension follow-up
+104,97,17,6,ambulatory,2026-02-04 13:45,2026-02-04 14:00,Routine bloodwork
+105,67,5,2,ambulatory,2026-02-04 09:30,2026-02-04 09:45,Immunizations
+106,105,4,2,wellness,2026-02-04 16:30,2026-02-04 16:50,Immunizations
+107,110,1,1,ambulatory,2026-02-04 12:45,2026-02-04 13:00,Hypertension follow-up
+108,121,5,2,ambulatory,2026-02-04 12:00,2026-02-04 12:45,Immunizations
+109,120,2,1,ambulatory,2026-02-04 11:30,2026-02-04 12:30,Diabetes management
+110,216,4,2,ambulatory,2026-02-04 16:45,2026-02-04 17:30,Sports physical
+111,133,3,1,wellness,2026-02-05 10:00,2026-02-05 10:15,Cold/flu symptoms
+112,112,9,3,ambulatory,2026-02-05 10:30,2026-02-05 11:00,Initial intake assessment
+113,151,3,1,wellness,2026-02-05 09:00,2026-02-05 09:45,Hypertension follow-up
+114,10,11,4,ambulatory,2026-02-05 10:30,2026-02-05 10:50,Post-surgical rehab
+115,69,2,1,ambulatory,2026-02-05 08:30,2026-02-05 08:50,Annual physical
+116,114,6,2,ambulatory,2026-02-05 12:45,2026-02-05 13:45,Immunizations
+117,132,16,6,ambulatory,2026-02-05 10:00,2026-02-05 10:20,X-ray order
+118,9,16,6,ambulatory,2026-02-05 15:00,2026-02-05 15:15,Pre-op labs
+119,96,13,5,urgent,2026-02-05 15:45,2026-02-05 16:00,Minor fracture eval
+120,13,5,2,ambulatory,2026-02-05 11:15,2026-02-05 11:35,Ear infection
+121,206,15,5,urgent,2026-02-05 08:15,2026-02-05 08:45,Acute respiratory infection
+122,144,17,6,ambulatory,2026-02-05 12:30,2026-02-05 13:00,Imaging follow-up
+123,77,15,5,urgent,2026-02-05 11:15,2026-02-05 12:00,Minor fracture eval
+124,108,17,6,ambulatory,2026-02-05 14:45,2026-02-05 15:15,Pre-op labs
+125,216,7,3,wellness,2026-02-05 16:15,2026-02-05 16:35,Medication management
+126,79,6,2,ambulatory,2026-02-05 13:30,2026-02-05 14:15,Asthma follow-up
+127,31,18,6,ambulatory,2026-02-05 14:30,2026-02-05 14:50,Pre-op labs
+128,47,6,2,ambulatory,2026-02-05 15:30,2026-02-05 15:50,Ear infection
+129,148,13,5,urgent,2026-02-05 10:45,2026-02-05 11:30,Sprain/strain
+130,137,4,2,ambulatory,2026-02-05 13:00,2026-02-05 13:30,Immunizations
+131,117,2,1,wellness,2026-02-05 16:30,2026-02-05 17:15,Diabetes management
+132,187,1,1,ambulatory,2026-02-05 11:00,2026-02-05 12:00,Diabetes management
+133,170,1,1,ambulatory,2026-02-06 08:00,2026-02-06 08:45,Cold/flu symptoms
+134,178,13,5,emergency,2026-02-06 08:30,2026-02-06 09:00,Laceration
+135,128,1,1,ambulatory,2026-02-06 11:30,2026-02-06 12:30,Diabetes management
+136,214,13,5,urgent,2026-02-06 15:15,2026-02-06 15:45,Sprain/strain
+137,209,7,3,ambulatory,2026-02-06 08:30,2026-02-06 08:50,Anxiety management
+138,85,13,5,urgent,2026-02-06 13:45,2026-02-06 14:30,Laceration
+139,214,17,6,ambulatory,2026-02-06 14:45,2026-02-06 15:30,Routine bloodwork
+140,206,17,6,ambulatory,2026-02-06 15:15,2026-02-06 15:30,Pre-op labs
+141,12,17,6,ambulatory,2026-02-06 09:30,2026-02-06 10:15,Routine bloodwork
+142,124,13,5,urgent,2026-02-06 13:45,2026-02-06 14:30,Fever eval
+143,193,16,6,ambulatory,2026-02-06 15:30,2026-02-06 15:45,X-ray order
+144,115,9,3,ambulatory,2026-02-06 15:45,2026-02-06 16:45,Anxiety management
+145,203,10,4,ambulatory,2026-02-06 12:15,2026-02-06 12:45,Post-surgical rehab
+146,154,12,4,ambulatory,2026-02-06 15:30,2026-02-06 16:00,Post-surgical rehab
+147,180,11,4,ambulatory,2026-02-06 09:00,2026-02-06 09:20,Post-surgical rehab
+148,215,9,3,wellness,2026-02-06 09:45,2026-02-06 10:45,Depression follow-up
+149,124,18,6,ambulatory,2026-02-06 16:15,2026-02-06 17:15,Imaging follow-up
+150,156,17,6,ambulatory,2026-02-06 11:30,2026-02-06 12:30,Pre-op labs
+151,132,15,5,urgent,2026-02-06 12:30,2026-02-06 12:50,Acute respiratory infection
+152,164,9,3,ambulatory,2026-02-06 09:30,2026-02-06 10:30,Initial intake assessment
+153,38,2,1,ambulatory,2026-02-06 08:15,2026-02-06 08:35,Diabetes management
+154,209,11,4,ambulatory,2026-02-09 15:00,2026-02-09 15:15,Lower back pain
+155,200,6,2,ambulatory,2026-02-09 11:30,2026-02-09 11:50,Sports physical
+156,48,16,6,ambulatory,2026-02-09 10:00,2026-02-09 10:15,Imaging follow-up
+157,40,6,2,ambulatory,2026-02-09 10:30,2026-02-09 11:30,Ear infection
+158,134,1,1,ambulatory,2026-02-09 16:15,2026-02-09 16:45,Medication refill
+159,56,5,2,wellness,2026-02-09 16:45,2026-02-09 17:00,Well-child visit
+160,98,14,5,urgent,2026-02-09 09:45,2026-02-09 10:15,Sprain/strain
+161,83,16,6,ambulatory,2026-02-09 16:00,2026-02-09 16:45,X-ray order
+162,138,16,6,ambulatory,2026-02-09 14:00,2026-02-09 14:15,Routine bloodwork
+163,143,2,1,ambulatory,2026-02-09 11:30,2026-02-09 11:45,Cold/flu symptoms
+164,185,12,4,ambulatory,2026-02-09 09:00,2026-02-09 09:30,Sports injury recovery
+165,98,14,5,urgent,2026-02-09 14:00,2026-02-09 14:15,Acute respiratory infection
+166,141,12,4,ambulatory,2026-02-09 09:30,2026-02-09 09:50,Lower back pain
+167,50,11,4,ambulatory,2026-02-09 09:15,2026-02-09 09:45,Post-surgical rehab
+168,73,13,5,urgent,2026-02-09 09:15,2026-02-09 09:35,Acute respiratory infection
+169,202,1,1,ambulatory,2026-02-09 14:30,2026-02-09 15:00,Diabetes management
+170,45,7,3,wellness,2026-02-09 09:30,2026-02-09 09:45,Depression follow-up
+171,8,18,6,ambulatory,2026-02-09 14:15,2026-02-09 14:35,Pre-op labs
+172,188,18,6,ambulatory,2026-02-09 12:15,2026-02-09 12:35,Routine bloodwork
+173,176,18,6,ambulatory,2026-02-09 10:15,2026-02-09 10:35,Routine bloodwork
+174,17,13,5,urgent,2026-02-09 12:30,2026-02-09 12:45,Sprain/strain
+175,27,17,6,ambulatory,2026-02-09 16:30,2026-02-09 17:30,Imaging follow-up
+176,133,13,5,urgent,2026-02-09 12:45,2026-02-09 13:45,Sprain/strain
+177,184,3,1,ambulatory,2026-02-10 11:45,2026-02-10 12:30,Hypertension follow-up
+178,33,1,1,wellness,2026-02-10 10:15,2026-02-10 10:35,Hypertension follow-up
+179,154,11,4,ambulatory,2026-02-10 08:30,2026-02-10 09:15,Balance/fall prevention
+180,153,14,5,urgent,2026-02-10 09:15,2026-02-10 09:35,Fever eval
+181,139,15,5,urgent,2026-02-10 08:45,2026-02-10 09:15,Sprain/strain
+182,220,7,3,ambulatory,2026-02-10 12:45,2026-02-10 13:15,Anxiety management
+183,40,7,3,ambulatory,2026-02-10 12:30,2026-02-10 13:15,Medication management
+184,124,12,4,ambulatory,2026-02-10 10:30,2026-02-10 10:45,Sports injury recovery
+185,201,14,5,urgent,2026-02-10 10:00,2026-02-10 10:15,Sprain/strain
+186,156,1,1,ambulatory,2026-02-10 14:45,2026-02-10 15:00,Medication refill
+187,60,12,4,ambulatory,2026-02-11 10:00,2026-02-11 10:45,Sports injury recovery
+188,133,7,3,ambulatory,2026-02-11 09:00,2026-02-11 10:00,Medication management
+189,104,17,6,ambulatory,2026-02-11 08:30,2026-02-11 09:30,Routine bloodwork
+190,209,18,6,ambulatory,2026-02-11 12:45,2026-02-11 13:45,Pre-op labs
+191,30,17,6,ambulatory,2026-02-11 12:00,2026-02-11 12:30,Routine bloodwork
+192,103,4,2,wellness,2026-02-11 13:00,2026-02-11 13:20,Asthma follow-up
+193,49,18,6,ambulatory,2026-02-11 15:15,2026-02-11 16:15,X-ray order
+194,31,4,2,ambulatory,2026-02-11 15:00,2026-02-11 15:45,Well-child visit
+195,71,18,6,ambulatory,2026-02-11 15:15,2026-02-11 15:30,X-ray order
+196,123,11,4,ambulatory,2026-02-11 16:00,2026-02-11 16:30,Post-surgical rehab
+197,173,13,5,urgent,2026-02-11 11:45,2026-02-11 12:30,Minor fracture eval
+198,94,17,6,ambulatory,2026-02-11 10:45,2026-02-11 11:05,Pre-op labs
+199,176,12,4,ambulatory,2026-02-11 11:00,2026-02-11 11:20,Balance/fall prevention
+200,46,7,3,ambulatory,2026-02-11 15:15,2026-02-11 16:15,Medication management
+201,215,14,5,urgent,2026-02-11 09:45,2026-02-11 10:00,Laceration
+202,156,6,2,ambulatory,2026-02-11 16:15,2026-02-11 17:00,Ear infection
+203,162,11,4,ambulatory,2026-02-11 10:15,2026-02-11 10:45,Post-surgical rehab
+204,168,5,2,ambulatory,2026-02-11 12:45,2026-02-11 13:00,Ear infection
+205,170,1,1,ambulatory,2026-02-11 09:15,2026-02-11 09:30,Hypertension follow-up
+206,196,15,5,urgent,2026-02-11 09:00,2026-02-11 09:20,Acute respiratory infection
+207,8,1,1,ambulatory,2026-02-11 13:30,2026-02-11 14:30,Cold/flu symptoms
+208,192,12,4,ambulatory,2026-02-11 14:30,2026-02-11 15:00,Post-surgical rehab
+209,3,5,2,ambulatory,2026-02-12 16:15,2026-02-12 16:30,Sports physical
+210,153,14,5,urgent,2026-02-12 11:00,2026-02-12 11:45,Minor fracture eval
+211,109,1,1,wellness,2026-02-12 11:30,2026-02-12 11:50,Medication refill
+212,117,6,2,wellness,2026-02-12 15:30,2026-02-12 16:30,Immunizations
+213,73,1,1,ambulatory,2026-02-12 10:45,2026-02-12 11:15,Diabetes management
+214,99,13,5,emergency,2026-02-12 15:15,2026-02-12 15:45,Sprain/strain
+215,11,3,1,wellness,2026-02-12 16:00,2026-02-12 16:20,Annual physical
+216,4,11,4,ambulatory,2026-02-12 10:30,2026-02-12 11:30,Post-surgical rehab
+217,64,1,1,ambulatory,2026-02-12 15:00,2026-02-12 15:20,Annual physical
+218,143,8,3,wellness,2026-02-12 13:45,2026-02-12 14:30,Medication management
+219,76,15,5,urgent,2026-02-12 16:45,2026-02-12 17:00,Fever eval
+220,76,11,4,ambulatory,2026-02-12 12:30,2026-02-12 13:30,Post-surgical rehab
+221,17,6,2,wellness,2026-02-12 16:45,2026-02-12 17:15,Sports physical
+222,169,3,1,ambulatory,2026-02-12 08:15,2026-02-12 08:30,Hypertension follow-up
+223,19,3,1,ambulatory,2026-02-12 11:45,2026-02-12 12:15,Hypertension follow-up
+224,211,13,5,urgent,2026-02-12 12:00,2026-02-12 12:20,Minor fracture eval
+225,146,10,4,ambulatory,2026-02-13 10:45,2026-02-13 11:05,Balance/fall prevention
+226,87,12,4,ambulatory,2026-02-13 10:45,2026-02-13 11:15,Sports injury recovery
+227,140,12,4,ambulatory,2026-02-13 11:45,2026-02-13 12:00,Balance/fall prevention
+228,5,18,6,ambulatory,2026-02-13 16:15,2026-02-13 16:30,Imaging follow-up
+229,147,13,5,urgent,2026-02-13 14:15,2026-02-13 14:30,Fever eval
+230,98,15,5,urgent,2026-02-13 09:00,2026-02-13 09:45,Fever eval
+231,11,3,1,ambulatory,2026-02-13 16:15,2026-02-13 16:35,Diabetes management
+232,38,8,3,ambulatory,2026-02-13 13:00,2026-02-13 14:00,Initial intake assessment
+233,34,9,3,ambulatory,2026-02-13 15:15,2026-02-13 16:00,Depression follow-up
+234,23,6,2,ambulatory,2026-02-13 14:45,2026-02-13 15:15,Ear infection
+235,176,13,5,urgent,2026-02-13 13:15,2026-02-13 13:45,Acute respiratory infection
+236,55,3,1,ambulatory,2026-02-13 16:30,2026-02-13 17:00,Medication refill
+237,52,2,1,wellness,2026-02-13 12:00,2026-02-13 12:15,Hypertension follow-up
+238,99,18,6,ambulatory,2026-02-16 11:45,2026-02-16 12:45,X-ray order
+239,183,18,6,ambulatory,2026-02-16 08:00,2026-02-16 08:15,X-ray order
+240,91,5,2,wellness,2026-02-16 12:15,2026-02-16 13:15,Ear infection
+241,39,16,6,ambulatory,2026-02-16 13:45,2026-02-16 14:30,X-ray order
+242,85,18,6,ambulatory,2026-02-16 15:15,2026-02-16 16:00,X-ray order
+243,31,12,4,ambulatory,2026-02-16 10:30,2026-02-16 11:15,Balance/fall prevention
+244,190,15,5,emergency,2026-02-16 12:15,2026-02-16 12:35,Fever eval
+245,21,14,5,urgent,2026-02-16 15:15,2026-02-16 15:35,Sprain/strain
+246,105,1,1,ambulatory,2026-02-16 12:45,2026-02-16 13:15,Diabetes management
+247,110,16,6,ambulatory,2026-02-16 14:00,2026-02-16 14:45,Routine bloodwork
+248,63,7,3,wellness,2026-02-16 16:45,2026-02-16 17:30,Initial intake assessment
+249,199,5,2,ambulatory,2026-02-16 15:15,2026-02-16 16:15,Well-child visit
+250,179,3,1,wellness,2026-02-16 10:45,2026-02-16 11:30,Cold/flu symptoms
+251,93,15,5,urgent,2026-02-16 09:45,2026-02-16 10:15,Laceration
+252,79,14,5,urgent,2026-02-16 12:45,2026-02-16 13:30,Laceration
+253,156,10,4,ambulatory,2026-02-17 15:15,2026-02-17 15:35,Balance/fall prevention
+254,90,3,1,ambulatory,2026-02-17 10:00,2026-02-17 10:45,Medication refill
+255,173,16,6,ambulatory,2026-02-17 12:15,2026-02-17 12:45,Imaging follow-up
+256,195,16,6,ambulatory,2026-02-17 14:00,2026-02-17 15:00,Pre-op labs
+257,157,1,1,ambulatory,2026-02-17 09:00,2026-02-17 09:20,Medication refill
+258,134,11,4,ambulatory,2026-02-17 15:45,2026-02-17 16:00,Lower back pain
+259,55,6,2,ambulatory,2026-02-17 11:30,2026-02-17 12:00,Ear infection
+260,146,6,2,wellness,2026-02-17 08:15,2026-02-17 08:35,Asthma follow-up
+261,86,12,4,ambulatory,2026-02-17 15:45,2026-02-17 16:05,Sports injury recovery
+262,205,11,4,ambulatory,2026-02-17 13:00,2026-02-17 14:00,Balance/fall prevention
+263,153,10,4,ambulatory,2026-02-17 09:30,2026-02-17 09:50,Balance/fall prevention
+264,24,13,5,urgent,2026-02-17 15:00,2026-02-17 15:30,Fever eval
+265,211,1,1,wellness,2026-02-17 10:15,2026-02-17 11:15,Cold/flu symptoms
+266,120,17,6,ambulatory,2026-02-17 08:00,2026-02-17 08:20,X-ray order
+267,82,6,2,ambulatory,2026-02-17 09:30,2026-02-17 10:30,Well-child visit
+268,152,3,1,wellness,2026-02-18 15:30,2026-02-18 15:45,Diabetes management
+269,120,15,5,urgent,2026-02-18 09:45,2026-02-18 10:15,Minor fracture eval
+270,171,6,2,ambulatory,2026-02-18 13:45,2026-02-18 14:05,Asthma follow-up
+271,155,5,2,wellness,2026-02-18 10:00,2026-02-18 10:45,Ear infection
+272,159,10,4,ambulatory,2026-02-18 11:15,2026-02-18 12:00,Lower back pain
+273,140,11,4,ambulatory,2026-02-18 11:15,2026-02-18 11:45,Post-surgical rehab
+274,198,3,1,ambulatory,2026-02-18 13:45,2026-02-18 14:05,Hypertension follow-up
+275,137,14,5,urgent,2026-02-18 12:45,2026-02-18 13:00,Sprain/strain
+276,131,12,4,ambulatory,2026-02-18 14:15,2026-02-18 14:30,Post-surgical rehab
+277,61,16,6,ambulatory,2026-02-18 14:45,2026-02-18 15:05,X-ray order
+278,117,14,5,urgent,2026-02-18 14:15,2026-02-18 15:15,Minor fracture eval
+279,217,2,1,wellness,2026-02-18 11:30,2026-02-18 12:00,Medication refill
+280,177,2,1,ambulatory,2026-02-18 10:30,2026-02-18 11:30,Hypertension follow-up
+281,157,14,5,emergency,2026-02-18 08:30,2026-02-18 09:00,Sprain/strain
+282,147,7,3,ambulatory,2026-02-18 12:00,2026-02-18 13:00,Anxiety management
+283,4,5,2,wellness,2026-02-19 09:15,2026-02-19 10:00,Asthma follow-up
+284,9,3,1,ambulatory,2026-02-19 09:15,2026-02-19 09:35,Diabetes management
+285,216,3,1,ambulatory,2026-02-19 08:30,2026-02-19 09:00,Hypertension follow-up
+286,60,9,3,ambulatory,2026-02-19 14:45,2026-02-19 15:15,Anxiety management
+287,11,18,6,ambulatory,2026-02-19 09:30,2026-02-19 09:45,Imaging follow-up
+288,101,6,2,ambulatory,2026-02-19 11:15,2026-02-19 12:00,Ear infection
+289,176,1,1,ambulatory,2026-02-19 13:15,2026-02-19 13:30,Annual physical
+290,214,18,6,ambulatory,2026-02-19 11:00,2026-02-19 11:15,X-ray order
+291,76,14,5,urgent,2026-02-19 15:00,2026-02-19 15:30,Minor fracture eval
+292,100,14,5,urgent,2026-02-19 13:00,2026-02-19 13:20,Minor fracture eval
+293,37,13,5,urgent,2026-02-19 16:45,2026-02-19 17:45,Laceration
+294,5,14,5,emergency,2026-02-19 15:15,2026-02-19 16:15,Acute respiratory infection
+295,198,3,1,ambulatory,2026-02-19 15:45,2026-02-19 16:00,Hypertension follow-up
+296,166,8,3,ambulatory,2026-02-19 10:00,2026-02-19 10:15,Initial intake assessment
+297,62,3,1,ambulatory,2026-02-19 14:00,2026-02-19 14:15,Annual physical
+298,104,13,5,urgent,2026-02-20 09:15,2026-02-20 09:35,Laceration
+299,121,7,3,wellness,2026-02-20 08:15,2026-02-20 09:00,Depression follow-up
+300,17,12,4,ambulatory,2026-02-20 09:00,2026-02-20 09:45,Lower back pain
+301,148,6,2,wellness,2026-02-20 10:30,2026-02-20 11:00,Well-child visit
+302,44,2,1,wellness,2026-02-20 13:15,2026-02-20 13:35,Medication refill
+303,21,2,1,ambulatory,2026-02-20 08:15,2026-02-20 08:35,Medication refill
+304,116,15,5,urgent,2026-02-20 14:15,2026-02-20 14:45,Fever eval
+305,143,4,2,ambulatory,2026-02-20 11:00,2026-02-20 11:30,Sports physical
+306,204,1,1,ambulatory,2026-02-20 15:45,2026-02-20 16:15,Hypertension follow-up
+307,12,5,2,ambulatory,2026-02-20 08:15,2026-02-20 09:15,Asthma follow-up
+308,51,11,4,ambulatory,2026-02-20 13:15,2026-02-20 14:00,Lower back pain
+309,121,16,6,ambulatory,2026-02-20 15:00,2026-02-20 15:20,Imaging follow-up
+310,162,7,3,ambulatory,2026-02-20 12:15,2026-02-20 13:00,Anxiety management
+311,195,7,3,ambulatory,2026-02-20 11:30,2026-02-20 11:50,Depression follow-up
+312,72,11,4,ambulatory,2026-02-20 08:45,2026-02-20 09:45,Balance/fall prevention
+313,9,9,3,ambulatory,2026-02-20 16:45,2026-02-20 17:30,Initial intake assessment
+314,92,16,6,ambulatory,2026-02-20 12:15,2026-02-20 13:15,Pre-op labs
+315,117,13,5,urgent,2026-02-20 15:15,2026-02-20 16:15,Sprain/strain
+316,179,5,2,wellness,2026-02-23 16:15,2026-02-23 16:30,Sports physical
+317,120,2,1,wellness,2026-02-23 08:30,2026-02-23 09:30,Medication refill
+318,189,2,1,wellness,2026-02-23 11:15,2026-02-23 11:45,Annual physical
+319,129,5,2,wellness,2026-02-23 09:45,2026-02-23 10:30,Ear infection
+320,46,2,1,ambulatory,2026-02-23 09:00,2026-02-23 09:30,Hypertension follow-up
+321,139,9,3,ambulatory,2026-02-23 15:30,2026-02-23 16:30,Depression follow-up
+322,149,14,5,urgent,2026-02-23 13:30,2026-02-23 14:00,Acute respiratory infection
+323,59,2,1,ambulatory,2026-02-23 13:30,2026-02-23 14:30,Hypertension follow-up
+324,138,18,6,ambulatory,2026-02-23 12:15,2026-02-23 13:15,Imaging follow-up
+325,95,2,1,ambulatory,2026-02-23 11:00,2026-02-23 12:00,Annual physical
+326,104,4,2,ambulatory,2026-02-23 10:45,2026-02-23 11:45,Well-child visit
+327,187,15,5,urgent,2026-02-23 15:30,2026-02-23 16:30,Laceration
+328,135,15,5,emergency,2026-02-23 11:30,2026-02-23 12:30,Sprain/strain
+329,99,17,6,ambulatory,2026-02-24 13:00,2026-02-24 13:45,Pre-op labs
+330,42,14,5,urgent,2026-02-24 14:45,2026-02-24 15:00,Sprain/strain
+331,107,14,5,urgent,2026-02-24 10:45,2026-02-24 11:00,Acute respiratory infection
+332,214,14,5,urgent,2026-02-24 12:45,2026-02-24 13:00,Acute respiratory infection
+333,107,14,5,urgent,2026-02-24 10:45,2026-02-24 11:45,Laceration
+334,67,8,3,wellness,2026-02-24 15:00,2026-02-24 15:20,Medication management
+335,35,6,2,ambulatory,2026-02-24 10:00,2026-02-24 11:00,Ear infection
+336,47,3,1,ambulatory,2026-02-24 10:30,2026-02-24 10:50,Annual physical
+337,73,3,1,ambulatory,2026-02-24 15:45,2026-02-24 16:05,Diabetes management
+338,158,15,5,urgent,2026-02-24 16:00,2026-02-24 16:30,Acute respiratory infection
+339,153,2,1,wellness,2026-02-24 13:15,2026-02-24 13:45,Hypertension follow-up
+340,11,8,3,ambulatory,2026-02-24 09:00,2026-02-24 09:15,Anxiety management
+341,3,3,1,ambulatory,2026-02-24 09:15,2026-02-24 09:45,Diabetes management
+342,91,17,6,ambulatory,2026-02-24 10:15,2026-02-24 10:35,Imaging follow-up
+343,2,18,6,ambulatory,2026-02-24 09:15,2026-02-24 09:45,X-ray order
+344,55,17,6,ambulatory,2026-02-24 16:15,2026-02-24 17:00,X-ray order
+345,173,17,6,ambulatory,2026-02-24 09:45,2026-02-24 10:05,Routine bloodwork
+346,87,4,2,ambulatory,2026-02-25 14:00,2026-02-25 14:45,Asthma follow-up
+347,125,14,5,urgent,2026-02-25 16:30,2026-02-25 16:45,Minor fracture eval
+348,213,1,1,ambulatory,2026-02-25 15:00,2026-02-25 15:15,Cold/flu symptoms
+349,197,15,5,urgent,2026-02-25 15:45,2026-02-25 16:00,Fever eval
+350,99,16,6,ambulatory,2026-02-25 15:30,2026-02-25 15:50,Imaging follow-up
+351,80,7,3,wellness,2026-02-25 14:45,2026-02-25 15:45,Initial intake assessment
+352,127,2,1,wellness,2026-02-25 14:30,2026-02-25 14:50,Annual physical
+353,208,17,6,ambulatory,2026-02-25 08:30,2026-02-25 08:50,Routine bloodwork
+354,80,6,2,wellness,2026-02-25 09:00,2026-02-25 09:15,Ear infection
+355,82,7,3,ambulatory,2026-02-25 14:30,2026-02-25 14:50,Depression follow-up
+356,112,11,4,ambulatory,2026-02-25 11:45,2026-02-25 12:15,Sports injury recovery
+357,206,17,6,ambulatory,2026-02-25 11:00,2026-02-25 11:45,Pre-op labs
+358,167,1,1,ambulatory,2026-02-25 16:30,2026-02-25 17:30,Medication refill
+359,196,12,4,ambulatory,2026-02-25 16:15,2026-02-25 17:15,Lower back pain
+360,145,11,4,ambulatory,2026-02-26 08:15,2026-02-26 08:45,Sports injury recovery
+361,163,16,6,ambulatory,2026-02-26 11:45,2026-02-26 12:00,X-ray order
+362,63,1,1,ambulatory,2026-02-26 15:45,2026-02-26 16:05,Cold/flu symptoms
+363,169,2,1,wellness,2026-02-26 10:00,2026-02-26 10:15,Cold/flu symptoms
+364,94,17,6,ambulatory,2026-02-26 09:45,2026-02-26 10:30,Imaging follow-up
+365,154,16,6,ambulatory,2026-02-26 09:30,2026-02-26 09:45,X-ray order
+366,113,2,1,ambulatory,2026-02-26 12:00,2026-02-26 12:30,Annual physical
+367,93,16,6,ambulatory,2026-02-26 15:30,2026-02-26 16:30,Imaging follow-up
+368,180,6,2,ambulatory,2026-02-26 09:15,2026-02-26 09:35,Well-child visit
+369,113,4,2,wellness,2026-02-26 13:45,2026-02-26 14:30,Well-child visit
+370,212,16,6,ambulatory,2026-02-26 10:30,2026-02-26 10:50,Routine bloodwork
+371,22,6,2,ambulatory,2026-02-26 10:15,2026-02-26 10:35,Sports physical
+372,97,5,2,wellness,2026-02-26 11:00,2026-02-26 11:30,Sports physical
+373,13,13,5,urgent,2026-02-26 14:45,2026-02-26 15:30,Fever eval
+374,31,14,5,urgent,2026-02-26 11:15,2026-02-26 11:35,Minor fracture eval
+375,75,13,5,urgent,2026-02-26 12:15,2026-02-26 12:35,Laceration
+376,102,18,6,ambulatory,2026-02-26 11:45,2026-02-26 12:00,Routine bloodwork
+377,121,4,2,ambulatory,2026-02-26 08:00,2026-02-26 09:00,Asthma follow-up
+378,67,1,1,ambulatory,2026-02-26 16:45,2026-02-26 17:05,Cold/flu symptoms
+379,12,5,2,ambulatory,2026-02-26 15:30,2026-02-26 16:15,Ear infection
+380,189,17,6,ambulatory,2026-02-26 15:15,2026-02-26 15:35,X-ray order
+381,11,17,6,ambulatory,2026-02-26 15:30,2026-02-26 15:45,X-ray order
+382,47,2,1,ambulatory,2026-02-27 16:30,2026-02-27 16:50,Medication refill
+383,25,15,5,urgent,2026-02-27 13:00,2026-02-27 13:15,Acute respiratory infection
+384,169,3,1,ambulatory,2026-02-27 15:30,2026-02-27 15:50,Hypertension follow-up
+385,73,18,6,ambulatory,2026-02-27 13:00,2026-02-27 13:20,Imaging follow-up
+386,23,5,2,ambulatory,2026-02-27 11:15,2026-02-27 12:00,Ear infection
+387,176,14,5,urgent,2026-02-27 10:30,2026-02-27 11:00,Sprain/strain
+388,24,11,4,ambulatory,2026-02-27 14:30,2026-02-27 15:15,Post-surgical rehab
+389,176,15,5,urgent,2026-02-27 10:45,2026-02-27 11:15,Laceration
+390,176,1,1,ambulatory,2026-02-27 11:45,2026-02-27 12:45,Hypertension follow-up
+391,119,7,3,wellness,2026-02-27 12:30,2026-02-27 12:50,Anxiety management
+392,22,16,6,ambulatory,2026-02-27 14:30,2026-02-27 14:50,X-ray order
+393,67,3,1,wellness,2026-02-27 09:45,2026-02-27 10:30,Hypertension follow-up
+394,191,15,5,urgent,2026-02-27 15:30,2026-02-27 15:45,Minor fracture eval
+395,179,1,1,ambulatory,2026-02-27 08:15,2026-02-27 09:00,Diabetes management
+396,6,2,1,ambulatory,2026-02-27 10:15,2026-02-27 10:35,Cold/flu symptoms
+397,14,5,2,ambulatory,2026-02-27 08:00,2026-02-27 08:45,Asthma follow-up
+398,186,9,3,wellness,2026-02-27 15:15,2026-02-27 15:45,Initial intake assessment
+399,122,17,6,ambulatory,2026-02-27 09:45,2026-02-27 10:05,Imaging follow-up
+400,60,8,3,wellness,2026-02-27 11:30,2026-02-27 12:15,Medication management
+401,160,16,6,ambulatory,2026-03-02 11:30,2026-03-02 12:30,X-ray order
+402,127,8,3,ambulatory,2026-03-02 11:15,2026-03-02 12:15,Medication management
+403,88,2,1,ambulatory,2026-03-02 08:30,2026-03-02 08:45,Medication refill
+404,157,18,6,ambulatory,2026-03-02 09:00,2026-03-02 09:45,Imaging follow-up
+405,188,14,5,urgent,2026-03-02 09:15,2026-03-02 09:35,Sprain/strain
+406,93,5,2,wellness,2026-03-02 11:15,2026-03-02 12:00,Asthma follow-up
+407,204,18,6,ambulatory,2026-03-02 13:00,2026-03-02 13:45,Imaging follow-up
+408,112,16,6,ambulatory,2026-03-02 08:45,2026-03-02 09:45,Pre-op labs
+409,157,6,2,ambulatory,2026-03-02 14:45,2026-03-02 15:15,Sports physical
+410,86,3,1,ambulatory,2026-03-02 10:30,2026-03-02 10:45,Medication refill
+411,152,18,6,ambulatory,2026-03-02 12:15,2026-03-02 13:15,Imaging follow-up
+412,194,4,2,wellness,2026-03-02 09:45,2026-03-02 10:15,Asthma follow-up
+413,201,6,2,wellness,2026-03-02 10:45,2026-03-02 11:00,Well-child visit
+414,55,17,6,ambulatory,2026-03-02 15:00,2026-03-02 15:45,Pre-op labs
+415,126,18,6,ambulatory,2026-03-02 14:15,2026-03-02 14:35,Routine bloodwork
+416,192,7,3,ambulatory,2026-03-02 16:30,2026-03-02 17:30,Initial intake assessment
+417,40,6,2,ambulatory,2026-03-02 13:30,2026-03-02 14:30,Ear infection
+418,12,10,4,ambulatory,2026-03-02 14:45,2026-03-02 15:05,Balance/fall prevention
+419,195,8,3,ambulatory,2026-03-02 15:15,2026-03-02 15:45,Initial intake assessment
+420,114,12,4,ambulatory,2026-03-02 12:00,2026-03-02 12:20,Post-surgical rehab
+421,148,18,6,ambulatory,2026-03-02 08:15,2026-03-02 08:35,Imaging follow-up
+422,114,15,5,emergency,2026-03-03 09:30,2026-03-03 10:30,Sprain/strain
+423,24,5,2,ambulatory,2026-03-03 09:15,2026-03-03 09:35,Ear infection
+424,47,2,1,ambulatory,2026-03-03 08:30,2026-03-03 08:45,Annual physical
+425,193,1,1,wellness,2026-03-03 11:45,2026-03-03 12:30,Medication refill
+426,124,10,4,ambulatory,2026-03-03 08:45,2026-03-03 09:15,Lower back pain
+427,22,11,4,ambulatory,2026-03-03 16:15,2026-03-03 17:15,Lower back pain
+428,70,17,6,ambulatory,2026-03-03 12:45,2026-03-03 13:15,Routine bloodwork
+429,32,3,1,ambulatory,2026-03-03 16:30,2026-03-03 17:00,Diabetes management
+430,1,15,5,urgent,2026-03-03 15:00,2026-03-03 15:15,Fever eval
+431,114,12,4,ambulatory,2026-03-03 09:30,2026-03-03 09:45,Balance/fall prevention
+432,114,7,3,ambulatory,2026-03-03 11:00,2026-03-03 11:45,Anxiety management
+433,102,18,6,ambulatory,2026-03-03 09:30,2026-03-03 09:45,X-ray order
+434,220,3,1,ambulatory,2026-03-03 16:30,2026-03-03 16:45,Hypertension follow-up
+435,111,17,6,ambulatory,2026-03-03 14:30,2026-03-03 14:50,Routine bloodwork
+436,137,5,2,ambulatory,2026-03-04 13:00,2026-03-04 13:20,Well-child visit
+437,80,2,1,ambulatory,2026-03-04 09:00,2026-03-04 09:45,Hypertension follow-up
+438,214,5,2,ambulatory,2026-03-04 13:15,2026-03-04 13:30,Sports physical
+439,97,16,6,ambulatory,2026-03-04 13:00,2026-03-04 13:15,Pre-op labs
+440,144,1,1,ambulatory,2026-03-04 12:45,2026-03-04 13:30,Medication refill
+441,159,15,5,urgent,2026-03-04 09:30,2026-03-04 09:45,Laceration
+442,152,10,4,ambulatory,2026-03-04 11:15,2026-03-04 11:35,Balance/fall prevention
+443,16,4,2,ambulatory,2026-03-04 12:45,2026-03-04 13:45,Ear infection
+444,3,5,2,wellness,2026-03-04 10:00,2026-03-04 10:20,Well-child visit
+445,49,14,5,urgent,2026-03-04 15:45,2026-03-04 16:05,Sprain/strain
+446,127,1,1,ambulatory,2026-03-04 08:15,2026-03-04 09:00,Cold/flu symptoms
+447,37,1,1,ambulatory,2026-03-04 15:15,2026-03-04 15:35,Annual physical
+448,185,2,1,ambulatory,2026-03-04 13:15,2026-03-04 14:00,Hypertension follow-up
+449,87,13,5,urgent,2026-03-05 11:30,2026-03-05 11:50,Laceration
+450,137,13,5,urgent,2026-03-05 14:30,2026-03-05 14:50,Minor fracture eval
+451,33,2,1,wellness,2026-03-05 15:15,2026-03-05 16:15,Cold/flu symptoms
+452,119,6,2,ambulatory,2026-03-05 13:30,2026-03-05 14:30,Asthma follow-up
+453,57,13,5,urgent,2026-03-05 11:45,2026-03-05 12:45,Acute respiratory infection
+454,76,1,1,ambulatory,2026-03-05 16:30,2026-03-05 17:15,Hypertension follow-up
+455,20,6,2,ambulatory,2026-03-05 09:30,2026-03-05 09:45,Sports physical
+456,140,1,1,ambulatory,2026-03-05 13:15,2026-03-05 14:15,Annual physical
+457,198,16,6,ambulatory,2026-03-05 12:30,2026-03-05 13:15,X-ray order
+458,192,6,2,ambulatory,2026-03-05 15:15,2026-03-05 15:35,Asthma follow-up
+459,107,9,3,ambulatory,2026-03-05 15:45,2026-03-05 16:30,Depression follow-up
+460,87,14,5,urgent,2026-03-05 11:45,2026-03-05 12:05,Fever eval
+461,146,2,1,wellness,2026-03-05 14:45,2026-03-05 15:15,Cold/flu symptoms
+462,9,13,5,emergency,2026-03-05 15:00,2026-03-05 15:45,Acute respiratory infection
+463,3,3,1,ambulatory,2026-03-05 13:45,2026-03-05 14:05,Hypertension follow-up
+464,80,1,1,ambulatory,2026-03-05 15:15,2026-03-05 15:30,Annual physical
+465,17,17,6,ambulatory,2026-03-05 14:15,2026-03-05 14:30,Routine bloodwork
+466,89,5,2,wellness,2026-03-05 12:45,2026-03-05 13:30,Asthma follow-up
+467,47,6,2,wellness,2026-03-05 09:45,2026-03-05 10:00,Immunizations
+468,56,15,5,urgent,2026-03-05 15:45,2026-03-05 16:05,Sprain/strain
+469,12,6,2,ambulatory,2026-03-05 08:00,2026-03-05 08:15,Asthma follow-up
+470,182,1,1,ambulatory,2026-03-05 13:45,2026-03-05 14:15,Hypertension follow-up
+471,20,13,5,urgent,2026-03-06 08:30,2026-03-06 09:15,Laceration
+472,14,14,5,urgent,2026-03-06 08:00,2026-03-06 08:45,Laceration
+473,87,1,1,ambulatory,2026-03-06 09:15,2026-03-06 09:45,Hypertension follow-up
+474,49,6,2,wellness,2026-03-06 11:45,2026-03-06 12:05,Immunizations
+475,81,3,1,ambulatory,2026-03-06 14:15,2026-03-06 15:00,Hypertension follow-up
+476,128,6,2,ambulatory,2026-03-06 16:15,2026-03-06 16:35,Sports physical
+477,82,15,5,urgent,2026-03-06 15:00,2026-03-06 15:20,Fever eval
+478,80,1,1,ambulatory,2026-03-06 14:15,2026-03-06 14:35,Hypertension follow-up
+479,10,6,2,ambulatory,2026-03-06 15:30,2026-03-06 16:00,Well-child visit
+480,139,4,2,ambulatory,2026-03-06 11:15,2026-03-06 11:30,Sports physical
+481,50,16,6,ambulatory,2026-03-06 08:15,2026-03-06 09:00,Routine bloodwork
+482,43,14,5,urgent,2026-03-06 11:15,2026-03-06 11:30,Acute respiratory infection
+483,102,17,6,ambulatory,2026-03-06 14:15,2026-03-06 15:00,Routine bloodwork
+484,195,7,3,ambulatory,2026-03-06 16:15,2026-03-06 16:45,Initial intake assessment
+485,124,6,2,ambulatory,2026-03-06 13:15,2026-03-06 14:00,Immunizations
+486,191,17,6,ambulatory,2026-03-09 13:45,2026-03-09 14:45,Pre-op labs
+487,66,2,1,wellness,2026-03-09 13:45,2026-03-09 14:30,Annual physical
+488,162,2,1,wellness,2026-03-09 08:15,2026-03-09 08:30,Cold/flu symptoms
+489,165,1,1,wellness,2026-03-09 14:45,2026-03-09 15:15,Hypertension follow-up
+490,137,15,5,urgent,2026-03-09 14:30,2026-03-09 15:15,Acute respiratory infection
+491,135,14,5,urgent,2026-03-09 14:30,2026-03-09 15:30,Sprain/strain
+492,146,17,6,ambulatory,2026-03-09 11:15,2026-03-09 11:35,Routine bloodwork
+493,97,1,1,ambulatory,2026-03-09 12:00,2026-03-09 12:15,Medication refill
+494,171,4,2,wellness,2026-03-09 08:00,2026-03-09 09:00,Asthma follow-up
+495,175,8,3,ambulatory,2026-03-09 13:15,2026-03-09 13:30,Anxiety management
+496,103,9,3,wellness,2026-03-09 10:00,2026-03-09 11:00,Depression follow-up
+497,1,7,3,wellness,2026-03-09 13:00,2026-03-09 13:45,Initial intake assessment
+498,90,13,5,urgent,2026-03-09 14:45,2026-03-09 15:05,Minor fracture eval
+499,180,3,1,ambulatory,2026-03-09 09:45,2026-03-09 10:15,Hypertension follow-up
+500,148,13,5,urgent,2026-03-09 09:30,2026-03-09 09:45,Minor fracture eval
+501,23,4,2,ambulatory,2026-03-09 11:00,2026-03-09 12:00,Ear infection
+502,109,2,1,ambulatory,2026-03-10 13:15,2026-03-10 14:15,Medication refill
+503,38,17,6,ambulatory,2026-03-10 12:15,2026-03-10 12:45,Imaging follow-up
+504,32,9,3,ambulatory,2026-03-10 15:15,2026-03-10 15:30,Medication management
+505,220,16,6,ambulatory,2026-03-10 15:45,2026-03-10 16:15,Pre-op labs
+506,19,14,5,urgent,2026-03-10 16:30,2026-03-10 17:00,Acute respiratory infection
+507,148,7,3,ambulatory,2026-03-10 15:45,2026-03-10 16:45,Depression follow-up
+508,14,16,6,ambulatory,2026-03-10 09:30,2026-03-10 10:15,X-ray order
+509,153,9,3,ambulatory,2026-03-10 14:00,2026-03-10 14:15,Initial intake assessment
+510,123,12,4,ambulatory,2026-03-10 12:00,2026-03-10 12:15,Balance/fall prevention
+511,204,6,2,wellness,2026-03-10 10:45,2026-03-10 11:05,Asthma follow-up
+512,47,16,6,ambulatory,2026-03-10 10:00,2026-03-10 10:20,X-ray order
+513,218,2,1,ambulatory,2026-03-10 09:00,2026-03-10 09:30,Annual physical
+514,134,8,3,ambulatory,2026-03-10 16:15,2026-03-10 16:35,Anxiety management
+515,142,18,6,ambulatory,2026-03-10 11:30,2026-03-10 11:50,Pre-op labs
+516,66,7,3,wellness,2026-03-10 14:15,2026-03-10 15:00,Depression follow-up
+517,70,10,4,ambulatory,2026-03-10 09:00,2026-03-10 09:30,Post-surgical rehab
+518,71,1,1,ambulatory,2026-03-10 09:45,2026-03-10 10:45,Diabetes management
+519,25,14,5,urgent,2026-03-10 16:30,2026-03-10 17:15,Minor fracture eval
+520,174,6,2,wellness,2026-03-11 16:45,2026-03-11 17:30,Ear infection
+521,14,11,4,ambulatory,2026-03-11 13:15,2026-03-11 14:15,Balance/fall prevention
+522,134,5,2,wellness,2026-03-11 11:30,2026-03-11 11:45,Ear infection
+523,43,13,5,urgent,2026-03-11 08:00,2026-03-11 09:00,Sprain/strain
+524,2,3,1,wellness,2026-03-11 14:30,2026-03-11 14:50,Medication refill
+525,132,1,1,ambulatory,2026-03-11 08:45,2026-03-11 09:15,Diabetes management
+526,68,5,2,ambulatory,2026-03-11 08:45,2026-03-11 09:00,Sports physical
+527,197,7,3,wellness,2026-03-11 12:15,2026-03-11 12:30,Medication management
+528,215,18,6,ambulatory,2026-03-11 15:15,2026-03-11 15:45,X-ray order
+529,108,2,1,wellness,2026-03-11 13:00,2026-03-11 14:00,Diabetes management
+530,183,9,3,ambulatory,2026-03-11 13:45,2026-03-11 14:05,Anxiety management
+531,197,4,2,wellness,2026-03-11 11:00,2026-03-11 11:30,Asthma follow-up
+532,64,2,1,wellness,2026-03-12 10:15,2026-03-12 10:30,Hypertension follow-up
+533,157,15,5,urgent,2026-03-12 10:15,2026-03-12 10:45,Sprain/strain
+534,135,2,1,ambulatory,2026-03-12 11:15,2026-03-12 11:45,Cold/flu symptoms
+535,183,5,2,ambulatory,2026-03-12 11:30,2026-03-12 12:00,Well-child visit
+536,26,9,3,ambulatory,2026-03-12 10:30,2026-03-12 11:30,Medication management
+537,85,13,5,urgent,2026-03-12 13:30,2026-03-12 13:45,Minor fracture eval
+538,162,16,6,ambulatory,2026-03-12 09:00,2026-03-12 09:30,Imaging follow-up
+539,137,13,5,urgent,2026-03-12 10:00,2026-03-12 10:45,Sprain/strain
+540,135,2,1,wellness,2026-03-12 08:15,2026-03-12 09:00,Diabetes management
+541,20,15,5,urgent,2026-03-12 10:45,2026-03-12 11:05,Minor fracture eval
+542,179,12,4,ambulatory,2026-03-12 08:45,2026-03-12 09:45,Lower back pain
+543,35,2,1,ambulatory,2026-03-12 08:15,2026-03-12 08:45,Diabetes management
+544,141,3,1,ambulatory,2026-03-12 10:45,2026-03-12 11:15,Annual physical
+545,138,1,1,wellness,2026-03-12 09:45,2026-03-12 10:15,Annual physical
+546,207,3,1,ambulatory,2026-03-12 10:45,2026-03-12 11:05,Cold/flu symptoms
+547,49,7,3,wellness,2026-03-12 15:15,2026-03-12 15:30,Depression follow-up
+548,63,2,1,ambulatory,2026-03-12 14:00,2026-03-12 14:15,Diabetes management
+549,12,15,5,urgent,2026-03-12 10:15,2026-03-12 10:30,Fever eval
+550,195,2,1,wellness,2026-03-12 15:15,2026-03-12 16:15,Cold/flu symptoms
+551,27,1,1,wellness,2026-03-13 12:00,2026-03-13 12:45,Cold/flu symptoms
+552,168,5,2,ambulatory,2026-03-13 11:45,2026-03-13 12:15,Asthma follow-up
+553,86,6,2,ambulatory,2026-03-13 13:00,2026-03-13 14:00,Immunizations
+554,39,2,1,wellness,2026-03-13 12:30,2026-03-13 12:45,Hypertension follow-up
+555,200,16,6,ambulatory,2026-03-13 10:30,2026-03-13 11:00,Pre-op labs
+556,33,2,1,ambulatory,2026-03-13 14:30,2026-03-13 15:15,Cold/flu symptoms
+557,138,8,3,wellness,2026-03-13 15:15,2026-03-13 15:30,Depression follow-up
+558,93,1,1,wellness,2026-03-13 15:15,2026-03-13 15:35,Hypertension follow-up
+559,108,18,6,ambulatory,2026-03-13 11:15,2026-03-13 12:00,Routine bloodwork
+560,28,6,2,wellness,2026-03-13 09:45,2026-03-13 10:05,Well-child visit
+561,213,3,1,ambulatory,2026-03-13 10:15,2026-03-13 11:00,Diabetes management
+562,4,15,5,urgent,2026-03-13 12:00,2026-03-13 12:45,Laceration
+563,142,14,5,urgent,2026-03-13 12:30,2026-03-13 13:15,Minor fracture eval
+564,101,10,4,ambulatory,2026-03-13 10:00,2026-03-13 10:15,Balance/fall prevention
+565,8,5,2,ambulatory,2026-03-16 12:15,2026-03-16 12:30,Immunizations
+566,3,5,2,ambulatory,2026-03-16 12:45,2026-03-16 13:30,Asthma follow-up
+567,151,14,5,urgent,2026-03-16 08:30,2026-03-16 09:30,Minor fracture eval
+568,156,12,4,ambulatory,2026-03-16 16:30,2026-03-16 16:45,Sports injury recovery
+569,100,18,6,ambulatory,2026-03-16 11:15,2026-03-16 11:35,Routine bloodwork
+570,42,5,2,ambulatory,2026-03-16 12:30,2026-03-16 13:15,Immunizations
+571,32,13,5,urgent,2026-03-16 15:00,2026-03-16 15:30,Acute respiratory infection
+572,130,2,1,ambulatory,2026-03-16 12:00,2026-03-16 12:45,Hypertension follow-up
+573,219,2,1,ambulatory,2026-03-16 11:45,2026-03-16 12:00,Hypertension follow-up
+574,28,3,1,ambulatory,2026-03-16 14:15,2026-03-16 14:30,Hypertension follow-up
+575,140,4,2,ambulatory,2026-03-16 15:15,2026-03-16 16:00,Sports physical
+576,14,16,6,ambulatory,2026-03-16 11:00,2026-03-16 11:15,X-ray order
+577,183,8,3,ambulatory,2026-03-17 14:15,2026-03-17 14:45,Anxiety management
+578,108,2,1,ambulatory,2026-03-17 15:15,2026-03-17 15:30,Cold/flu symptoms
+579,158,15,5,urgent,2026-03-17 10:30,2026-03-17 11:00,Minor fracture eval
+580,105,3,1,ambulatory,2026-03-17 16:00,2026-03-17 16:45,Diabetes management
+581,154,13,5,urgent,2026-03-17 14:15,2026-03-17 14:45,Laceration
+582,180,7,3,ambulatory,2026-03-17 15:45,2026-03-17 16:30,Initial intake assessment
+583,142,7,3,wellness,2026-03-17 10:45,2026-03-17 11:00,Anxiety management
+584,27,11,4,ambulatory,2026-03-17 15:00,2026-03-17 15:20,Sports injury recovery
+585,98,15,5,urgent,2026-03-17 09:15,2026-03-17 09:35,Laceration
+586,169,8,3,ambulatory,2026-03-17 12:45,2026-03-17 13:15,Anxiety management
+587,210,18,6,ambulatory,2026-03-17 13:30,2026-03-17 13:45,Pre-op labs
+588,110,15,5,urgent,2026-03-17 10:45,2026-03-17 11:05,Minor fracture eval
+589,148,9,3,ambulatory,2026-03-17 12:15,2026-03-17 13:15,Anxiety management
+590,163,14,5,urgent,2026-03-17 13:15,2026-03-17 13:45,Acute respiratory infection
+591,161,1,1,ambulatory,2026-03-17 09:00,2026-03-17 09:20,Medication refill
+592,19,14,5,urgent,2026-03-17 15:00,2026-03-17 15:20,Acute respiratory infection
+593,219,12,4,ambulatory,2026-03-18 08:00,2026-03-18 08:15,Lower back pain
+594,138,1,1,ambulatory,2026-03-18 16:15,2026-03-18 16:35,Annual physical
+595,33,3,1,ambulatory,2026-03-18 12:45,2026-03-18 13:45,Hypertension follow-up
+596,65,16,6,ambulatory,2026-03-18 10:15,2026-03-18 11:00,X-ray order
+597,109,8,3,wellness,2026-03-18 12:30,2026-03-18 13:00,Initial intake assessment
+598,116,16,6,ambulatory,2026-03-18 10:00,2026-03-18 10:45,Imaging follow-up
+599,208,1,1,ambulatory,2026-03-18 14:15,2026-03-18 14:30,Hypertension follow-up
+600,3,3,1,wellness,2026-03-18 13:15,2026-03-18 14:15,Annual physical
+601,72,3,1,wellness,2026-03-18 09:45,2026-03-18 10:30,Cold/flu symptoms
+602,2,15,5,urgent,2026-03-18 15:30,2026-03-18 16:15,Laceration
+603,186,2,1,ambulatory,2026-03-18 12:30,2026-03-18 13:15,Cold/flu symptoms
+604,127,5,2,wellness,2026-03-18 09:30,2026-03-18 09:45,Well-child visit
+605,186,18,6,ambulatory,2026-03-18 14:15,2026-03-18 14:30,Routine bloodwork
+606,20,2,1,ambulatory,2026-03-18 13:45,2026-03-18 14:05,Diabetes management
+607,164,14,5,urgent,2026-03-18 15:00,2026-03-18 15:15,Sprain/strain
+608,183,5,2,ambulatory,2026-03-18 13:15,2026-03-18 13:30,Well-child visit
+609,210,14,5,urgent,2026-03-18 14:15,2026-03-18 15:15,Sprain/strain
+610,57,1,1,ambulatory,2026-03-18 14:45,2026-03-18 15:30,Medication refill
+611,148,2,1,wellness,2026-03-18 09:15,2026-03-18 09:45,Hypertension follow-up
+612,111,11,4,ambulatory,2026-03-18 11:15,2026-03-18 11:45,Post-surgical rehab
+613,98,3,1,wellness,2026-03-18 14:15,2026-03-18 14:30,Cold/flu symptoms
+614,29,1,1,ambulatory,2026-03-19 09:00,2026-03-19 09:30,Medication refill
+615,180,6,2,wellness,2026-03-19 14:45,2026-03-19 15:15,Ear infection
+616,48,13,5,emergency,2026-03-19 13:45,2026-03-19 14:00,Minor fracture eval
+617,153,1,1,ambulatory,2026-03-19 15:00,2026-03-19 15:20,Diabetes management
+618,116,14,5,urgent,2026-03-19 15:30,2026-03-19 16:00,Laceration
+619,199,15,5,urgent,2026-03-19 15:00,2026-03-19 15:45,Minor fracture eval
+620,190,3,1,wellness,2026-03-19 14:30,2026-03-19 15:30,Hypertension follow-up
+621,90,3,1,ambulatory,2026-03-19 14:45,2026-03-19 15:45,Annual physical
+622,146,2,1,ambulatory,2026-03-19 12:00,2026-03-19 13:00,Cold/flu symptoms
+623,91,5,2,wellness,2026-03-19 08:00,2026-03-19 08:20,Ear infection
+624,75,7,3,ambulatory,2026-03-19 08:45,2026-03-19 09:15,Initial intake assessment
+625,145,10,4,ambulatory,2026-03-19 14:30,2026-03-19 15:00,Lower back pain
+626,146,5,2,wellness,2026-03-19 15:15,2026-03-19 16:00,Well-child visit
+627,108,5,2,ambulatory,2026-03-19 15:00,2026-03-19 15:20,Asthma follow-up
+628,104,16,6,ambulatory,2026-03-19 08:45,2026-03-19 09:00,Imaging follow-up
+629,211,4,2,ambulatory,2026-03-19 15:30,2026-03-19 16:30,Sports physical
+630,35,14,5,urgent,2026-03-19 11:15,2026-03-19 11:35,Laceration
+631,114,3,1,ambulatory,2026-03-20 08:00,2026-03-20 09:00,Cold/flu symptoms
+632,163,1,1,ambulatory,2026-03-20 10:15,2026-03-20 10:45,Diabetes management
+633,127,15,5,urgent,2026-03-20 13:30,2026-03-20 14:00,Minor fracture eval
+634,100,9,3,ambulatory,2026-03-20 12:00,2026-03-20 12:45,Anxiety management
+635,92,4,2,wellness,2026-03-20 16:15,2026-03-20 17:15,Asthma follow-up
+636,220,6,2,ambulatory,2026-03-20 12:30,2026-03-20 13:30,Asthma follow-up
+637,199,15,5,urgent,2026-03-20 16:30,2026-03-20 16:50,Laceration
+638,28,6,2,ambulatory,2026-03-20 15:30,2026-03-20 15:45,Well-child visit
+639,10,10,4,ambulatory,2026-03-20 09:45,2026-03-20 10:30,Sports injury recovery
+640,147,3,1,wellness,2026-03-20 11:15,2026-03-20 12:15,Cold/flu symptoms
+641,23,13,5,urgent,2026-03-20 08:00,2026-03-20 09:00,Acute respiratory infection
+642,147,7,3,ambulatory,2026-03-20 16:30,2026-03-20 16:45,Anxiety management
+643,100,17,6,ambulatory,2026-03-20 13:00,2026-03-20 13:45,Imaging follow-up
+644,179,12,4,ambulatory,2026-03-20 09:45,2026-03-20 10:05,Sports injury recovery
+645,36,4,2,ambulatory,2026-03-20 16:30,2026-03-20 17:00,Immunizations
+646,154,17,6,ambulatory,2026-03-20 09:45,2026-03-20 10:15,X-ray order
+647,137,13,5,emergency,2026-03-20 14:00,2026-03-20 14:15,Fever eval
+648,95,9,3,ambulatory,2026-03-20 11:30,2026-03-20 11:50,Depression follow-up
+649,146,15,5,urgent,2026-03-23 08:00,2026-03-23 08:30,Sprain/strain
+650,32,6,2,wellness,2026-03-23 09:00,2026-03-23 09:30,Immunizations
+651,75,18,6,ambulatory,2026-03-23 11:30,2026-03-23 12:30,Pre-op labs
+652,53,7,3,ambulatory,2026-03-23 16:15,2026-03-23 16:35,Anxiety management
+653,72,17,6,ambulatory,2026-03-23 14:30,2026-03-23 15:15,Routine bloodwork
+654,58,4,2,ambulatory,2026-03-23 14:15,2026-03-23 14:30,Well-child visit
+655,213,17,6,ambulatory,2026-03-23 12:15,2026-03-23 13:15,Routine bloodwork
+656,174,6,2,ambulatory,2026-03-23 16:45,2026-03-23 17:05,Sports physical
+657,72,1,1,wellness,2026-03-23 12:00,2026-03-23 12:30,Medication refill
+658,201,5,2,wellness,2026-03-23 08:00,2026-03-23 08:45,Ear infection
+659,92,1,1,ambulatory,2026-03-23 16:15,2026-03-23 16:35,Medication refill
+660,67,5,2,ambulatory,2026-03-23 10:15,2026-03-23 10:35,Sports physical
+661,149,14,5,urgent,2026-03-23 13:00,2026-03-23 14:00,Fever eval
+662,20,4,2,wellness,2026-03-23 15:00,2026-03-23 15:45,Immunizations
+663,7,16,6,ambulatory,2026-03-23 13:30,2026-03-23 13:50,Routine bloodwork
+664,39,5,2,wellness,2026-03-23 08:00,2026-03-23 08:20,Sports physical
+665,21,6,2,ambulatory,2026-03-23 11:45,2026-03-23 12:15,Sports physical
+666,76,6,2,ambulatory,2026-03-23 13:15,2026-03-23 14:00,Immunizations
+667,93,17,6,ambulatory,2026-03-24 09:30,2026-03-24 09:50,Pre-op labs
+668,138,10,4,ambulatory,2026-03-24 11:45,2026-03-24 12:00,Sports injury recovery
+669,130,2,1,ambulatory,2026-03-24 15:15,2026-03-24 16:15,Cold/flu symptoms
+670,191,14,5,urgent,2026-03-24 09:15,2026-03-24 10:00,Fever eval
+671,105,17,6,ambulatory,2026-03-24 15:45,2026-03-24 16:45,Routine bloodwork
+672,167,12,4,ambulatory,2026-03-24 15:45,2026-03-24 16:30,Post-surgical rehab
+673,133,6,2,wellness,2026-03-24 16:45,2026-03-24 17:30,Ear infection
+674,158,12,4,ambulatory,2026-03-24 13:00,2026-03-24 13:20,Sports injury recovery
+675,67,17,6,ambulatory,2026-03-24 09:15,2026-03-24 10:15,Routine bloodwork
+676,2,10,4,ambulatory,2026-03-24 15:00,2026-03-24 15:45,Balance/fall prevention
+677,184,4,2,wellness,2026-03-24 09:45,2026-03-24 10:15,Ear infection
+678,204,15,5,urgent,2026-03-24 11:00,2026-03-24 11:15,Laceration
+679,82,18,6,ambulatory,2026-03-24 11:00,2026-03-24 11:30,X-ray order
+680,133,13,5,urgent,2026-03-24 11:00,2026-03-24 12:00,Sprain/strain
+681,61,6,2,wellness,2026-03-24 13:45,2026-03-24 14:30,Ear infection
+682,124,12,4,ambulatory,2026-03-24 12:00,2026-03-24 12:15,Sports injury recovery
+683,170,2,1,ambulatory,2026-03-24 13:45,2026-03-24 14:15,Cold/flu symptoms
+684,16,8,3,wellness,2026-03-24 13:30,2026-03-24 13:45,Initial intake assessment
+685,57,6,2,ambulatory,2026-03-24 08:30,2026-03-24 08:50,Sports physical
+686,197,14,5,urgent,2026-03-24 16:00,2026-03-24 16:20,Fever eval
+687,96,4,2,ambulatory,2026-03-24 14:15,2026-03-24 15:15,Well-child visit
+688,64,12,4,ambulatory,2026-03-25 08:30,2026-03-25 08:45,Sports injury recovery
+689,39,15,5,urgent,2026-03-25 09:45,2026-03-25 10:30,Acute respiratory infection
+690,168,2,1,wellness,2026-03-25 15:45,2026-03-25 16:45,Hypertension follow-up
+691,5,8,3,ambulatory,2026-03-25 14:30,2026-03-25 15:15,Depression follow-up
+692,28,6,2,wellness,2026-03-25 12:30,2026-03-25 12:45,Well-child visit
+693,105,15,5,urgent,2026-03-25 08:30,2026-03-25 09:15,Minor fracture eval
+694,143,15,5,emergency,2026-03-25 09:00,2026-03-25 09:45,Minor fracture eval
+695,10,16,6,ambulatory,2026-03-25 14:45,2026-03-25 15:15,Routine bloodwork
+696,185,2,1,wellness,2026-03-25 12:30,2026-03-25 13:30,Annual physical
+697,133,17,6,ambulatory,2026-03-25 12:45,2026-03-25 13:30,Imaging follow-up
+698,18,2,1,ambulatory,2026-03-25 12:15,2026-03-25 13:15,Hypertension follow-up
+699,18,7,3,ambulatory,2026-03-25 16:15,2026-03-25 16:45,Medication management
+700,56,3,1,ambulatory,2026-03-25 10:30,2026-03-25 11:30,Diabetes management
+701,54,14,5,urgent,2026-03-25 10:00,2026-03-25 10:15,Minor fracture eval
+702,36,4,2,wellness,2026-03-25 15:45,2026-03-25 16:30,Ear infection
+703,91,5,2,ambulatory,2026-03-26 16:30,2026-03-26 17:30,Immunizations
+704,202,9,3,ambulatory,2026-03-26 09:45,2026-03-26 10:05,Medication management
+705,98,10,4,ambulatory,2026-03-26 13:15,2026-03-26 13:30,Sports injury recovery
+706,25,11,4,ambulatory,2026-03-26 13:30,2026-03-26 14:15,Post-surgical rehab
+707,181,3,1,ambulatory,2026-03-26 12:00,2026-03-26 13:00,Hypertension follow-up
+708,95,13,5,urgent,2026-03-26 08:15,2026-03-26 08:30,Laceration
+709,72,6,2,ambulatory,2026-03-26 08:30,2026-03-26 08:45,Immunizations
+710,38,3,1,wellness,2026-03-26 12:00,2026-03-26 12:30,Hypertension follow-up
+711,31,5,2,ambulatory,2026-03-26 15:00,2026-03-26 15:20,Well-child visit
+712,6,6,2,ambulatory,2026-03-26 08:15,2026-03-26 08:45,Well-child visit
+713,74,3,1,ambulatory,2026-03-26 12:15,2026-03-26 12:45,Cold/flu symptoms
+714,68,5,2,ambulatory,2026-03-26 15:30,2026-03-26 15:50,Sports physical
+715,180,10,4,ambulatory,2026-03-26 14:30,2026-03-26 15:00,Sports injury recovery
+716,9,2,1,ambulatory,2026-03-26 16:15,2026-03-26 17:15,Cold/flu symptoms
+717,180,17,6,ambulatory,2026-03-26 09:30,2026-03-26 09:45,Imaging follow-up
+718,79,2,1,ambulatory,2026-03-26 15:15,2026-03-26 15:35,Cold/flu symptoms
+719,154,5,2,ambulatory,2026-03-26 15:45,2026-03-26 16:45,Sports physical
+720,42,7,3,wellness,2026-03-26 10:30,2026-03-26 10:45,Depression follow-up
+721,206,4,2,ambulatory,2026-03-26 15:45,2026-03-26 16:00,Immunizations
+722,112,1,1,ambulatory,2026-03-26 11:15,2026-03-26 12:00,Annual physical
+723,179,11,4,ambulatory,2026-03-26 11:45,2026-03-26 12:05,Balance/fall prevention
+724,73,5,2,wellness,2026-03-26 14:45,2026-03-26 15:05,Asthma follow-up
+725,129,5,2,ambulatory,2026-03-26 14:00,2026-03-26 14:45,Asthma follow-up
+726,168,2,1,ambulatory,2026-03-26 14:15,2026-03-26 14:35,Cold/flu symptoms
+727,214,6,2,ambulatory,2026-03-26 15:00,2026-03-26 16:00,Asthma follow-up
+728,117,9,3,ambulatory,2026-03-26 15:45,2026-03-26 16:45,Initial intake assessment
+729,86,15,5,urgent,2026-03-27 16:30,2026-03-27 17:00,Minor fracture eval
+730,152,18,6,ambulatory,2026-03-27 12:15,2026-03-27 12:30,Imaging follow-up
+731,118,2,1,ambulatory,2026-03-27 08:30,2026-03-27 09:00,Annual physical
+732,84,8,3,ambulatory,2026-03-27 08:00,2026-03-27 09:00,Initial intake assessment
+733,38,3,1,wellness,2026-03-27 15:45,2026-03-27 16:15,Annual physical
+734,156,4,2,wellness,2026-03-27 09:45,2026-03-27 10:05,Ear infection
+735,185,17,6,ambulatory,2026-03-27 09:45,2026-03-27 10:00,X-ray order
+736,56,5,2,ambulatory,2026-03-27 12:15,2026-03-27 12:30,Sports physical
+737,201,7,3,ambulatory,2026-03-27 10:30,2026-03-27 11:00,Anxiety management
+738,74,3,1,wellness,2026-03-27 15:45,2026-03-27 16:15,Annual physical
+739,211,5,2,ambulatory,2026-03-27 10:45,2026-03-27 11:00,Immunizations
+740,95,15,5,urgent,2026-03-27 12:30,2026-03-27 13:30,Fever eval
+741,193,7,3,ambulatory,2026-03-27 16:45,2026-03-27 17:00,Depression follow-up
+742,29,4,2,wellness,2026-03-27 12:15,2026-03-27 13:15,Sports physical
+743,162,5,2,ambulatory,2026-03-27 13:45,2026-03-27 14:05,Asthma follow-up
+744,137,7,3,ambulatory,2026-03-27 15:15,2026-03-27 15:30,Initial intake assessment
+745,157,10,4,ambulatory,2026-03-27 16:00,2026-03-27 16:15,Lower back pain
+746,191,16,6,ambulatory,2026-03-27 14:15,2026-03-27 14:35,Pre-op labs
+747,8,1,1,ambulatory,2026-03-30 15:45,2026-03-30 16:45,Medication refill
+748,184,8,3,wellness,2026-03-30 09:00,2026-03-30 10:00,Initial intake assessment
+749,193,6,2,ambulatory,2026-03-30 10:30,2026-03-30 10:45,Immunizations
+750,19,6,2,ambulatory,2026-03-30 15:15,2026-03-30 16:15,Ear infection
+751,93,18,6,ambulatory,2026-03-30 12:30,2026-03-30 12:50,Imaging follow-up
+752,33,15,5,urgent,2026-03-30 10:30,2026-03-30 11:00,Minor fracture eval
+753,191,6,2,wellness,2026-03-30 14:45,2026-03-30 15:30,Ear infection
+754,166,17,6,ambulatory,2026-03-30 10:45,2026-03-30 11:05,Imaging follow-up
+755,156,2,1,wellness,2026-03-30 09:15,2026-03-30 09:30,Cold/flu symptoms
+756,85,4,2,wellness,2026-03-30 09:30,2026-03-30 09:50,Sports physical
+757,47,6,2,wellness,2026-03-30 11:15,2026-03-30 11:30,Immunizations
+758,213,15,5,emergency,2026-03-30 09:15,2026-03-30 09:45,Laceration
+759,51,13,5,urgent,2026-03-30 15:00,2026-03-30 16:00,Acute respiratory infection
+760,185,7,3,ambulatory,2026-03-30 11:45,2026-03-30 12:45,Medication management
+761,166,8,3,ambulatory,2026-03-30 12:15,2026-03-30 13:00,Medication management
+762,55,1,1,ambulatory,2026-03-31 16:30,2026-03-31 17:30,Medication refill
+763,41,14,5,urgent,2026-03-31 11:45,2026-03-31 12:15,Fever eval
+764,121,5,2,ambulatory,2026-03-31 13:15,2026-03-31 14:00,Ear infection
+765,15,2,1,ambulatory,2026-03-31 13:15,2026-03-31 13:45,Annual physical
+766,203,2,1,ambulatory,2026-03-31 13:15,2026-03-31 13:35,Medication refill
+767,123,3,1,wellness,2026-03-31 15:00,2026-03-31 15:15,Cold/flu symptoms
+768,88,3,1,ambulatory,2026-03-31 16:30,2026-03-31 17:15,Annual physical
+769,151,13,5,urgent,2026-03-31 12:15,2026-03-31 12:30,Laceration
+770,183,18,6,ambulatory,2026-03-31 13:30,2026-03-31 14:15,X-ray order
+771,174,4,2,wellness,2026-03-31 12:30,2026-03-31 13:15,Immunizations
+772,130,7,3,ambulatory,2026-03-31 16:45,2026-03-31 17:45,Anxiety management
+773,147,13,5,urgent,2026-04-01 15:15,2026-04-01 15:30,Minor fracture eval
+774,87,3,1,ambulatory,2026-04-01 16:45,2026-04-01 17:00,Cold/flu symptoms
+775,110,2,1,ambulatory,2026-04-01 12:15,2026-04-01 13:15,Annual physical
+776,200,10,4,ambulatory,2026-04-01 10:30,2026-04-01 10:50,Lower back pain
+777,32,17,6,ambulatory,2026-04-01 14:00,2026-04-01 14:20,Pre-op labs
+778,152,2,1,ambulatory,2026-04-01 09:15,2026-04-01 10:00,Medication refill
+779,192,14,5,urgent,2026-04-01 13:45,2026-04-01 14:30,Fever eval
+780,206,2,1,ambulatory,2026-04-01 14:00,2026-04-01 14:45,Annual physical
+781,71,16,6,ambulatory,2026-04-01 13:00,2026-04-01 13:20,X-ray order
+782,16,13,5,urgent,2026-04-01 11:30,2026-04-01 11:50,Fever eval
+783,202,4,2,ambulatory,2026-04-01 08:45,2026-04-01 09:15,Ear infection
+784,24,4,2,ambulatory,2026-04-01 09:00,2026-04-01 09:30,Asthma follow-up
+785,33,8,3,ambulatory,2026-04-02 16:30,2026-04-02 17:30,Initial intake assessment
+786,58,1,1,wellness,2026-04-02 09:00,2026-04-02 09:20,Annual physical
+787,85,14,5,urgent,2026-04-02 15:30,2026-04-02 15:50,Sprain/strain
+788,37,16,6,ambulatory,2026-04-02 08:15,2026-04-02 09:15,X-ray order
+789,87,6,2,ambulatory,2026-04-02 10:30,2026-04-02 10:45,Sports physical
+790,31,16,6,ambulatory,2026-04-02 16:30,2026-04-02 17:30,Routine bloodwork
+791,50,3,1,ambulatory,2026-04-02 11:00,2026-04-02 12:00,Annual physical
+792,43,6,2,ambulatory,2026-04-02 10:00,2026-04-02 10:15,Immunizations
+793,76,17,6,ambulatory,2026-04-02 14:45,2026-04-02 15:15,Routine bloodwork
+794,124,7,3,ambulatory,2026-04-02 11:45,2026-04-02 12:05,Depression follow-up
+795,36,17,6,ambulatory,2026-04-02 14:00,2026-04-02 14:30,Imaging follow-up
+796,134,1,1,ambulatory,2026-04-02 16:00,2026-04-02 17:00,Medication refill
+797,40,14,5,urgent,2026-04-02 09:30,2026-04-02 10:30,Sprain/strain
+798,178,3,1,ambulatory,2026-04-02 12:15,2026-04-02 13:00,Hypertension follow-up
+799,198,1,1,ambulatory,2026-04-02 12:30,2026-04-02 12:45,Annual physical
+800,63,14,5,urgent,2026-04-02 15:15,2026-04-02 16:15,Laceration
+801,26,18,6,ambulatory,2026-04-02 09:00,2026-04-02 09:45,Imaging follow-up
+802,134,18,6,ambulatory,2026-04-02 08:45,2026-04-02 09:00,Imaging follow-up
+803,187,16,6,ambulatory,2026-04-03 15:30,2026-04-03 16:00,Routine bloodwork
+804,68,9,3,ambulatory,2026-04-03 11:30,2026-04-03 12:30,Initial intake assessment
+805,82,10,4,ambulatory,2026-04-03 12:00,2026-04-03 12:20,Balance/fall prevention
+806,125,6,2,ambulatory,2026-04-03 13:45,2026-04-03 14:45,Immunizations
+807,180,6,2,wellness,2026-04-03 16:30,2026-04-03 16:45,Immunizations
+808,104,15,5,urgent,2026-04-03 12:15,2026-04-03 12:45,Acute respiratory infection
+809,212,17,6,ambulatory,2026-04-03 08:15,2026-04-03 08:35,X-ray order
+810,38,7,3,ambulatory,2026-04-03 12:15,2026-04-03 13:00,Initial intake assessment
+811,149,3,1,ambulatory,2026-04-03 14:30,2026-04-03 15:00,Annual physical
+812,178,10,4,ambulatory,2026-04-03 10:30,2026-04-03 11:30,Post-surgical rehab
+813,59,6,2,wellness,2026-04-03 13:15,2026-04-03 13:30,Well-child visit
+814,6,16,6,ambulatory,2026-04-03 16:45,2026-04-03 17:00,Imaging follow-up
+815,146,17,6,ambulatory,2026-04-03 12:00,2026-04-03 12:30,Pre-op labs
+816,78,12,4,ambulatory,2026-04-03 13:15,2026-04-03 13:45,Sports injury recovery
+817,158,10,4,ambulatory,2026-04-03 09:45,2026-04-03 10:00,Lower back pain
+818,104,4,2,wellness,2026-04-03 14:45,2026-04-03 15:15,Immunizations
+819,65,2,1,ambulatory,2026-04-03 09:15,2026-04-03 09:30,Diabetes management
+820,156,10,4,ambulatory,2026-04-03 08:00,2026-04-03 08:45,Post-surgical rehab
+821,145,3,1,ambulatory,2026-04-06 09:15,2026-04-06 09:35,Medication refill
+822,46,12,4,ambulatory,2026-04-06 15:15,2026-04-06 15:30,Post-surgical rehab
+823,152,4,2,wellness,2026-04-06 10:00,2026-04-06 10:45,Immunizations
+824,142,18,6,ambulatory,2026-04-06 09:30,2026-04-06 10:00,Routine bloodwork
+825,208,2,1,wellness,2026-04-06 09:00,2026-04-06 09:20,Annual physical
+826,75,7,3,wellness,2026-04-06 14:45,2026-04-06 15:45,Anxiety management
+827,79,8,3,ambulatory,2026-04-06 12:00,2026-04-06 12:30,Anxiety management
+828,8,15,5,urgent,2026-04-06 08:30,2026-04-06 08:45,Fever eval
+829,118,16,6,ambulatory,2026-04-06 10:15,2026-04-06 10:30,Routine bloodwork
+830,46,5,2,ambulatory,2026-04-06 11:30,2026-04-06 12:30,Well-child visit
+831,175,14,5,urgent,2026-04-06 12:15,2026-04-06 12:45,Sprain/strain
+832,210,16,6,ambulatory,2026-04-06 15:30,2026-04-06 15:45,Routine bloodwork
+833,18,2,1,ambulatory,2026-04-06 16:30,2026-04-06 16:45,Annual physical
+834,211,14,5,urgent,2026-04-06 11:00,2026-04-06 11:15,Sprain/strain
+835,48,5,2,ambulatory,2026-04-06 09:15,2026-04-06 10:15,Asthma follow-up
+836,88,1,1,ambulatory,2026-04-06 10:30,2026-04-06 10:50,Hypertension follow-up
+837,169,11,4,ambulatory,2026-04-07 15:00,2026-04-07 15:15,Lower back pain
+838,105,1,1,wellness,2026-04-07 16:00,2026-04-07 16:20,Diabetes management
+839,145,1,1,ambulatory,2026-04-07 14:00,2026-04-07 14:30,Hypertension follow-up
+840,116,14,5,urgent,2026-04-07 11:45,2026-04-07 12:05,Fever eval
+841,188,3,1,ambulatory,2026-04-07 14:30,2026-04-07 15:15,Annual physical
+842,219,9,3,ambulatory,2026-04-07 14:15,2026-04-07 15:00,Initial intake assessment
+843,119,8,3,ambulatory,2026-04-07 13:30,2026-04-07 14:30,Depression follow-up
+844,169,3,1,wellness,2026-04-07 13:45,2026-04-07 14:30,Cold/flu symptoms
+845,116,3,1,ambulatory,2026-04-07 14:00,2026-04-07 14:20,Annual physical
+846,178,16,6,ambulatory,2026-04-07 11:45,2026-04-07 12:05,X-ray order
+847,63,8,3,wellness,2026-04-07 10:45,2026-04-07 11:00,Anxiety management
+848,85,1,1,ambulatory,2026-04-07 13:30,2026-04-07 14:30,Diabetes management
+849,122,17,6,ambulatory,2026-04-07 13:15,2026-04-07 13:30,Pre-op labs
+850,105,12,4,ambulatory,2026-04-07 10:45,2026-04-07 11:00,Lower back pain
+851,122,2,1,ambulatory,2026-04-07 15:15,2026-04-07 16:00,Medication refill
+852,89,18,6,ambulatory,2026-04-07 13:00,2026-04-07 13:15,X-ray order
+853,163,16,6,ambulatory,2026-04-08 13:30,2026-04-08 13:50,Pre-op labs
+854,50,5,2,wellness,2026-04-08 12:00,2026-04-08 12:45,Well-child visit
+855,192,5,2,wellness,2026-04-08 15:00,2026-04-08 15:20,Immunizations
+856,100,17,6,ambulatory,2026-04-08 08:30,2026-04-08 09:00,X-ray order
+857,50,15,5,urgent,2026-04-08 15:30,2026-04-08 15:50,Minor fracture eval
+858,17,2,1,ambulatory,2026-04-08 11:00,2026-04-08 11:30,Hypertension follow-up
+859,157,13,5,urgent,2026-04-08 09:00,2026-04-08 09:20,Laceration
+860,21,3,1,ambulatory,2026-04-08 13:15,2026-04-08 14:00,Diabetes management
+861,42,16,6,ambulatory,2026-04-08 14:30,2026-04-08 14:50,Imaging follow-up
+862,175,12,4,ambulatory,2026-04-08 12:30,2026-04-08 13:30,Balance/fall prevention
+863,21,14,5,urgent,2026-04-08 15:00,2026-04-08 15:30,Fever eval
+864,208,9,3,ambulatory,2026-04-08 13:45,2026-04-08 14:00,Depression follow-up
+865,120,14,5,urgent,2026-04-08 15:30,2026-04-08 16:15,Minor fracture eval
+866,36,7,3,ambulatory,2026-04-08 14:15,2026-04-08 14:35,Depression follow-up
+867,121,2,1,ambulatory,2026-04-08 12:30,2026-04-08 12:50,Cold/flu symptoms
+868,186,3,1,ambulatory,2026-04-08 14:45,2026-04-08 15:15,Diabetes management
+869,75,15,5,urgent,2026-04-08 10:15,2026-04-08 10:45,Acute respiratory infection
+870,159,12,4,ambulatory,2026-04-08 14:00,2026-04-08 15:00,Sports injury recovery
+871,5,16,6,ambulatory,2026-04-08 15:30,2026-04-08 16:30,Imaging follow-up
+872,179,5,2,ambulatory,2026-04-08 10:30,2026-04-08 10:45,Immunizations
+873,99,4,2,ambulatory,2026-04-08 13:00,2026-04-08 13:20,Sports physical
+874,183,14,5,emergency,2026-04-08 10:30,2026-04-08 11:30,Acute respiratory infection
+875,82,2,1,ambulatory,2026-04-08 13:15,2026-04-08 14:15,Diabetes management
+876,64,14,5,urgent,2026-04-08 14:45,2026-04-08 15:00,Acute respiratory infection
+877,21,14,5,urgent,2026-04-09 13:45,2026-04-09 14:15,Acute respiratory infection
+878,32,1,1,ambulatory,2026-04-09 13:45,2026-04-09 14:05,Annual physical
+879,165,4,2,ambulatory,2026-04-09 13:00,2026-04-09 13:20,Immunizations
+880,183,1,1,ambulatory,2026-04-09 09:30,2026-04-09 10:15,Annual physical
+881,107,12,4,ambulatory,2026-04-09 14:15,2026-04-09 14:35,Lower back pain
+882,175,6,2,wellness,2026-04-09 08:00,2026-04-09 08:20,Asthma follow-up
+883,129,16,6,ambulatory,2026-04-09 13:30,2026-04-09 14:30,Pre-op labs
+884,151,1,1,ambulatory,2026-04-09 11:15,2026-04-09 12:00,Hypertension follow-up
+885,2,3,1,wellness,2026-04-09 12:30,2026-04-09 13:00,Medication refill
+886,206,2,1,ambulatory,2026-04-09 11:15,2026-04-09 11:35,Annual physical
+887,56,11,4,ambulatory,2026-04-09 16:00,2026-04-09 16:30,Lower back pain
+888,155,8,3,ambulatory,2026-04-09 15:45,2026-04-09 16:45,Anxiety management
+889,71,1,1,ambulatory,2026-04-09 12:45,2026-04-09 13:05,Medication refill
+890,96,18,6,ambulatory,2026-04-09 09:30,2026-04-09 10:00,X-ray order
+891,61,3,1,ambulatory,2026-04-09 16:30,2026-04-09 17:15,Medication refill
+892,10,13,5,urgent,2026-04-09 15:45,2026-04-09 16:30,Acute respiratory infection
+893,7,2,1,wellness,2026-04-09 12:15,2026-04-09 12:35,Cold/flu symptoms
+894,140,5,2,ambulatory,2026-04-09 13:30,2026-04-09 14:30,Immunizations
+895,89,8,3,ambulatory,2026-04-09 10:45,2026-04-09 11:05,Initial intake assessment
+896,120,18,6,ambulatory,2026-04-10 15:15,2026-04-10 16:15,X-ray order
+897,212,1,1,wellness,2026-04-10 14:00,2026-04-10 14:30,Hypertension follow-up
+898,43,18,6,ambulatory,2026-04-10 11:30,2026-04-10 12:15,Imaging follow-up
+899,58,13,5,urgent,2026-04-10 15:15,2026-04-10 15:45,Minor fracture eval
+900,78,5,2,ambulatory,2026-04-10 16:00,2026-04-10 16:20,Well-child visit
+901,19,3,1,ambulatory,2026-04-10 12:45,2026-04-10 13:15,Cold/flu symptoms
+902,78,4,2,ambulatory,2026-04-10 15:00,2026-04-10 15:45,Asthma follow-up
+903,193,17,6,ambulatory,2026-04-10 16:00,2026-04-10 16:15,Pre-op labs
+904,162,15,5,urgent,2026-04-10 09:45,2026-04-10 10:05,Acute respiratory infection
+905,3,10,4,ambulatory,2026-04-10 10:00,2026-04-10 11:00,Balance/fall prevention
+906,65,13,5,urgent,2026-04-10 09:45,2026-04-10 10:05,Sprain/strain
+907,51,16,6,ambulatory,2026-04-10 15:45,2026-04-10 16:05,X-ray order
+908,150,6,2,ambulatory,2026-04-10 11:45,2026-04-10 12:30,Well-child visit
+909,111,9,3,ambulatory,2026-04-10 16:30,2026-04-10 17:30,Initial intake assessment
+910,17,13,5,urgent,2026-04-10 09:30,2026-04-10 09:50,Laceration
+911,171,1,1,ambulatory,2026-04-10 15:30,2026-04-10 15:50,Cold/flu symptoms
+912,35,2,1,wellness,2026-04-10 14:00,2026-04-10 14:30,Medication refill
+913,82,16,6,ambulatory,2026-04-10 11:45,2026-04-10 12:05,Routine bloodwork
+914,139,12,4,ambulatory,2026-04-13 09:15,2026-04-13 10:15,Balance/fall prevention
+915,193,3,1,ambulatory,2026-04-13 13:15,2026-04-13 13:30,Cold/flu symptoms
+916,96,3,1,ambulatory,2026-04-13 15:15,2026-04-13 16:00,Diabetes management
+917,198,1,1,wellness,2026-04-13 08:30,2026-04-13 09:00,Annual physical
+918,131,17,6,ambulatory,2026-04-13 15:45,2026-04-13 16:30,Routine bloodwork
+919,133,18,6,ambulatory,2026-04-13 09:30,2026-04-13 10:30,X-ray order
+920,50,2,1,ambulatory,2026-04-13 16:45,2026-04-13 17:15,Medication refill
+921,83,15,5,urgent,2026-04-13 11:45,2026-04-13 12:15,Minor fracture eval
+922,184,5,2,ambulatory,2026-04-13 15:30,2026-04-13 15:45,Well-child visit
+923,127,2,1,ambulatory,2026-04-13 16:30,2026-04-13 17:30,Cold/flu symptoms
+924,100,2,1,ambulatory,2026-04-13 09:15,2026-04-13 10:15,Annual physical
+925,16,18,6,ambulatory,2026-04-13 08:00,2026-04-13 08:20,X-ray order
+926,193,12,4,ambulatory,2026-04-13 12:30,2026-04-13 12:50,Lower back pain
+927,42,10,4,ambulatory,2026-04-13 09:30,2026-04-13 10:15,Balance/fall prevention
+928,149,14,5,emergency,2026-04-13 14:45,2026-04-13 15:45,Minor fracture eval
+929,139,13,5,urgent,2026-04-13 12:15,2026-04-13 13:00,Sprain/strain
+930,91,2,1,ambulatory,2026-04-14 12:15,2026-04-14 12:30,Diabetes management
+931,100,7,3,wellness,2026-04-14 13:30,2026-04-14 14:00,Initial intake assessment
+932,94,5,2,ambulatory,2026-04-14 15:15,2026-04-14 15:30,Sports physical
+933,182,13,5,urgent,2026-04-14 10:00,2026-04-14 10:20,Minor fracture eval
+934,48,17,6,ambulatory,2026-04-14 11:45,2026-04-14 12:45,Routine bloodwork
+935,46,15,5,urgent,2026-04-14 12:45,2026-04-14 13:15,Laceration
+936,137,13,5,urgent,2026-04-14 09:45,2026-04-14 10:05,Laceration
+937,209,15,5,urgent,2026-04-14 08:00,2026-04-14 09:00,Fever eval
+938,63,14,5,urgent,2026-04-14 15:15,2026-04-14 15:30,Sprain/strain
+939,205,6,2,ambulatory,2026-04-14 14:45,2026-04-14 15:05,Sports physical
+940,33,8,3,ambulatory,2026-04-14 11:00,2026-04-14 11:30,Anxiety management
+941,125,5,2,ambulatory,2026-04-14 08:15,2026-04-14 08:35,Asthma follow-up
+942,113,1,1,ambulatory,2026-04-14 15:45,2026-04-14 16:00,Cold/flu symptoms
+943,168,8,3,ambulatory,2026-04-14 09:30,2026-04-14 10:00,Initial intake assessment
+944,130,5,2,ambulatory,2026-04-14 08:00,2026-04-14 09:00,Ear infection
+945,104,5,2,ambulatory,2026-04-14 15:30,2026-04-14 16:15,Ear infection
+946,171,13,5,urgent,2026-04-14 16:00,2026-04-14 16:20,Minor fracture eval
+947,50,1,1,ambulatory,2026-04-14 11:45,2026-04-14 12:05,Diabetes management
+948,202,5,2,ambulatory,2026-04-15 11:45,2026-04-15 12:45,Asthma follow-up
+949,218,14,5,urgent,2026-04-15 15:30,2026-04-15 15:50,Fever eval
+950,124,14,5,urgent,2026-04-15 12:30,2026-04-15 13:30,Laceration
+951,64,1,1,ambulatory,2026-04-15 10:00,2026-04-15 10:30,Medication refill
+952,160,1,1,ambulatory,2026-04-15 09:30,2026-04-15 10:15,Hypertension follow-up
+953,95,17,6,ambulatory,2026-04-15 09:30,2026-04-15 10:00,X-ray order
+954,87,4,2,ambulatory,2026-04-15 13:45,2026-04-15 14:30,Well-child visit
+955,26,17,6,ambulatory,2026-04-15 08:00,2026-04-15 08:15,Pre-op labs
+956,158,5,2,wellness,2026-04-15 09:30,2026-04-15 10:15,Sports physical
+957,73,12,4,ambulatory,2026-04-15 08:45,2026-04-15 09:15,Sports injury recovery
+958,108,14,5,urgent,2026-04-15 11:30,2026-04-15 12:30,Laceration
+959,28,16,6,ambulatory,2026-04-15 15:15,2026-04-15 16:00,X-ray order
+960,172,9,3,wellness,2026-04-16 16:30,2026-04-16 16:50,Anxiety management
+961,9,4,2,ambulatory,2026-04-16 14:15,2026-04-16 15:00,Asthma follow-up
+962,180,15,5,urgent,2026-04-16 10:00,2026-04-16 10:15,Acute respiratory infection
+963,132,16,6,ambulatory,2026-04-16 15:30,2026-04-16 16:30,Imaging follow-up
+964,27,4,2,ambulatory,2026-04-16 16:15,2026-04-16 17:00,Sports physical
+965,205,15,5,urgent,2026-04-16 08:45,2026-04-16 09:00,Acute respiratory infection
+966,203,9,3,ambulatory,2026-04-16 15:45,2026-04-16 16:30,Depression follow-up
+967,219,6,2,ambulatory,2026-04-16 11:30,2026-04-16 11:50,Sports physical
+968,204,18,6,ambulatory,2026-04-16 12:00,2026-04-16 13:00,Pre-op labs
+969,140,13,5,emergency,2026-04-16 11:00,2026-04-16 11:20,Minor fracture eval
+970,66,15,5,urgent,2026-04-16 14:15,2026-04-16 14:30,Acute respiratory infection
+971,46,14,5,urgent,2026-04-16 09:45,2026-04-16 10:00,Fever eval
+972,91,4,2,ambulatory,2026-04-16 14:15,2026-04-16 14:45,Well-child visit
+973,27,17,6,ambulatory,2026-04-16 16:45,2026-04-16 17:45,Pre-op labs
+974,83,14,5,emergency,2026-04-16 13:15,2026-04-16 14:00,Acute respiratory infection
+975,81,13,5,emergency,2026-04-16 15:00,2026-04-16 16:00,Sprain/strain
+976,195,18,6,ambulatory,2026-04-16 13:00,2026-04-16 13:30,Pre-op labs
+977,77,16,6,ambulatory,2026-04-17 10:30,2026-04-17 10:45,Imaging follow-up
+978,77,9,3,ambulatory,2026-04-17 08:00,2026-04-17 08:30,Anxiety management
+979,197,2,1,ambulatory,2026-04-17 13:00,2026-04-17 13:30,Diabetes management
+980,194,18,6,ambulatory,2026-04-17 16:00,2026-04-17 16:15,Pre-op labs
+981,24,5,2,wellness,2026-04-17 13:30,2026-04-17 13:45,Well-child visit
+982,21,16,6,ambulatory,2026-04-17 13:15,2026-04-17 13:35,X-ray order
+983,148,11,4,ambulatory,2026-04-17 11:45,2026-04-17 12:15,Balance/fall prevention
+984,106,3,1,wellness,2026-04-17 12:30,2026-04-17 13:15,Hypertension follow-up
+985,65,12,4,ambulatory,2026-04-17 10:15,2026-04-17 10:35,Lower back pain
+986,19,15,5,urgent,2026-04-17 14:15,2026-04-17 15:00,Laceration
+987,115,1,1,ambulatory,2026-04-17 10:00,2026-04-17 10:20,Annual physical
+988,49,2,1,wellness,2026-04-17 11:45,2026-04-17 12:30,Annual physical
+989,192,1,1,ambulatory,2026-04-20 16:30,2026-04-20 17:15,Hypertension follow-up
+990,202,14,5,urgent,2026-04-20 16:00,2026-04-20 16:30,Sprain/strain
+991,113,1,1,ambulatory,2026-04-20 08:15,2026-04-20 09:15,Cold/flu symptoms
+992,70,4,2,wellness,2026-04-20 16:30,2026-04-20 16:50,Well-child visit
+993,143,15,5,urgent,2026-04-20 16:15,2026-04-20 17:15,Fever eval
+994,50,5,2,ambulatory,2026-04-20 09:30,2026-04-20 09:45,Ear infection
+995,51,6,2,ambulatory,2026-04-20 13:00,2026-04-20 13:45,Asthma follow-up
+996,177,16,6,ambulatory,2026-04-20 09:00,2026-04-20 09:45,Pre-op labs
+997,19,12,4,ambulatory,2026-04-20 09:45,2026-04-20 10:15,Sports injury recovery
+998,105,3,1,ambulatory,2026-04-20 12:45,2026-04-20 13:45,Hypertension follow-up
+999,195,12,4,ambulatory,2026-04-20 11:00,2026-04-20 11:45,Post-surgical rehab
+1000,23,16,6,ambulatory,2026-04-20 16:15,2026-04-20 17:15,Pre-op labs
+1001,190,13,5,urgent,2026-04-20 09:00,2026-04-20 09:20,Minor fracture eval
+1002,16,2,1,wellness,2026-04-20 15:15,2026-04-20 15:35,Hypertension follow-up
+1003,122,13,5,emergency,2026-04-20 14:00,2026-04-20 14:15,Minor fracture eval
+1004,112,1,1,ambulatory,2026-04-20 10:30,2026-04-20 11:15,Medication refill
+1005,72,2,1,ambulatory,2026-04-21 12:15,2026-04-21 12:30,Hypertension follow-up
+1006,204,16,6,ambulatory,2026-04-21 10:00,2026-04-21 10:15,X-ray order
+1007,60,12,4,ambulatory,2026-04-21 10:15,2026-04-21 10:45,Lower back pain
+1008,67,10,4,ambulatory,2026-04-21 12:30,2026-04-21 12:50,Balance/fall prevention
+1009,21,15,5,urgent,2026-04-21 13:45,2026-04-21 14:00,Laceration
+1010,194,1,1,wellness,2026-04-21 09:00,2026-04-21 09:20,Cold/flu symptoms
+1011,98,17,6,ambulatory,2026-04-21 09:30,2026-04-21 10:00,Pre-op labs
+1012,39,7,3,ambulatory,2026-04-21 12:00,2026-04-21 13:00,Initial intake assessment
+1013,67,3,1,ambulatory,2026-04-21 14:30,2026-04-21 15:30,Hypertension follow-up
+1014,39,2,1,ambulatory,2026-04-21 16:15,2026-04-21 16:30,Annual physical
+1015,161,10,4,ambulatory,2026-04-21 15:00,2026-04-21 15:20,Sports injury recovery
+1016,206,2,1,ambulatory,2026-04-21 09:45,2026-04-21 10:45,Medication refill
+1017,64,17,6,ambulatory,2026-04-21 16:15,2026-04-21 16:35,X-ray order
+1018,179,13,5,urgent,2026-04-21 14:30,2026-04-21 15:15,Laceration
+1019,95,13,5,urgent,2026-04-21 16:45,2026-04-21 17:30,Sprain/strain
+1020,194,2,1,ambulatory,2026-04-21 08:15,2026-04-21 08:30,Diabetes management
+1021,97,14,5,urgent,2026-04-21 12:45,2026-04-21 13:05,Laceration
+1022,133,12,4,ambulatory,2026-04-21 10:30,2026-04-21 10:45,Sports injury recovery
+1023,62,17,6,ambulatory,2026-04-21 11:15,2026-04-21 11:35,Pre-op labs
+1024,24,1,1,ambulatory,2026-04-22 15:45,2026-04-22 16:05,Hypertension follow-up
+1025,186,7,3,ambulatory,2026-04-22 09:45,2026-04-22 10:45,Anxiety management
+1026,3,15,5,emergency,2026-04-22 08:15,2026-04-22 09:15,Sprain/strain
+1027,135,3,1,ambulatory,2026-04-22 11:45,2026-04-22 12:45,Cold/flu symptoms
+1028,95,14,5,emergency,2026-04-22 13:15,2026-04-22 13:35,Laceration
+1029,123,6,2,ambulatory,2026-04-22 08:15,2026-04-22 08:30,Immunizations
+1030,191,18,6,ambulatory,2026-04-22 12:15,2026-04-22 13:00,X-ray order
+1031,112,17,6,ambulatory,2026-04-22 08:00,2026-04-22 09:00,Routine bloodwork
+1032,100,17,6,ambulatory,2026-04-22 14:00,2026-04-22 14:20,Imaging follow-up
+1033,197,1,1,ambulatory,2026-04-22 12:30,2026-04-22 13:15,Cold/flu symptoms
+1034,109,11,4,ambulatory,2026-04-22 16:15,2026-04-22 16:45,Post-surgical rehab
+1035,204,16,6,ambulatory,2026-04-22 16:45,2026-04-22 17:30,X-ray order
+1036,178,6,2,ambulatory,2026-04-22 08:30,2026-04-22 08:45,Well-child visit
+1037,66,14,5,urgent,2026-04-22 10:45,2026-04-22 11:00,Fever eval
+1038,38,17,6,ambulatory,2026-04-22 16:30,2026-04-22 17:00,Routine bloodwork
+1039,80,3,1,wellness,2026-04-22 11:15,2026-04-22 12:00,Hypertension follow-up
+1040,196,14,5,urgent,2026-04-22 14:00,2026-04-22 14:20,Acute respiratory infection
+1041,36,18,6,ambulatory,2026-04-22 16:00,2026-04-22 17:00,X-ray order
+1042,8,11,4,ambulatory,2026-04-22 16:15,2026-04-22 17:15,Balance/fall prevention
+1043,26,8,3,wellness,2026-04-22 10:15,2026-04-22 10:45,Medication management
+1044,62,4,2,wellness,2026-04-22 12:30,2026-04-22 12:45,Well-child visit
+1045,129,2,1,ambulatory,2026-04-23 09:00,2026-04-23 10:00,Medication refill
+1046,72,3,1,ambulatory,2026-04-23 12:00,2026-04-23 13:00,Annual physical
+1047,106,18,6,ambulatory,2026-04-23 10:00,2026-04-23 10:45,Pre-op labs
+1048,42,11,4,ambulatory,2026-04-23 08:45,2026-04-23 09:45,Lower back pain
+1049,126,15,5,urgent,2026-04-23 15:45,2026-04-23 16:45,Laceration
+1050,18,14,5,urgent,2026-04-23 11:15,2026-04-23 12:00,Minor fracture eval
+1051,21,3,1,ambulatory,2026-04-23 08:15,2026-04-23 08:30,Diabetes management
+1052,61,2,1,wellness,2026-04-23 13:15,2026-04-23 13:35,Medication refill
+1053,140,9,3,ambulatory,2026-04-23 12:30,2026-04-23 13:00,Medication management
+1054,111,10,4,ambulatory,2026-04-23 12:30,2026-04-23 13:15,Sports injury recovery
+1055,119,10,4,ambulatory,2026-04-23 15:15,2026-04-23 15:30,Post-surgical rehab
+1056,133,11,4,ambulatory,2026-04-23 14:15,2026-04-23 15:15,Lower back pain
+1057,218,4,2,wellness,2026-04-23 10:30,2026-04-23 11:15,Immunizations
+1058,117,13,5,urgent,2026-04-23 15:00,2026-04-23 15:45,Acute respiratory infection
+1059,169,10,4,ambulatory,2026-04-23 10:15,2026-04-23 10:30,Post-surgical rehab
+1060,115,15,5,urgent,2026-04-23 09:30,2026-04-23 10:00,Fever eval
+1061,194,11,4,ambulatory,2026-04-23 08:30,2026-04-23 08:45,Post-surgical rehab
+1062,155,16,6,ambulatory,2026-04-23 11:45,2026-04-23 12:45,Imaging follow-up
+1063,17,12,4,ambulatory,2026-04-23 09:30,2026-04-23 10:00,Post-surgical rehab
+1064,140,16,6,ambulatory,2026-04-23 14:45,2026-04-23 15:15,Pre-op labs
+1065,158,4,2,ambulatory,2026-04-23 15:45,2026-04-23 16:05,Asthma follow-up
+1066,82,16,6,ambulatory,2026-04-23 16:15,2026-04-23 16:35,X-ray order
+1067,69,6,2,ambulatory,2026-04-23 13:45,2026-04-23 14:05,Ear infection
+1068,200,16,6,ambulatory,2026-04-24 13:30,2026-04-24 13:50,Pre-op labs
+1069,76,3,1,ambulatory,2026-04-24 11:15,2026-04-24 11:45,Medication refill
+1070,21,8,3,wellness,2026-04-24 13:15,2026-04-24 14:15,Depression follow-up
+1071,57,3,1,wellness,2026-04-24 11:30,2026-04-24 12:00,Annual physical
+1072,126,6,2,wellness,2026-04-24 12:45,2026-04-24 13:15,Ear infection
+1073,79,1,1,wellness,2026-04-24 09:00,2026-04-24 10:00,Hypertension follow-up
+1074,149,14,5,emergency,2026-04-24 11:30,2026-04-24 12:00,Laceration
+1075,55,3,1,ambulatory,2026-04-24 15:00,2026-04-24 15:20,Cold/flu symptoms
+1076,206,15,5,urgent,2026-04-24 09:30,2026-04-24 10:30,Sprain/strain
+1077,217,4,2,wellness,2026-04-24 16:30,2026-04-24 17:30,Ear infection
+1078,138,8,3,ambulatory,2026-04-24 12:30,2026-04-24 13:30,Medication management
+1079,204,8,3,ambulatory,2026-04-24 12:15,2026-04-24 12:30,Anxiety management
+1080,11,1,1,ambulatory,2026-04-24 10:30,2026-04-24 10:45,Diabetes management
+1081,18,14,5,urgent,2026-04-24 11:00,2026-04-24 11:30,Laceration
+1082,135,6,2,wellness,2026-04-24 14:45,2026-04-24 15:30,Immunizations
+1083,165,14,5,urgent,2026-04-24 14:15,2026-04-24 15:15,Minor fracture eval
+1084,182,13,5,urgent,2026-04-27 16:00,2026-04-27 17:00,Laceration
+1085,190,2,1,ambulatory,2026-04-27 09:15,2026-04-27 10:15,Cold/flu symptoms
+1086,104,2,1,wellness,2026-04-27 09:45,2026-04-27 10:15,Diabetes management
+1087,84,10,4,ambulatory,2026-04-27 10:00,2026-04-27 11:00,Post-surgical rehab
+1088,113,18,6,ambulatory,2026-04-27 09:45,2026-04-27 10:00,X-ray order
+1089,40,4,2,wellness,2026-04-27 11:45,2026-04-27 12:45,Asthma follow-up
+1090,43,10,4,ambulatory,2026-04-27 13:30,2026-04-27 14:00,Sports injury recovery
+1091,64,14,5,urgent,2026-04-27 08:30,2026-04-27 08:45,Sprain/strain
+1092,113,1,1,ambulatory,2026-04-27 10:00,2026-04-27 10:30,Medication refill
+1093,35,13,5,urgent,2026-04-27 13:45,2026-04-27 14:15,Laceration
+1094,156,14,5,urgent,2026-04-27 15:45,2026-04-27 16:00,Minor fracture eval
+1095,52,13,5,urgent,2026-04-27 08:30,2026-04-27 09:00,Sprain/strain
+1096,54,16,6,ambulatory,2026-04-27 09:00,2026-04-27 09:20,Imaging follow-up
+1097,189,9,3,wellness,2026-04-27 11:00,2026-04-27 12:00,Initial intake assessment
+1098,38,1,1,ambulatory,2026-04-28 08:15,2026-04-28 09:00,Hypertension follow-up
+1099,14,13,5,urgent,2026-04-28 09:00,2026-04-28 09:45,Laceration
+1100,170,2,1,wellness,2026-04-28 16:45,2026-04-28 17:30,Diabetes management
+1101,138,4,2,ambulatory,2026-04-28 10:45,2026-04-28 11:00,Sports physical
+1102,203,1,1,wellness,2026-04-28 14:15,2026-04-28 15:00,Hypertension follow-up
+1103,50,3,1,wellness,2026-04-28 13:30,2026-04-28 13:45,Hypertension follow-up
+1104,117,13,5,urgent,2026-04-28 09:15,2026-04-28 09:35,Sprain/strain
+1105,109,7,3,ambulatory,2026-04-28 13:15,2026-04-28 14:00,Medication management
+1106,111,13,5,urgent,2026-04-28 14:00,2026-04-28 14:20,Acute respiratory infection
+1107,162,15,5,urgent,2026-04-28 08:15,2026-04-28 09:00,Laceration
+1108,197,18,6,ambulatory,2026-04-28 15:30,2026-04-28 16:00,Imaging follow-up
+1109,64,4,2,ambulatory,2026-04-28 15:00,2026-04-28 16:00,Asthma follow-up
+1110,205,1,1,wellness,2026-04-28 09:00,2026-04-28 09:30,Cold/flu symptoms
+1111,126,13,5,urgent,2026-04-28 10:45,2026-04-28 11:45,Laceration
+1112,21,14,5,urgent,2026-04-28 08:30,2026-04-28 08:45,Sprain/strain
+1113,5,13,5,urgent,2026-04-28 14:15,2026-04-28 15:00,Fever eval
+1114,144,1,1,ambulatory,2026-04-28 13:15,2026-04-28 14:00,Diabetes management
+1115,211,17,6,ambulatory,2026-04-28 10:00,2026-04-28 10:15,Routine bloodwork
+1116,107,17,6,ambulatory,2026-04-29 14:00,2026-04-29 14:45,Routine bloodwork
+1117,150,14,5,urgent,2026-04-29 11:00,2026-04-29 11:30,Minor fracture eval
+1118,66,13,5,urgent,2026-04-29 16:00,2026-04-29 16:20,Minor fracture eval
+1119,176,8,3,ambulatory,2026-04-29 14:45,2026-04-29 15:05,Initial intake assessment
+1120,112,2,1,ambulatory,2026-04-29 11:30,2026-04-29 11:50,Hypertension follow-up
+1121,36,18,6,ambulatory,2026-04-29 08:15,2026-04-29 08:30,Pre-op labs
+1122,205,18,6,ambulatory,2026-04-29 09:15,2026-04-29 10:00,Routine bloodwork
+1123,215,18,6,ambulatory,2026-04-29 16:30,2026-04-29 17:30,Imaging follow-up
+1124,116,1,1,ambulatory,2026-04-29 16:15,2026-04-29 16:30,Cold/flu symptoms
+1125,139,14,5,urgent,2026-04-29 08:45,2026-04-29 09:15,Fever eval
+1126,196,10,4,ambulatory,2026-04-29 09:15,2026-04-29 10:15,Lower back pain
+1127,193,3,1,ambulatory,2026-04-30 15:00,2026-04-30 16:00,Medication refill
+1128,142,6,2,wellness,2026-04-30 11:30,2026-04-30 11:45,Well-child visit
+1129,180,17,6,ambulatory,2026-04-30 12:45,2026-04-30 13:45,Pre-op labs
+1130,149,2,1,ambulatory,2026-04-30 14:30,2026-04-30 15:30,Diabetes management
+1131,158,13,5,urgent,2026-04-30 08:45,2026-04-30 09:45,Sprain/strain
+1132,77,13,5,emergency,2026-04-30 09:15,2026-04-30 09:35,Sprain/strain
+1133,105,3,1,ambulatory,2026-04-30 13:15,2026-04-30 13:30,Hypertension follow-up
+1134,72,17,6,ambulatory,2026-04-30 12:45,2026-04-30 13:05,Routine bloodwork
+1135,8,14,5,urgent,2026-04-30 14:45,2026-04-30 15:45,Fever eval
+1136,1,12,4,ambulatory,2026-04-30 14:45,2026-04-30 15:30,Post-surgical rehab
+1137,202,10,4,ambulatory,2026-04-30 11:30,2026-04-30 12:30,Balance/fall prevention
+1138,141,6,2,ambulatory,2026-04-30 12:45,2026-04-30 13:00,Ear infection
+1139,185,1,1,wellness,2026-04-30 10:00,2026-04-30 10:15,Cold/flu symptoms
+1140,109,1,1,wellness,2026-04-30 08:15,2026-04-30 08:35,Medication refill
+1141,166,9,3,ambulatory,2026-04-30 09:30,2026-04-30 09:45,Initial intake assessment
+1142,147,12,4,ambulatory,2026-04-30 12:15,2026-04-30 13:00,Post-surgical rehab
+1143,202,14,5,urgent,2026-04-30 16:45,2026-04-30 17:15,Laceration
+1144,126,8,3,ambulatory,2026-04-30 13:00,2026-04-30 13:45,Depression follow-up
+1145,67,2,1,ambulatory,2026-04-30 14:15,2026-04-30 15:00,Diabetes management
+1146,156,12,4,ambulatory,2026-04-30 13:15,2026-04-30 13:35,Lower back pain
+1147,110,2,1,ambulatory,2026-05-01 15:30,2026-05-01 15:45,Annual physical
+1148,26,3,1,ambulatory,2026-05-01 13:30,2026-05-01 13:45,Medication refill
+1149,153,3,1,ambulatory,2026-05-01 15:00,2026-05-01 15:45,Annual physical
+1150,29,3,1,ambulatory,2026-05-01 08:15,2026-05-01 09:15,Diabetes management
+1151,13,15,5,urgent,2026-05-01 15:30,2026-05-01 16:30,Minor fracture eval
+1152,129,13,5,urgent,2026-05-01 13:30,2026-05-01 14:00,Acute respiratory infection
+1153,87,5,2,wellness,2026-05-01 10:15,2026-05-01 10:45,Well-child visit
+1154,196,15,5,urgent,2026-05-01 15:00,2026-05-01 15:20,Minor fracture eval
+1155,138,3,1,ambulatory,2026-05-01 10:00,2026-05-01 10:20,Annual physical
+1156,85,14,5,urgent,2026-05-01 11:00,2026-05-01 11:30,Fever eval
+1157,4,17,6,ambulatory,2026-05-01 08:00,2026-05-01 08:45,Routine bloodwork
+1158,72,4,2,ambulatory,2026-05-01 12:30,2026-05-01 13:30,Well-child visit
+1159,172,15,5,urgent,2026-05-01 13:15,2026-05-01 14:15,Fever eval
+1160,196,10,4,ambulatory,2026-05-01 08:30,2026-05-01 09:15,Balance/fall prevention
+1161,97,14,5,urgent,2026-05-01 11:00,2026-05-01 11:20,Minor fracture eval
+1162,167,18,6,ambulatory,2026-05-01 11:45,2026-05-01 12:00,Pre-op labs
+1163,146,16,6,ambulatory,2026-05-04 11:15,2026-05-04 11:30,Routine bloodwork
+1164,48,13,5,emergency,2026-05-04 11:15,2026-05-04 11:30,Sprain/strain
+1165,216,18,6,ambulatory,2026-05-04 16:45,2026-05-04 17:30,Imaging follow-up
+1166,16,14,5,urgent,2026-05-04 11:30,2026-05-04 12:30,Acute respiratory infection
+1167,81,13,5,urgent,2026-05-04 12:45,2026-05-04 13:30,Laceration
+1168,95,16,6,ambulatory,2026-05-04 12:30,2026-05-04 12:45,Routine bloodwork
+1169,95,17,6,ambulatory,2026-05-04 12:00,2026-05-04 12:15,Imaging follow-up
+1170,69,6,2,wellness,2026-05-04 15:00,2026-05-04 15:30,Ear infection
+1171,137,11,4,ambulatory,2026-05-04 14:15,2026-05-04 15:00,Balance/fall prevention
+1172,170,12,4,ambulatory,2026-05-04 15:00,2026-05-04 15:15,Lower back pain
+1173,180,2,1,ambulatory,2026-05-04 15:15,2026-05-04 16:00,Annual physical
+1174,81,6,2,ambulatory,2026-05-04 15:45,2026-05-04 16:00,Immunizations
+1175,205,3,1,wellness,2026-05-04 16:15,2026-05-04 16:35,Medication refill
+1176,123,3,1,ambulatory,2026-05-04 16:00,2026-05-04 16:30,Annual physical
+1177,217,10,4,ambulatory,2026-05-04 13:45,2026-05-04 14:15,Post-surgical rehab
+1178,118,7,3,ambulatory,2026-05-04 11:15,2026-05-04 11:30,Depression follow-up
+1179,167,3,1,wellness,2026-05-04 10:15,2026-05-04 11:00,Cold/flu symptoms
+1180,157,4,2,ambulatory,2026-05-05 15:00,2026-05-05 15:30,Ear infection
+1181,152,8,3,ambulatory,2026-05-05 08:00,2026-05-05 08:20,Medication management
+1182,120,15,5,urgent,2026-05-05 14:15,2026-05-05 15:00,Sprain/strain
+1183,160,16,6,ambulatory,2026-05-05 16:15,2026-05-05 16:45,Routine bloodwork
+1184,91,4,2,wellness,2026-05-05 14:15,2026-05-05 14:45,Asthma follow-up
+1185,87,10,4,ambulatory,2026-05-05 10:45,2026-05-05 11:05,Post-surgical rehab
+1186,184,10,4,ambulatory,2026-05-05 12:30,2026-05-05 13:15,Lower back pain
+1187,218,18,6,ambulatory,2026-05-05 12:45,2026-05-05 13:30,Pre-op labs
+1188,13,18,6,ambulatory,2026-05-05 14:30,2026-05-05 14:50,X-ray order
+1189,212,12,4,ambulatory,2026-05-05 08:00,2026-05-05 08:15,Post-surgical rehab
+1190,27,15,5,urgent,2026-05-05 11:00,2026-05-05 11:20,Fever eval
+1191,181,5,2,ambulatory,2026-05-05 14:00,2026-05-05 14:20,Immunizations
+1192,179,5,2,ambulatory,2026-05-05 10:00,2026-05-05 10:15,Immunizations
+1193,195,2,1,wellness,2026-05-05 08:00,2026-05-05 08:45,Annual physical
+1194,87,15,5,urgent,2026-05-05 08:45,2026-05-05 09:45,Minor fracture eval
+1195,182,11,4,ambulatory,2026-05-05 13:00,2026-05-05 13:30,Balance/fall prevention
+1196,53,13,5,urgent,2026-05-05 09:00,2026-05-05 09:15,Fever eval
+1197,161,2,1,wellness,2026-05-05 09:15,2026-05-05 09:45,Annual physical
+1198,38,14,5,emergency,2026-05-05 08:30,2026-05-05 09:30,Sprain/strain
+1199,123,13,5,urgent,2026-05-06 16:30,2026-05-06 16:50,Fever eval
+1200,126,2,1,ambulatory,2026-05-06 14:15,2026-05-06 15:00,Hypertension follow-up
+1201,81,2,1,ambulatory,2026-05-06 10:45,2026-05-06 11:05,Hypertension follow-up
+1202,180,15,5,urgent,2026-05-06 10:15,2026-05-06 11:00,Fever eval
+1203,92,16,6,ambulatory,2026-05-06 11:00,2026-05-06 11:20,Routine bloodwork
+1204,23,16,6,ambulatory,2026-05-06 14:45,2026-05-06 15:15,Pre-op labs
+1205,143,15,5,urgent,2026-05-06 16:45,2026-05-06 17:30,Acute respiratory infection
+1206,108,1,1,wellness,2026-05-06 10:00,2026-05-06 10:15,Diabetes management
+1207,7,5,2,wellness,2026-05-06 10:00,2026-05-06 10:20,Well-child visit
+1208,44,3,1,ambulatory,2026-05-06 10:00,2026-05-06 10:45,Medication refill
+1209,129,1,1,ambulatory,2026-05-06 11:30,2026-05-06 11:45,Medication refill
+1210,12,6,2,wellness,2026-05-06 08:30,2026-05-06 09:30,Sports physical
+1211,149,18,6,ambulatory,2026-05-06 15:15,2026-05-06 15:35,X-ray order
+1212,1,13,5,urgent,2026-05-07 08:15,2026-05-07 08:45,Minor fracture eval
+1213,125,2,1,ambulatory,2026-05-07 11:15,2026-05-07 11:30,Medication refill
+1214,71,1,1,wellness,2026-05-07 10:15,2026-05-07 10:35,Diabetes management
+1215,11,4,2,ambulatory,2026-05-07 16:00,2026-05-07 16:15,Asthma follow-up
+1216,60,6,2,ambulatory,2026-05-07 15:45,2026-05-07 16:05,Well-child visit
+1217,107,16,6,ambulatory,2026-05-07 09:45,2026-05-07 10:15,Routine bloodwork
+1218,139,6,2,ambulatory,2026-05-07 09:45,2026-05-07 10:30,Sports physical
+1219,94,1,1,ambulatory,2026-05-07 16:30,2026-05-07 17:15,Cold/flu symptoms
+1220,147,16,6,ambulatory,2026-05-07 16:45,2026-05-07 17:30,Routine bloodwork
+1221,51,17,6,ambulatory,2026-05-07 12:15,2026-05-07 12:35,Pre-op labs
+1222,217,7,3,ambulatory,2026-05-07 14:15,2026-05-07 15:00,Medication management
+1223,88,15,5,urgent,2026-05-07 16:30,2026-05-07 17:30,Fever eval
+1224,164,16,6,ambulatory,2026-05-07 11:30,2026-05-07 12:30,X-ray order
+1225,35,4,2,wellness,2026-05-07 12:45,2026-05-07 13:05,Ear infection
+1226,95,17,6,ambulatory,2026-05-07 15:45,2026-05-07 16:45,Pre-op labs
+1227,205,15,5,urgent,2026-05-07 12:30,2026-05-07 13:15,Acute respiratory infection
+1228,199,18,6,ambulatory,2026-05-07 16:45,2026-05-07 17:05,Routine bloodwork
+1229,6,5,2,wellness,2026-05-07 08:30,2026-05-07 09:30,Ear infection
+1230,148,2,1,ambulatory,2026-05-07 14:30,2026-05-07 14:50,Diabetes management
+1231,151,6,2,ambulatory,2026-05-07 12:15,2026-05-07 13:00,Well-child visit
+1232,199,14,5,urgent,2026-05-07 13:30,2026-05-07 13:45,Sprain/strain
+1233,5,18,6,ambulatory,2026-05-07 08:00,2026-05-07 08:30,Routine bloodwork
+1234,72,6,2,wellness,2026-05-08 10:45,2026-05-08 11:00,Asthma follow-up
+1235,42,9,3,wellness,2026-05-08 08:45,2026-05-08 09:45,Initial intake assessment
+1236,83,9,3,ambulatory,2026-05-08 11:15,2026-05-08 12:00,Anxiety management
+1237,7,16,6,ambulatory,2026-05-08 13:30,2026-05-08 13:50,X-ray order
+1238,82,1,1,ambulatory,2026-05-08 11:00,2026-05-08 12:00,Medication refill
+1239,23,15,5,urgent,2026-05-08 15:15,2026-05-08 15:35,Minor fracture eval
+1240,154,16,6,ambulatory,2026-05-08 10:45,2026-05-08 11:05,X-ray order
+1241,178,3,1,ambulatory,2026-05-08 11:15,2026-05-08 12:00,Medication refill
+1242,201,13,5,urgent,2026-05-08 13:15,2026-05-08 13:30,Sprain/strain
+1243,118,18,6,ambulatory,2026-05-08 08:15,2026-05-08 08:30,Routine bloodwork
+1244,40,1,1,ambulatory,2026-05-08 09:30,2026-05-08 10:00,Medication refill
+1245,34,8,3,ambulatory,2026-05-08 11:15,2026-05-08 11:45,Depression follow-up
+1246,144,17,6,ambulatory,2026-05-08 10:15,2026-05-08 10:35,Imaging follow-up
+1247,15,15,5,urgent,2026-05-08 12:45,2026-05-08 13:45,Acute respiratory infection
+1248,168,16,6,ambulatory,2026-05-08 16:30,2026-05-08 17:30,Routine bloodwork
+1249,103,15,5,urgent,2026-05-08 11:45,2026-05-08 12:15,Acute respiratory infection
+1250,19,17,6,ambulatory,2026-05-08 09:30,2026-05-08 10:30,X-ray order
+1251,128,6,2,ambulatory,2026-05-08 10:00,2026-05-08 10:20,Immunizations
+1252,160,13,5,urgent,2026-05-08 15:00,2026-05-08 15:45,Fever eval
+1253,104,18,6,ambulatory,2026-05-08 15:45,2026-05-08 16:30,X-ray order
+1254,60,8,3,ambulatory,2026-05-08 10:15,2026-05-08 11:15,Initial intake assessment
+1255,85,2,1,ambulatory,2026-05-11 11:00,2026-05-11 11:15,Medication refill
+1256,18,3,1,ambulatory,2026-05-11 08:30,2026-05-11 08:45,Cold/flu symptoms
+1257,36,13,5,urgent,2026-05-11 14:45,2026-05-11 15:45,Fever eval
+1258,23,8,3,ambulatory,2026-05-11 11:45,2026-05-11 12:30,Medication management
+1259,145,14,5,urgent,2026-05-11 14:15,2026-05-11 14:35,Fever eval
+1260,178,4,2,ambulatory,2026-05-11 15:00,2026-05-11 15:20,Well-child visit
+1261,21,7,3,ambulatory,2026-05-11 12:30,2026-05-11 13:00,Initial intake assessment
+1262,191,14,5,urgent,2026-05-11 11:30,2026-05-11 12:30,Fever eval
+1263,220,6,2,ambulatory,2026-05-11 12:45,2026-05-11 13:05,Ear infection
+1264,85,3,1,wellness,2026-05-11 14:15,2026-05-11 14:30,Cold/flu symptoms
+1265,115,18,6,ambulatory,2026-05-11 10:00,2026-05-11 11:00,Imaging follow-up
+1266,162,5,2,wellness,2026-05-11 14:30,2026-05-11 14:45,Immunizations
+1267,111,6,2,ambulatory,2026-05-11 14:00,2026-05-11 14:15,Immunizations
+1268,53,1,1,wellness,2026-05-11 15:30,2026-05-11 16:15,Annual physical
+1269,111,18,6,ambulatory,2026-05-11 09:15,2026-05-11 10:00,Imaging follow-up
+1270,118,5,2,ambulatory,2026-05-11 10:30,2026-05-11 11:30,Well-child visit
+1271,81,15,5,urgent,2026-05-12 10:30,2026-05-12 10:45,Sprain/strain
+1272,13,5,2,ambulatory,2026-05-12 10:30,2026-05-12 10:50,Immunizations
+1273,28,6,2,ambulatory,2026-05-12 11:00,2026-05-12 11:15,Immunizations
+1274,172,13,5,urgent,2026-05-12 14:45,2026-05-12 15:15,Fever eval
+1275,15,6,2,ambulatory,2026-05-12 12:30,2026-05-12 12:50,Immunizations
+1276,184,2,1,ambulatory,2026-05-12 08:15,2026-05-12 08:35,Cold/flu symptoms
+1277,106,15,5,urgent,2026-05-12 12:45,2026-05-12 13:45,Sprain/strain
+1278,47,15,5,urgent,2026-05-12 12:00,2026-05-12 12:30,Sprain/strain
+1279,47,7,3,ambulatory,2026-05-12 13:00,2026-05-12 13:30,Initial intake assessment
+1280,190,18,6,ambulatory,2026-05-12 10:15,2026-05-12 10:30,X-ray order
+1281,31,1,1,wellness,2026-05-12 15:00,2026-05-12 15:15,Annual physical
+1282,75,17,6,ambulatory,2026-05-12 08:15,2026-05-12 08:30,Imaging follow-up
+1283,45,7,3,ambulatory,2026-05-12 15:45,2026-05-12 16:15,Initial intake assessment
+1284,37,16,6,ambulatory,2026-05-12 09:45,2026-05-12 10:45,Routine bloodwork
+1285,75,13,5,urgent,2026-05-12 12:30,2026-05-12 13:15,Laceration
+1286,49,14,5,urgent,2026-05-12 15:45,2026-05-12 16:30,Minor fracture eval
+1287,116,4,2,ambulatory,2026-05-12 15:30,2026-05-12 16:15,Ear infection
+1288,37,4,2,wellness,2026-05-12 10:00,2026-05-12 10:30,Immunizations
+1289,56,17,6,ambulatory,2026-05-12 08:15,2026-05-12 09:00,X-ray order
+1290,166,13,5,urgent,2026-05-12 14:15,2026-05-12 14:45,Laceration
+1291,181,10,4,ambulatory,2026-05-13 10:00,2026-05-13 10:30,Post-surgical rehab
+1292,170,15,5,urgent,2026-05-13 09:30,2026-05-13 09:45,Acute respiratory infection
+1293,136,13,5,emergency,2026-05-13 13:30,2026-05-13 13:50,Laceration
+1294,128,12,4,ambulatory,2026-05-13 15:45,2026-05-13 16:30,Balance/fall prevention
+1295,31,15,5,urgent,2026-05-13 14:15,2026-05-13 14:30,Minor fracture eval
+1296,79,1,1,wellness,2026-05-13 09:00,2026-05-13 10:00,Medication refill
+1297,198,18,6,ambulatory,2026-05-13 09:00,2026-05-13 10:00,Imaging follow-up
+1298,167,13,5,urgent,2026-05-13 10:15,2026-05-13 10:35,Sprain/strain
+1299,2,13,5,urgent,2026-05-13 13:15,2026-05-13 13:45,Laceration
+1300,208,11,4,ambulatory,2026-05-13 10:30,2026-05-13 11:15,Sports injury recovery
+1301,44,18,6,ambulatory,2026-05-13 08:00,2026-05-13 08:20,X-ray order
+1302,53,3,1,wellness,2026-05-13 14:15,2026-05-13 14:35,Cold/flu symptoms
+1303,64,4,2,ambulatory,2026-05-13 16:30,2026-05-13 16:50,Well-child visit
+1304,156,18,6,ambulatory,2026-05-13 10:00,2026-05-13 11:00,Routine bloodwork
+1305,196,9,3,wellness,2026-05-13 08:45,2026-05-13 09:15,Initial intake assessment
+1306,2,13,5,urgent,2026-05-13 16:00,2026-05-13 16:45,Fever eval
+1307,178,3,1,ambulatory,2026-05-13 13:45,2026-05-13 14:00,Medication refill
+1308,39,18,6,ambulatory,2026-05-13 14:45,2026-05-13 15:45,Imaging follow-up
+1309,83,13,5,urgent,2026-05-13 15:15,2026-05-13 16:00,Minor fracture eval
+1310,196,10,4,ambulatory,2026-05-13 15:30,2026-05-13 15:50,Balance/fall prevention
+1311,109,14,5,urgent,2026-05-13 12:00,2026-05-13 12:30,Fever eval
+1312,144,14,5,emergency,2026-05-14 13:30,2026-05-14 13:50,Sprain/strain
+1313,133,5,2,wellness,2026-05-14 13:15,2026-05-14 13:45,Sports physical
+1314,203,4,2,wellness,2026-05-14 10:45,2026-05-14 11:05,Immunizations
+1315,102,16,6,ambulatory,2026-05-14 14:30,2026-05-14 15:00,Imaging follow-up
+1316,1,10,4,ambulatory,2026-05-14 16:15,2026-05-14 17:15,Sports injury recovery
+1317,68,11,4,ambulatory,2026-05-14 09:30,2026-05-14 09:45,Balance/fall prevention
+1318,92,18,6,ambulatory,2026-05-14 11:00,2026-05-14 12:00,Imaging follow-up
+1319,139,2,1,wellness,2026-05-14 12:45,2026-05-14 13:05,Hypertension follow-up
+1320,206,9,3,ambulatory,2026-05-14 08:00,2026-05-14 08:30,Medication management
+1321,65,17,6,ambulatory,2026-05-14 10:00,2026-05-14 10:30,X-ray order
+1322,37,17,6,ambulatory,2026-05-14 10:00,2026-05-14 10:45,Imaging follow-up
+1323,219,13,5,urgent,2026-05-14 10:00,2026-05-14 10:30,Acute respiratory infection
+1324,78,8,3,wellness,2026-05-14 12:30,2026-05-14 12:50,Initial intake assessment
+1325,2,11,4,ambulatory,2026-05-14 15:00,2026-05-14 16:00,Lower back pain
+1326,64,3,1,ambulatory,2026-05-14 10:15,2026-05-14 10:35,Hypertension follow-up
+1327,138,8,3,wellness,2026-05-14 16:15,2026-05-14 17:15,Medication management
+1328,175,13,5,urgent,2026-05-14 13:15,2026-05-14 14:00,Acute respiratory infection
+1329,14,2,1,wellness,2026-05-14 08:30,2026-05-14 09:15,Hypertension follow-up
+1330,164,5,2,ambulatory,2026-05-14 13:15,2026-05-14 14:15,Ear infection
+1331,118,6,2,ambulatory,2026-05-14 12:30,2026-05-14 13:30,Immunizations
+1332,50,10,4,ambulatory,2026-05-14 09:15,2026-05-14 10:15,Lower back pain
+1333,45,9,3,wellness,2026-05-14 09:30,2026-05-14 10:30,Initial intake assessment
+1334,213,5,2,wellness,2026-05-15 11:30,2026-05-15 12:00,Sports physical
+1335,49,8,3,ambulatory,2026-05-15 12:45,2026-05-15 13:45,Initial intake assessment
+1336,58,17,6,ambulatory,2026-05-15 11:45,2026-05-15 12:15,Imaging follow-up
+1337,88,12,4,ambulatory,2026-05-15 15:15,2026-05-15 16:15,Lower back pain
+1338,189,5,2,wellness,2026-05-15 16:30,2026-05-15 17:15,Asthma follow-up
+1339,147,6,2,ambulatory,2026-05-15 16:15,2026-05-15 17:00,Sports physical
+1340,188,14,5,urgent,2026-05-15 16:00,2026-05-15 16:30,Sprain/strain
+1341,77,15,5,urgent,2026-05-15 12:30,2026-05-15 13:30,Fever eval
+1342,186,1,1,ambulatory,2026-05-15 08:15,2026-05-15 09:15,Annual physical
+1343,214,17,6,ambulatory,2026-05-15 16:00,2026-05-15 16:15,X-ray order
+1344,13,9,3,ambulatory,2026-05-15 13:15,2026-05-15 13:45,Depression follow-up
+1345,193,15,5,emergency,2026-05-15 08:45,2026-05-15 09:00,Laceration
+1346,21,12,4,ambulatory,2026-05-15 08:15,2026-05-15 08:45,Sports injury recovery
+1347,110,3,1,ambulatory,2026-05-15 08:30,2026-05-15 08:45,Hypertension follow-up
+1348,55,17,6,ambulatory,2026-05-15 15:15,2026-05-15 15:35,Pre-op labs
+1349,56,16,6,ambulatory,2026-05-15 13:45,2026-05-15 14:45,Imaging follow-up
+1350,24,5,2,ambulatory,2026-05-15 12:45,2026-05-15 13:45,Ear infection
+1351,203,2,1,ambulatory,2026-05-15 09:45,2026-05-15 10:30,Cold/flu symptoms
+1352,8,8,3,ambulatory,2026-05-15 16:45,2026-05-15 17:05,Anxiety management
+1353,20,14,5,urgent,2026-05-15 08:00,2026-05-15 08:15,Sprain/strain
+1354,10,16,6,ambulatory,2026-05-15 11:00,2026-05-15 11:20,Pre-op labs
+1355,27,9,3,ambulatory,2026-05-15 12:30,2026-05-15 13:30,Depression follow-up
+1356,108,10,4,ambulatory,2026-05-18 15:45,2026-05-18 16:45,Lower back pain
+1357,82,11,4,ambulatory,2026-05-18 13:00,2026-05-18 13:45,Lower back pain
+1358,6,4,2,wellness,2026-05-18 14:00,2026-05-18 15:00,Ear infection
+1359,17,9,3,wellness,2026-05-18 15:15,2026-05-18 15:45,Depression follow-up
+1360,4,14,5,emergency,2026-05-18 12:00,2026-05-18 12:15,Minor fracture eval
+1361,102,1,1,ambulatory,2026-05-18 13:30,2026-05-18 14:30,Hypertension follow-up
+1362,6,13,5,urgent,2026-05-18 08:45,2026-05-18 09:05,Acute respiratory infection
+1363,20,18,6,ambulatory,2026-05-18 08:45,2026-05-18 09:00,Pre-op labs
+1364,143,12,4,ambulatory,2026-05-18 15:15,2026-05-18 15:45,Lower back pain
+1365,216,2,1,ambulatory,2026-05-18 10:15,2026-05-18 11:15,Annual physical
+1366,10,13,5,urgent,2026-05-18 11:30,2026-05-18 12:30,Laceration
+1367,168,6,2,ambulatory,2026-05-18 08:15,2026-05-18 08:35,Sports physical
+1368,81,9,3,ambulatory,2026-05-18 08:00,2026-05-18 09:00,Anxiety management
+1369,209,3,1,ambulatory,2026-05-18 08:45,2026-05-18 09:15,Cold/flu symptoms
+1370,199,6,2,ambulatory,2026-05-18 14:00,2026-05-18 14:45,Sports physical
+1371,105,4,2,ambulatory,2026-05-18 10:15,2026-05-18 11:00,Immunizations
+1372,187,18,6,ambulatory,2026-05-19 08:30,2026-05-19 08:50,Routine bloodwork
+1373,105,17,6,ambulatory,2026-05-19 09:45,2026-05-19 10:15,Imaging follow-up
+1374,29,3,1,ambulatory,2026-05-19 16:00,2026-05-19 16:30,Cold/flu symptoms
+1375,3,4,2,wellness,2026-05-19 16:30,2026-05-19 17:30,Well-child visit
+1376,126,1,1,ambulatory,2026-05-19 10:00,2026-05-19 10:20,Hypertension follow-up
+1377,72,13,5,urgent,2026-05-19 16:30,2026-05-19 17:00,Minor fracture eval
+1378,187,3,1,ambulatory,2026-05-19 10:00,2026-05-19 10:15,Annual physical
+1379,97,3,1,ambulatory,2026-05-19 12:45,2026-05-19 13:00,Medication refill
+1380,205,5,2,ambulatory,2026-05-19 08:00,2026-05-19 09:00,Immunizations
+1381,187,15,5,urgent,2026-05-19 15:00,2026-05-19 15:45,Sprain/strain
+1382,6,4,2,wellness,2026-05-19 16:30,2026-05-19 16:45,Asthma follow-up
+1383,22,18,6,ambulatory,2026-05-19 13:00,2026-05-19 14:00,X-ray order
+1384,39,17,6,ambulatory,2026-05-19 08:15,2026-05-19 08:45,X-ray order
+1385,115,7,3,ambulatory,2026-05-19 14:30,2026-05-19 14:45,Initial intake assessment
+1386,69,1,1,wellness,2026-05-19 08:15,2026-05-19 09:15,Medication refill
+1387,1,17,6,ambulatory,2026-05-19 10:45,2026-05-19 11:05,Imaging follow-up
+1388,117,17,6,ambulatory,2026-05-19 08:00,2026-05-19 08:15,Imaging follow-up
+1389,108,12,4,ambulatory,2026-05-19 09:15,2026-05-19 09:30,Sports injury recovery
+1390,45,3,1,ambulatory,2026-05-19 08:30,2026-05-19 09:30,Hypertension follow-up
+1391,8,1,1,ambulatory,2026-05-19 10:15,2026-05-19 10:35,Diabetes management
+1392,137,14,5,urgent,2026-05-20 13:00,2026-05-20 13:30,Sprain/strain
+1393,113,13,5,urgent,2026-05-20 14:15,2026-05-20 14:45,Minor fracture eval
+1394,205,9,3,wellness,2026-05-20 11:30,2026-05-20 11:45,Depression follow-up
+1395,137,8,3,ambulatory,2026-05-20 10:30,2026-05-20 11:30,Depression follow-up
+1396,181,5,2,ambulatory,2026-05-20 13:45,2026-05-20 14:45,Ear infection
+1397,203,17,6,ambulatory,2026-05-20 12:45,2026-05-20 13:00,Routine bloodwork
+1398,207,7,3,wellness,2026-05-20 12:45,2026-05-20 13:15,Depression follow-up
+1399,108,3,1,wellness,2026-05-20 14:15,2026-05-20 14:35,Diabetes management
+1400,202,6,2,ambulatory,2026-05-20 08:45,2026-05-20 09:05,Ear infection
+1401,136,10,4,ambulatory,2026-05-20 10:45,2026-05-20 11:45,Lower back pain
+1402,207,18,6,ambulatory,2026-05-20 10:00,2026-05-20 10:30,Pre-op labs
+1403,89,16,6,ambulatory,2026-05-20 09:00,2026-05-20 09:30,X-ray order
+1404,48,3,1,ambulatory,2026-05-20 08:00,2026-05-20 08:20,Hypertension follow-up
+1405,165,3,1,wellness,2026-05-20 14:00,2026-05-20 15:00,Diabetes management
+1406,122,2,1,ambulatory,2026-05-21 11:00,2026-05-21 11:45,Cold/flu symptoms
+1407,195,16,6,ambulatory,2026-05-21 13:00,2026-05-21 13:30,Imaging follow-up
+1408,31,18,6,ambulatory,2026-05-21 09:15,2026-05-21 10:00,Routine bloodwork
+1409,136,18,6,ambulatory,2026-05-21 15:00,2026-05-21 15:45,Routine bloodwork
+1410,142,1,1,wellness,2026-05-21 16:00,2026-05-21 16:30,Cold/flu symptoms
+1411,138,7,3,ambulatory,2026-05-21 15:30,2026-05-21 16:00,Initial intake assessment
+1412,186,12,4,ambulatory,2026-05-21 16:30,2026-05-21 17:00,Post-surgical rehab
+1413,55,1,1,ambulatory,2026-05-21 10:15,2026-05-21 11:15,Hypertension follow-up
+1414,67,5,2,ambulatory,2026-05-21 15:00,2026-05-21 15:20,Ear infection
+1415,179,11,4,ambulatory,2026-05-21 10:00,2026-05-21 10:15,Lower back pain
+1416,56,7,3,ambulatory,2026-05-21 13:00,2026-05-21 14:00,Depression follow-up
+1417,148,10,4,ambulatory,2026-05-21 10:30,2026-05-21 11:00,Lower back pain
+1418,109,18,6,ambulatory,2026-05-21 09:00,2026-05-21 09:45,Routine bloodwork
+1419,196,8,3,wellness,2026-05-21 16:45,2026-05-21 17:45,Depression follow-up
+1420,84,1,1,ambulatory,2026-05-21 09:30,2026-05-21 09:45,Cold/flu symptoms
+1421,142,4,2,ambulatory,2026-05-21 13:00,2026-05-21 13:20,Asthma follow-up
+1422,128,12,4,ambulatory,2026-05-21 16:00,2026-05-21 16:20,Post-surgical rehab
+1423,5,5,2,ambulatory,2026-05-21 12:30,2026-05-21 12:45,Ear infection
+1424,93,7,3,ambulatory,2026-05-21 12:45,2026-05-21 13:15,Anxiety management
+1425,136,4,2,ambulatory,2026-05-21 10:45,2026-05-21 11:00,Ear infection
+1426,86,1,1,ambulatory,2026-05-21 14:45,2026-05-21 15:30,Cold/flu symptoms
+1427,168,2,1,ambulatory,2026-05-22 11:15,2026-05-22 12:00,Hypertension follow-up
+1428,92,7,3,wellness,2026-05-22 10:15,2026-05-22 10:45,Initial intake assessment
+1429,200,5,2,ambulatory,2026-05-22 12:00,2026-05-22 12:15,Sports physical
+1430,153,17,6,ambulatory,2026-05-22 15:45,2026-05-22 16:00,Pre-op labs
+1431,153,15,5,urgent,2026-05-22 15:45,2026-05-22 16:05,Minor fracture eval
+1432,54,17,6,ambulatory,2026-05-22 14:15,2026-05-22 15:00,X-ray order
+1433,214,1,1,ambulatory,2026-05-22 13:45,2026-05-22 14:15,Hypertension follow-up
+1434,96,3,1,ambulatory,2026-05-22 12:30,2026-05-22 12:45,Cold/flu symptoms
+1435,3,18,6,ambulatory,2026-05-22 11:15,2026-05-22 12:00,X-ray order
+1436,16,4,2,ambulatory,2026-05-22 16:00,2026-05-22 16:20,Asthma follow-up
+1437,88,7,3,wellness,2026-05-22 08:00,2026-05-22 08:30,Depression follow-up
+1438,148,17,6,ambulatory,2026-05-22 11:00,2026-05-22 12:00,X-ray order
+1439,145,1,1,ambulatory,2026-05-22 14:30,2026-05-22 15:30,Diabetes management
+1440,180,2,1,ambulatory,2026-05-22 15:15,2026-05-22 15:30,Hypertension follow-up
+1441,210,6,2,ambulatory,2026-05-22 08:15,2026-05-22 08:35,Asthma follow-up
+1442,92,11,4,ambulatory,2026-05-22 11:45,2026-05-22 12:15,Balance/fall prevention
+1443,192,14,5,urgent,2026-05-22 15:30,2026-05-22 16:30,Laceration
+1444,96,1,1,ambulatory,2026-05-25 11:00,2026-05-25 11:30,Medication refill
+1445,53,16,6,ambulatory,2026-05-25 10:00,2026-05-25 10:30,Imaging follow-up
+1446,30,4,2,wellness,2026-05-25 11:30,2026-05-25 11:50,Immunizations
+1447,76,1,1,ambulatory,2026-05-25 14:15,2026-05-25 14:30,Diabetes management
+1448,193,2,1,ambulatory,2026-05-25 09:15,2026-05-25 09:30,Hypertension follow-up
+1449,128,1,1,ambulatory,2026-05-25 11:00,2026-05-25 11:15,Annual physical
+1450,199,6,2,ambulatory,2026-05-25 09:15,2026-05-25 10:00,Sports physical
+1451,26,1,1,ambulatory,2026-05-25 13:15,2026-05-25 14:15,Diabetes management
+1452,65,11,4,ambulatory,2026-05-25 14:00,2026-05-25 14:15,Post-surgical rehab
+1453,41,3,1,wellness,2026-05-25 16:30,2026-05-25 16:45,Diabetes management
+1454,26,1,1,wellness,2026-05-25 09:30,2026-05-25 09:50,Hypertension follow-up
+1455,33,6,2,ambulatory,2026-05-25 12:15,2026-05-25 13:15,Sports physical
+1456,51,15,5,urgent,2026-05-26 11:15,2026-05-26 11:35,Acute respiratory infection
+1457,139,6,2,wellness,2026-05-26 12:45,2026-05-26 13:15,Ear infection
+1458,204,15,5,urgent,2026-05-26 15:15,2026-05-26 15:45,Minor fracture eval
+1459,137,4,2,ambulatory,2026-05-26 13:45,2026-05-26 14:05,Asthma follow-up
+1460,218,13,5,urgent,2026-05-26 10:15,2026-05-26 11:00,Laceration
+1461,114,3,1,ambulatory,2026-05-26 10:45,2026-05-26 11:05,Annual physical
+1462,166,2,1,ambulatory,2026-05-26 08:15,2026-05-26 09:15,Hypertension follow-up
+1463,98,16,6,ambulatory,2026-05-26 08:00,2026-05-26 08:30,Routine bloodwork
+1464,29,5,2,wellness,2026-05-26 14:00,2026-05-26 14:15,Immunizations
+1465,59,2,1,ambulatory,2026-05-26 10:15,2026-05-26 10:35,Hypertension follow-up
+1466,67,18,6,ambulatory,2026-05-26 12:00,2026-05-26 12:30,Imaging follow-up
+1467,30,17,6,ambulatory,2026-05-26 11:45,2026-05-26 12:30,Routine bloodwork
+1468,203,16,6,ambulatory,2026-05-26 12:30,2026-05-26 13:00,Imaging follow-up
+1469,113,3,1,ambulatory,2026-05-26 09:45,2026-05-26 10:05,Medication refill
+1470,69,7,3,ambulatory,2026-05-26 14:30,2026-05-26 14:50,Medication management
+1471,198,5,2,wellness,2026-05-26 13:15,2026-05-26 13:35,Asthma follow-up
+1472,69,9,3,ambulatory,2026-05-27 08:00,2026-05-27 08:20,Medication management
+1473,72,3,1,ambulatory,2026-05-27 13:00,2026-05-27 13:30,Hypertension follow-up
+1474,79,13,5,urgent,2026-05-27 15:45,2026-05-27 16:00,Minor fracture eval
+1475,22,5,2,wellness,2026-05-27 15:30,2026-05-27 16:15,Asthma follow-up
+1476,95,10,4,ambulatory,2026-05-27 12:00,2026-05-27 12:45,Post-surgical rehab
+1477,148,16,6,ambulatory,2026-05-27 09:00,2026-05-27 09:15,Pre-op labs
+1478,94,4,2,ambulatory,2026-05-27 14:00,2026-05-27 15:00,Immunizations
+1479,7,10,4,ambulatory,2026-05-27 14:45,2026-05-27 15:05,Balance/fall prevention
+1480,106,14,5,urgent,2026-05-27 15:30,2026-05-27 16:30,Minor fracture eval
+1481,100,13,5,urgent,2026-05-27 15:15,2026-05-27 15:45,Laceration
+1482,164,18,6,ambulatory,2026-05-27 12:15,2026-05-27 12:30,Pre-op labs
+1483,175,11,4,ambulatory,2026-05-27 15:00,2026-05-27 16:00,Post-surgical rehab
+1484,4,18,6,ambulatory,2026-05-27 15:15,2026-05-27 16:00,X-ray order
+1485,108,1,1,wellness,2026-05-27 13:15,2026-05-27 13:45,Diabetes management
+1486,138,15,5,urgent,2026-05-27 11:00,2026-05-27 12:00,Acute respiratory infection
+1487,116,11,4,ambulatory,2026-05-27 08:45,2026-05-27 09:15,Balance/fall prevention
+1488,136,6,2,ambulatory,2026-05-27 12:15,2026-05-27 13:00,Ear infection
+1489,107,13,5,urgent,2026-05-27 15:00,2026-05-27 15:15,Fever eval
+1490,198,5,2,wellness,2026-05-27 10:00,2026-05-27 11:00,Asthma follow-up
+1491,162,17,6,ambulatory,2026-05-27 12:00,2026-05-27 12:45,Routine bloodwork
+1492,136,1,1,ambulatory,2026-05-27 14:15,2026-05-27 14:35,Annual physical
+1493,87,9,3,wellness,2026-05-28 10:45,2026-05-28 11:45,Initial intake assessment
+1494,220,17,6,ambulatory,2026-05-28 09:15,2026-05-28 10:15,Routine bloodwork
+1495,108,13,5,urgent,2026-05-28 11:30,2026-05-28 11:45,Acute respiratory infection
+1496,189,1,1,wellness,2026-05-28 12:15,2026-05-28 12:35,Annual physical
+1497,94,17,6,ambulatory,2026-05-28 11:00,2026-05-28 12:00,X-ray order
+1498,1,5,2,ambulatory,2026-05-28 12:15,2026-05-28 13:00,Ear infection
+1499,180,4,2,wellness,2026-05-28 15:30,2026-05-28 15:45,Well-child visit
+1500,146,6,2,ambulatory,2026-05-28 15:15,2026-05-28 15:35,Asthma follow-up
+1501,104,8,3,ambulatory,2026-05-28 16:45,2026-05-28 17:05,Medication management
+1502,66,1,1,ambulatory,2026-05-28 16:45,2026-05-28 17:30,Cold/flu symptoms
+1503,146,2,1,wellness,2026-05-28 14:15,2026-05-28 15:15,Annual physical
+1504,143,14,5,urgent,2026-05-28 16:45,2026-05-28 17:05,Acute respiratory infection
+1505,191,3,1,ambulatory,2026-05-28 09:15,2026-05-28 09:45,Cold/flu symptoms
+1506,179,3,1,ambulatory,2026-05-28 14:15,2026-05-28 14:35,Hypertension follow-up
+1507,53,4,2,wellness,2026-05-28 15:30,2026-05-28 16:00,Asthma follow-up
+1508,77,14,5,emergency,2026-05-28 10:15,2026-05-28 10:35,Minor fracture eval
+1509,110,2,1,ambulatory,2026-05-28 09:30,2026-05-28 10:30,Medication refill
+1510,22,1,1,ambulatory,2026-05-28 13:15,2026-05-28 14:15,Hypertension follow-up
+1511,40,5,2,wellness,2026-05-28 12:00,2026-05-28 12:20,Asthma follow-up
+1512,50,18,6,ambulatory,2026-05-28 15:30,2026-05-28 15:50,Pre-op labs
+1513,46,12,4,ambulatory,2026-05-29 08:15,2026-05-29 08:35,Lower back pain
+1514,49,1,1,ambulatory,2026-05-29 10:30,2026-05-29 11:00,Annual physical
+1515,114,7,3,wellness,2026-05-29 16:45,2026-05-29 17:15,Anxiety management
+1516,66,4,2,ambulatory,2026-05-29 09:30,2026-05-29 10:00,Ear infection
+1517,101,6,2,wellness,2026-05-29 13:15,2026-05-29 13:30,Asthma follow-up
+1518,63,6,2,ambulatory,2026-05-29 12:30,2026-05-29 12:50,Sports physical
+1519,7,3,1,wellness,2026-05-29 11:45,2026-05-29 12:15,Diabetes management
+1520,191,12,4,ambulatory,2026-05-29 08:45,2026-05-29 09:00,Sports injury recovery
+1521,73,17,6,ambulatory,2026-05-29 14:15,2026-05-29 14:35,Routine bloodwork
+1522,77,11,4,ambulatory,2026-05-29 12:00,2026-05-29 12:15,Balance/fall prevention
+1523,174,10,4,ambulatory,2026-05-29 09:00,2026-05-29 09:45,Post-surgical rehab
+1524,86,4,2,wellness,2026-05-29 12:30,2026-05-29 12:45,Immunizations
+1525,9,11,4,ambulatory,2026-05-29 12:45,2026-05-29 13:00,Sports injury recovery
+1526,94,8,3,wellness,2026-05-29 12:30,2026-05-29 12:45,Depression follow-up
+1527,19,6,2,wellness,2026-05-29 13:15,2026-05-29 13:35,Asthma follow-up
+1528,195,6,2,wellness,2026-05-29 14:00,2026-05-29 14:15,Immunizations
+1529,209,2,1,wellness,2026-05-29 15:00,2026-05-29 15:45,Cold/flu symptoms
+1530,102,5,2,ambulatory,2026-05-29 14:00,2026-05-29 15:00,Sports physical
+1531,3,10,4,ambulatory,2026-05-29 11:00,2026-05-29 11:20,Post-surgical rehab
+1532,87,2,1,ambulatory,2026-05-29 11:45,2026-05-29 12:30,Medication refill
+1533,76,5,2,wellness,2026-06-01 13:30,2026-06-01 14:00,Immunizations
+1534,132,16,6,ambulatory,2026-06-01 09:00,2026-06-01 09:30,X-ray order
+1535,196,17,6,ambulatory,2026-06-01 13:45,2026-06-01 14:45,Pre-op labs
+1536,208,13,5,urgent,2026-06-01 14:15,2026-06-01 15:00,Minor fracture eval
+1537,175,4,2,ambulatory,2026-06-01 09:45,2026-06-01 10:00,Asthma follow-up
+1538,147,5,2,ambulatory,2026-06-01 13:15,2026-06-01 13:45,Well-child visit
+1539,15,8,3,wellness,2026-06-01 14:30,2026-06-01 15:00,Anxiety management
+1540,147,13,5,urgent,2026-06-01 09:45,2026-06-01 10:00,Acute respiratory infection
+1541,83,10,4,ambulatory,2026-06-01 15:30,2026-06-01 15:45,Post-surgical rehab
+1542,191,13,5,emergency,2026-06-01 15:45,2026-06-01 16:05,Fever eval
+1543,111,2,1,ambulatory,2026-06-01 11:15,2026-06-01 12:15,Diabetes management
+1544,75,17,6,ambulatory,2026-06-01 12:00,2026-06-01 12:45,Pre-op labs
+1545,168,6,2,ambulatory,2026-06-01 12:15,2026-06-01 12:35,Sports physical
+1546,176,1,1,ambulatory,2026-06-01 08:00,2026-06-01 09:00,Hypertension follow-up
+1547,55,4,2,ambulatory,2026-06-01 15:00,2026-06-01 15:15,Immunizations
+1548,112,17,6,ambulatory,2026-06-01 09:15,2026-06-01 09:35,Imaging follow-up
+1549,48,1,1,ambulatory,2026-06-01 10:15,2026-06-01 11:15,Cold/flu symptoms
+1550,102,13,5,emergency,2026-06-01 14:30,2026-06-01 15:15,Laceration
+1551,211,6,2,ambulatory,2026-06-02 15:30,2026-06-02 16:00,Asthma follow-up
+1552,117,8,3,ambulatory,2026-06-02 10:30,2026-06-02 11:15,Depression follow-up
+1553,170,3,1,ambulatory,2026-06-02 14:30,2026-06-02 15:30,Hypertension follow-up
+1554,56,3,1,wellness,2026-06-02 15:30,2026-06-02 16:00,Medication refill
+1555,153,2,1,wellness,2026-06-02 11:15,2026-06-02 12:15,Cold/flu symptoms
+1556,26,5,2,ambulatory,2026-06-02 09:15,2026-06-02 10:15,Sports physical
+1557,65,16,6,ambulatory,2026-06-02 08:00,2026-06-02 09:00,X-ray order
+1558,78,18,6,ambulatory,2026-06-02 15:30,2026-06-02 15:45,Pre-op labs
+1559,135,18,6,ambulatory,2026-06-02 10:15,2026-06-02 10:30,Imaging follow-up
+1560,99,4,2,wellness,2026-06-02 09:15,2026-06-02 10:15,Sports physical
+1561,101,11,4,ambulatory,2026-06-02 08:30,2026-06-02 08:45,Balance/fall prevention
+1562,40,17,6,ambulatory,2026-06-02 11:45,2026-06-02 12:30,Routine bloodwork
+1563,26,7,3,ambulatory,2026-06-02 13:30,2026-06-02 14:30,Initial intake assessment
+1564,84,17,6,ambulatory,2026-06-02 13:45,2026-06-02 14:00,Routine bloodwork
+1565,115,3,1,ambulatory,2026-06-02 16:45,2026-06-02 17:30,Diabetes management
+1566,28,5,2,ambulatory,2026-06-02 10:30,2026-06-02 10:50,Well-child visit
+1567,137,2,1,ambulatory,2026-06-02 08:15,2026-06-02 09:00,Cold/flu symptoms
+1568,77,3,1,ambulatory,2026-06-02 10:15,2026-06-02 11:15,Cold/flu symptoms
+1569,58,12,4,ambulatory,2026-06-02 08:30,2026-06-02 09:30,Balance/fall prevention
+1570,125,9,3,ambulatory,2026-06-02 12:30,2026-06-02 13:30,Anxiety management
+1571,77,4,2,ambulatory,2026-06-02 08:45,2026-06-02 09:30,Asthma follow-up
+1572,147,13,5,urgent,2026-06-02 12:00,2026-06-02 13:00,Laceration
+1573,167,4,2,ambulatory,2026-06-02 11:00,2026-06-02 12:00,Sports physical
+1574,120,16,6,ambulatory,2026-06-02 11:30,2026-06-02 12:30,Imaging follow-up
+1575,34,12,4,ambulatory,2026-06-03 13:45,2026-06-03 14:05,Lower back pain
+1576,8,17,6,ambulatory,2026-06-03 13:45,2026-06-03 14:45,Imaging follow-up
+1577,50,2,1,wellness,2026-06-03 08:45,2026-06-03 09:30,Medication refill
+1578,76,10,4,ambulatory,2026-06-03 10:45,2026-06-03 11:30,Balance/fall prevention
+1579,35,16,6,ambulatory,2026-06-03 15:15,2026-06-03 15:35,X-ray order
+1580,15,9,3,ambulatory,2026-06-03 14:30,2026-06-03 15:30,Anxiety management
+1581,19,5,2,wellness,2026-06-03 15:45,2026-06-03 16:30,Immunizations
+1582,150,11,4,ambulatory,2026-06-03 09:30,2026-06-03 09:50,Sports injury recovery
+1583,54,9,3,wellness,2026-06-03 12:45,2026-06-03 13:00,Depression follow-up
+1584,155,12,4,ambulatory,2026-06-03 08:30,2026-06-03 08:45,Lower back pain
+1585,124,10,4,ambulatory,2026-06-03 10:15,2026-06-03 10:45,Sports injury recovery
+1586,131,8,3,wellness,2026-06-03 14:15,2026-06-03 15:00,Medication management
+1587,197,4,2,ambulatory,2026-06-03 11:00,2026-06-03 11:20,Well-child visit
+1588,123,15,5,urgent,2026-06-03 11:30,2026-06-03 12:00,Laceration
+1589,14,2,1,wellness,2026-06-03 09:15,2026-06-03 09:30,Annual physical
+1590,210,11,4,ambulatory,2026-06-04 16:00,2026-06-04 16:20,Balance/fall prevention
+1591,206,5,2,wellness,2026-06-04 12:30,2026-06-04 12:45,Ear infection
+1592,210,16,6,ambulatory,2026-06-04 14:45,2026-06-04 15:30,Imaging follow-up
+1593,130,2,1,wellness,2026-06-04 11:00,2026-06-04 11:45,Cold/flu symptoms
+1594,101,6,2,wellness,2026-06-04 11:00,2026-06-04 11:20,Ear infection
+1595,97,1,1,wellness,2026-06-04 13:00,2026-06-04 13:45,Annual physical
+1596,75,17,6,ambulatory,2026-06-04 14:45,2026-06-04 15:45,Imaging follow-up
+1597,161,4,2,ambulatory,2026-06-04 12:00,2026-06-04 12:15,Well-child visit
+1598,104,10,4,ambulatory,2026-06-04 16:00,2026-06-04 16:45,Sports injury recovery
+1599,181,13,5,urgent,2026-06-04 12:15,2026-06-04 12:45,Fever eval
+1600,52,13,5,urgent,2026-06-04 08:15,2026-06-04 09:00,Laceration
+1601,32,5,2,wellness,2026-06-04 14:45,2026-06-04 15:15,Well-child visit
+1602,35,1,1,ambulatory,2026-06-04 10:15,2026-06-04 11:00,Medication refill
+1603,19,18,6,ambulatory,2026-06-04 13:15,2026-06-04 14:15,Routine bloodwork
+1604,199,1,1,ambulatory,2026-06-04 09:45,2026-06-04 10:00,Cold/flu symptoms
+1605,64,2,1,ambulatory,2026-06-04 10:45,2026-06-04 11:15,Medication refill
+1606,164,10,4,ambulatory,2026-06-04 10:45,2026-06-04 11:00,Sports injury recovery
+1607,83,3,1,ambulatory,2026-06-04 10:30,2026-06-04 11:15,Diabetes management
+1608,59,3,1,wellness,2026-06-05 08:30,2026-06-05 09:15,Diabetes management
+1609,22,15,5,urgent,2026-06-05 13:45,2026-06-05 14:45,Acute respiratory infection
+1610,75,16,6,ambulatory,2026-06-05 08:30,2026-06-05 08:45,X-ray order
+1611,63,14,5,emergency,2026-06-05 09:30,2026-06-05 10:30,Sprain/strain
+1612,27,9,3,ambulatory,2026-06-05 15:00,2026-06-05 15:20,Initial intake assessment
+1613,215,5,2,ambulatory,2026-06-05 14:00,2026-06-05 14:30,Sports physical
+1614,129,1,1,ambulatory,2026-06-05 13:30,2026-06-05 13:45,Hypertension follow-up
+1615,64,17,6,ambulatory,2026-06-05 11:15,2026-06-05 12:15,X-ray order
+1616,79,3,1,ambulatory,2026-06-05 11:00,2026-06-05 11:20,Diabetes management
+1617,86,14,5,urgent,2026-06-08 14:30,2026-06-08 15:15,Acute respiratory infection
+1618,68,13,5,urgent,2026-06-08 16:45,2026-06-08 17:30,Sprain/strain
+1619,92,7,3,ambulatory,2026-06-08 09:30,2026-06-08 10:00,Medication management
+1620,41,8,3,ambulatory,2026-06-08 11:00,2026-06-08 11:30,Medication management
+1621,218,2,1,wellness,2026-06-08 13:15,2026-06-08 13:45,Cold/flu symptoms
+1622,179,3,1,wellness,2026-06-08 14:15,2026-06-08 14:35,Medication refill
+1623,194,18,6,ambulatory,2026-06-08 14:45,2026-06-08 15:05,Routine bloodwork
+1624,179,15,5,urgent,2026-06-08 14:15,2026-06-08 15:15,Acute respiratory infection
+1625,110,6,2,ambulatory,2026-06-08 08:45,2026-06-08 09:45,Sports physical
+1626,156,15,5,urgent,2026-06-08 16:00,2026-06-08 16:45,Sprain/strain
+1627,43,3,1,ambulatory,2026-06-08 09:30,2026-06-08 10:30,Cold/flu symptoms
+1628,32,1,1,ambulatory,2026-06-08 14:15,2026-06-08 14:35,Annual physical
+1629,43,15,5,urgent,2026-06-08 14:30,2026-06-08 14:45,Minor fracture eval
+1630,68,3,1,wellness,2026-06-08 09:00,2026-06-08 09:45,Cold/flu symptoms
+1631,106,16,6,ambulatory,2026-06-08 16:15,2026-06-08 16:30,Pre-op labs
+1632,8,6,2,ambulatory,2026-06-09 14:15,2026-06-09 14:35,Sports physical
+1633,56,5,2,ambulatory,2026-06-09 14:45,2026-06-09 15:00,Ear infection
+1634,10,4,2,ambulatory,2026-06-09 16:45,2026-06-09 17:05,Asthma follow-up
+1635,217,4,2,ambulatory,2026-06-09 12:30,2026-06-09 12:45,Immunizations
+1636,123,9,3,wellness,2026-06-09 09:45,2026-06-09 10:15,Depression follow-up
+1637,219,13,5,urgent,2026-06-09 09:45,2026-06-09 10:30,Minor fracture eval
+1638,42,13,5,emergency,2026-06-09 16:00,2026-06-09 16:15,Minor fracture eval
+1639,55,15,5,urgent,2026-06-09 14:45,2026-06-09 15:05,Fever eval
+1640,10,10,4,ambulatory,2026-06-09 15:30,2026-06-09 15:50,Sports injury recovery
+1641,13,2,1,ambulatory,2026-06-09 11:00,2026-06-09 11:20,Diabetes management
+1642,141,5,2,ambulatory,2026-06-09 13:30,2026-06-09 13:50,Immunizations
+1643,125,11,4,ambulatory,2026-06-09 09:45,2026-06-09 10:45,Sports injury recovery
+1644,154,6,2,ambulatory,2026-06-09 08:00,2026-06-09 08:20,Ear infection
+1645,76,6,2,ambulatory,2026-06-10 10:45,2026-06-10 11:15,Asthma follow-up
+1646,220,2,1,wellness,2026-06-10 12:00,2026-06-10 13:00,Hypertension follow-up
+1647,2,7,3,ambulatory,2026-06-10 14:45,2026-06-10 15:00,Anxiety management
+1648,50,7,3,wellness,2026-06-10 09:00,2026-06-10 09:20,Depression follow-up
+1649,73,1,1,ambulatory,2026-06-10 16:30,2026-06-10 16:45,Diabetes management
+1650,10,1,1,wellness,2026-06-10 16:30,2026-06-10 17:00,Hypertension follow-up
+1651,50,14,5,urgent,2026-06-10 13:45,2026-06-10 14:00,Sprain/strain
+1652,93,15,5,urgent,2026-06-10 15:00,2026-06-10 15:30,Laceration
+1653,202,4,2,wellness,2026-06-10 09:30,2026-06-10 09:50,Asthma follow-up
+1654,173,3,1,wellness,2026-06-10 11:00,2026-06-10 11:20,Annual physical
+1655,159,3,1,wellness,2026-06-10 15:30,2026-06-10 16:00,Diabetes management
+1656,152,17,6,ambulatory,2026-06-10 12:00,2026-06-10 13:00,Pre-op labs
+1657,77,15,5,urgent,2026-06-10 13:15,2026-06-10 13:45,Laceration
+1658,60,7,3,ambulatory,2026-06-10 12:30,2026-06-10 13:15,Initial intake assessment
+1659,108,1,1,wellness,2026-06-10 16:00,2026-06-10 17:00,Medication refill
+1660,186,5,2,ambulatory,2026-06-10 10:45,2026-06-10 11:45,Asthma follow-up
+1661,62,4,2,wellness,2026-06-10 10:30,2026-06-10 11:15,Sports physical
+1662,185,1,1,ambulatory,2026-06-11 13:15,2026-06-11 13:45,Cold/flu symptoms
+1663,8,9,3,ambulatory,2026-06-11 10:45,2026-06-11 11:30,Depression follow-up
+1664,57,1,1,wellness,2026-06-11 10:30,2026-06-11 11:30,Annual physical
+1665,155,1,1,ambulatory,2026-06-11 14:15,2026-06-11 15:00,Medication refill
+1666,154,4,2,ambulatory,2026-06-11 10:00,2026-06-11 11:00,Asthma follow-up
+1667,98,2,1,wellness,2026-06-11 11:45,2026-06-11 12:05,Hypertension follow-up
+1668,151,1,1,ambulatory,2026-06-11 16:00,2026-06-11 16:15,Annual physical
+1669,28,13,5,urgent,2026-06-11 11:15,2026-06-11 11:30,Fever eval
+1670,154,14,5,urgent,2026-06-11 12:00,2026-06-11 12:20,Acute respiratory infection
+1671,22,1,1,ambulatory,2026-06-11 15:45,2026-06-11 16:30,Medication refill
+1672,114,13,5,urgent,2026-06-11 08:00,2026-06-11 08:45,Sprain/strain
+1673,110,18,6,ambulatory,2026-06-11 13:00,2026-06-11 14:00,X-ray order
+1674,166,3,1,ambulatory,2026-06-11 15:00,2026-06-11 15:15,Hypertension follow-up
+1675,162,11,4,ambulatory,2026-06-11 14:15,2026-06-11 15:15,Balance/fall prevention
+1676,97,1,1,wellness,2026-06-11 16:30,2026-06-11 17:00,Annual physical
+1677,117,16,6,ambulatory,2026-06-11 13:15,2026-06-11 13:35,X-ray order
+1678,154,5,2,wellness,2026-06-11 16:45,2026-06-11 17:45,Immunizations
+1679,128,3,1,ambulatory,2026-06-11 13:00,2026-06-11 13:30,Annual physical
+1680,209,13,5,urgent,2026-06-11 14:30,2026-06-11 14:45,Minor fracture eval
+1681,47,14,5,urgent,2026-06-11 12:30,2026-06-11 13:30,Acute respiratory infection
+1682,136,17,6,ambulatory,2026-06-12 15:30,2026-06-12 15:45,Routine bloodwork
+1683,36,6,2,ambulatory,2026-06-12 08:45,2026-06-12 09:00,Asthma follow-up
+1684,14,3,1,ambulatory,2026-06-12 10:45,2026-06-12 11:45,Cold/flu symptoms
+1685,127,14,5,urgent,2026-06-12 15:00,2026-06-12 16:00,Acute respiratory infection
+1686,14,6,2,ambulatory,2026-06-12 08:15,2026-06-12 09:15,Sports physical
+1687,199,13,5,urgent,2026-06-12 11:15,2026-06-12 12:00,Laceration
+1688,114,9,3,ambulatory,2026-06-12 14:15,2026-06-12 14:30,Initial intake assessment
+1689,7,16,6,ambulatory,2026-06-12 08:30,2026-06-12 08:50,X-ray order
+1690,177,13,5,urgent,2026-06-12 16:45,2026-06-12 17:45,Acute respiratory infection
+1691,154,17,6,ambulatory,2026-06-12 10:00,2026-06-12 10:20,X-ray order
+1692,20,13,5,emergency,2026-06-12 09:30,2026-06-12 10:00,Minor fracture eval
+1693,16,4,2,ambulatory,2026-06-12 08:30,2026-06-12 09:00,Asthma follow-up
+1694,168,3,1,ambulatory,2026-06-12 12:15,2026-06-12 13:15,Cold/flu symptoms
+1695,104,13,5,urgent,2026-06-12 16:30,2026-06-12 16:50,Laceration
+1696,27,18,6,ambulatory,2026-06-12 14:15,2026-06-12 15:00,Pre-op labs
+1697,109,18,6,ambulatory,2026-06-12 09:00,2026-06-12 09:20,X-ray order
+1698,122,1,1,ambulatory,2026-06-12 13:00,2026-06-12 14:00,Medication refill
+1699,84,11,4,ambulatory,2026-06-15 15:15,2026-06-15 15:45,Lower back pain
+1700,169,2,1,ambulatory,2026-06-15 09:45,2026-06-15 10:30,Cold/flu symptoms
+1701,53,14,5,urgent,2026-06-15 10:45,2026-06-15 11:15,Acute respiratory infection
+1702,16,15,5,urgent,2026-06-15 10:30,2026-06-15 10:50,Laceration
+1703,138,16,6,ambulatory,2026-06-15 15:15,2026-06-15 16:00,Pre-op labs
+1704,124,3,1,wellness,2026-06-15 16:45,2026-06-15 17:00,Medication refill
+1705,184,1,1,ambulatory,2026-06-15 10:15,2026-06-15 11:00,Annual physical
+1706,194,16,6,ambulatory,2026-06-15 14:00,2026-06-15 14:30,Pre-op labs
+1707,198,14,5,urgent,2026-06-15 15:45,2026-06-15 16:00,Acute respiratory infection
+1708,94,3,1,ambulatory,2026-06-15 10:30,2026-06-15 10:50,Cold/flu symptoms
+1709,149,1,1,ambulatory,2026-06-15 12:15,2026-06-15 12:35,Hypertension follow-up
+1710,86,7,3,ambulatory,2026-06-15 09:00,2026-06-15 09:20,Anxiety management
+1711,130,7,3,ambulatory,2026-06-15 10:45,2026-06-15 11:45,Medication management
+1712,130,2,1,wellness,2026-06-16 11:30,2026-06-16 12:15,Hypertension follow-up
+1713,99,11,4,ambulatory,2026-06-16 11:45,2026-06-16 12:00,Lower back pain
+1714,178,17,6,ambulatory,2026-06-16 10:45,2026-06-16 11:15,Imaging follow-up
+1715,43,18,6,ambulatory,2026-06-16 15:15,2026-06-16 15:30,Pre-op labs
+1716,72,2,1,ambulatory,2026-06-16 10:45,2026-06-16 11:30,Cold/flu symptoms
+1717,86,13,5,urgent,2026-06-16 12:00,2026-06-16 12:20,Laceration
+1718,109,14,5,urgent,2026-06-16 09:15,2026-06-16 10:15,Minor fracture eval
+1719,78,3,1,ambulatory,2026-06-16 12:45,2026-06-16 13:45,Annual physical
+1720,200,18,6,ambulatory,2026-06-16 11:00,2026-06-16 11:20,Imaging follow-up
+1721,32,3,1,wellness,2026-06-16 12:15,2026-06-16 12:30,Medication refill
+1722,110,8,3,ambulatory,2026-06-16 09:45,2026-06-16 10:45,Depression follow-up
+1723,42,15,5,urgent,2026-06-16 15:45,2026-06-16 16:45,Fever eval
+1724,165,14,5,urgent,2026-06-17 14:00,2026-06-17 15:00,Sprain/strain
+1725,123,5,2,ambulatory,2026-06-17 10:45,2026-06-17 11:45,Asthma follow-up
+1726,137,6,2,ambulatory,2026-06-17 13:00,2026-06-17 13:45,Well-child visit
+1727,147,10,4,ambulatory,2026-06-17 09:15,2026-06-17 09:30,Post-surgical rehab
+1728,2,13,5,urgent,2026-06-17 10:30,2026-06-17 10:45,Acute respiratory infection
+1729,88,1,1,wellness,2026-06-17 08:00,2026-06-17 08:45,Cold/flu symptoms
+1730,89,15,5,urgent,2026-06-17 10:15,2026-06-17 11:00,Fever eval
+1731,4,1,1,ambulatory,2026-06-17 11:00,2026-06-17 12:00,Annual physical
+1732,121,7,3,wellness,2026-06-17 12:00,2026-06-17 13:00,Anxiety management
+1733,174,5,2,ambulatory,2026-06-17 12:00,2026-06-17 12:30,Asthma follow-up
+1734,186,2,1,ambulatory,2026-06-17 12:45,2026-06-17 13:15,Medication refill
+1735,144,8,3,wellness,2026-06-17 11:30,2026-06-17 12:15,Initial intake assessment
+1736,75,9,3,ambulatory,2026-06-17 10:45,2026-06-17 11:30,Depression follow-up
+1737,87,18,6,ambulatory,2026-06-17 16:00,2026-06-17 17:00,X-ray order
+1738,43,5,2,wellness,2026-06-17 08:00,2026-06-17 08:20,Immunizations
+1739,37,17,6,ambulatory,2026-06-17 13:30,2026-06-17 13:50,Pre-op labs
+1740,29,5,2,ambulatory,2026-06-17 08:15,2026-06-17 08:45,Ear infection
+1741,17,1,1,ambulatory,2026-06-17 15:30,2026-06-17 15:45,Diabetes management
+1742,169,1,1,ambulatory,2026-06-17 08:30,2026-06-17 08:50,Diabetes management
+1743,58,11,4,ambulatory,2026-06-18 16:15,2026-06-18 17:00,Sports injury recovery
+1744,211,18,6,ambulatory,2026-06-18 09:15,2026-06-18 09:35,Imaging follow-up
+1745,9,15,5,urgent,2026-06-18 14:15,2026-06-18 14:45,Minor fracture eval
+1746,217,4,2,ambulatory,2026-06-18 13:45,2026-06-18 14:30,Immunizations
+1747,135,2,1,ambulatory,2026-06-18 16:45,2026-06-18 17:00,Hypertension follow-up
+1748,62,11,4,ambulatory,2026-06-18 08:15,2026-06-18 08:45,Balance/fall prevention
+1749,85,6,2,wellness,2026-06-18 16:15,2026-06-18 16:35,Asthma follow-up
+1750,212,4,2,wellness,2026-06-18 16:00,2026-06-18 16:30,Well-child visit
+1751,45,15,5,urgent,2026-06-18 11:00,2026-06-18 12:00,Sprain/strain
+1752,184,10,4,ambulatory,2026-06-18 13:30,2026-06-18 14:00,Post-surgical rehab
+1753,96,6,2,ambulatory,2026-06-18 09:00,2026-06-18 09:30,Sports physical
+1754,175,1,1,wellness,2026-06-18 09:45,2026-06-18 10:45,Cold/flu symptoms
+1755,37,2,1,wellness,2026-06-18 09:00,2026-06-18 09:45,Cold/flu symptoms
+1756,114,17,6,ambulatory,2026-06-19 11:45,2026-06-19 12:30,Pre-op labs
+1757,75,3,1,ambulatory,2026-06-19 09:30,2026-06-19 09:50,Hypertension follow-up
+1758,97,3,1,wellness,2026-06-19 16:15,2026-06-19 16:30,Medication refill
+1759,70,13,5,urgent,2026-06-19 08:15,2026-06-19 08:35,Fever eval
+1760,26,17,6,ambulatory,2026-06-19 11:15,2026-06-19 11:30,Routine bloodwork
+1761,141,6,2,ambulatory,2026-06-19 13:15,2026-06-19 14:00,Immunizations
+1762,61,1,1,wellness,2026-06-19 09:45,2026-06-19 10:30,Cold/flu symptoms
+1763,26,6,2,ambulatory,2026-06-19 15:00,2026-06-19 15:15,Immunizations
+1764,2,2,1,wellness,2026-06-19 13:00,2026-06-19 13:30,Medication refill
+1765,37,8,3,wellness,2026-06-19 14:30,2026-06-19 14:45,Depression follow-up
+1766,188,5,2,wellness,2026-06-19 09:45,2026-06-19 10:30,Immunizations
+1767,199,14,5,urgent,2026-06-19 15:15,2026-06-19 15:45,Minor fracture eval
+1768,43,13,5,urgent,2026-06-19 10:15,2026-06-19 11:00,Acute respiratory infection
+1769,53,2,1,wellness,2026-06-19 11:00,2026-06-19 11:20,Hypertension follow-up
+1770,96,10,4,ambulatory,2026-06-19 10:30,2026-06-19 11:00,Balance/fall prevention
+1771,100,8,3,ambulatory,2026-06-19 14:45,2026-06-19 15:00,Depression follow-up
+1772,57,3,1,ambulatory,2026-06-19 11:45,2026-06-19 12:05,Hypertension follow-up
+1773,41,3,1,ambulatory,2026-06-22 15:00,2026-06-22 15:15,Hypertension follow-up
+1774,86,17,6,ambulatory,2026-06-22 15:30,2026-06-22 15:50,X-ray order
+1775,29,1,1,ambulatory,2026-06-22 16:45,2026-06-22 17:00,Cold/flu symptoms
+1776,206,9,3,wellness,2026-06-22 13:45,2026-06-22 14:15,Depression follow-up
+1777,106,12,4,ambulatory,2026-06-22 11:45,2026-06-22 12:30,Lower back pain
+1778,179,10,4,ambulatory,2026-06-22 08:00,2026-06-22 08:20,Balance/fall prevention
+1779,44,15,5,urgent,2026-06-22 09:45,2026-06-22 10:45,Laceration
+1780,69,17,6,ambulatory,2026-06-22 08:00,2026-06-22 08:30,Imaging follow-up
+1781,129,5,2,ambulatory,2026-06-22 13:45,2026-06-22 14:05,Sports physical
+1782,214,13,5,urgent,2026-06-22 10:30,2026-06-22 10:50,Laceration
+1783,67,11,4,ambulatory,2026-06-22 09:15,2026-06-22 10:00,Lower back pain
+1784,155,1,1,ambulatory,2026-06-22 08:45,2026-06-22 09:45,Medication refill
+1785,162,10,4,ambulatory,2026-06-22 12:00,2026-06-22 12:20,Post-surgical rehab
+1786,123,13,5,urgent,2026-06-22 11:30,2026-06-22 11:45,Minor fracture eval
+1787,203,15,5,urgent,2026-06-22 11:00,2026-06-22 11:15,Acute respiratory infection
+1788,167,16,6,ambulatory,2026-06-22 12:30,2026-06-22 13:00,X-ray order
+1789,2,14,5,urgent,2026-06-23 12:45,2026-06-23 13:15,Acute respiratory infection
+1790,73,3,1,ambulatory,2026-06-23 12:45,2026-06-23 13:15,Medication refill
+1791,35,6,2,ambulatory,2026-06-23 13:00,2026-06-23 13:15,Well-child visit
+1792,99,14,5,urgent,2026-06-23 13:30,2026-06-23 14:15,Sprain/strain
+1793,109,9,3,wellness,2026-06-23 10:15,2026-06-23 10:30,Initial intake assessment
+1794,211,18,6,ambulatory,2026-06-23 16:15,2026-06-23 16:35,Imaging follow-up
+1795,109,5,2,wellness,2026-06-23 10:15,2026-06-23 10:35,Immunizations
+1796,189,7,3,wellness,2026-06-23 14:45,2026-06-23 15:15,Initial intake assessment
+1797,46,6,2,ambulatory,2026-06-23 10:30,2026-06-23 10:50,Ear infection
+1798,163,18,6,ambulatory,2026-06-23 16:30,2026-06-23 17:00,Pre-op labs
+1799,154,5,2,ambulatory,2026-06-23 15:45,2026-06-23 16:45,Asthma follow-up
+1800,71,14,5,urgent,2026-06-23 10:45,2026-06-23 11:30,Fever eval
+1801,180,14,5,emergency,2026-06-23 08:45,2026-06-23 09:05,Laceration
+1802,204,14,5,urgent,2026-06-23 15:00,2026-06-23 15:15,Laceration
+1803,109,12,4,ambulatory,2026-06-23 08:00,2026-06-23 08:30,Lower back pain
+1804,166,4,2,ambulatory,2026-06-24 14:45,2026-06-24 15:05,Immunizations
+1805,151,15,5,urgent,2026-06-24 10:30,2026-06-24 11:15,Minor fracture eval
+1806,194,7,3,ambulatory,2026-06-24 12:00,2026-06-24 12:45,Medication management
+1807,54,15,5,urgent,2026-06-24 08:30,2026-06-24 09:15,Acute respiratory infection
+1808,56,2,1,ambulatory,2026-06-24 12:30,2026-06-24 12:45,Medication refill
+1809,39,12,4,ambulatory,2026-06-24 11:15,2026-06-24 11:30,Post-surgical rehab
+1810,72,17,6,ambulatory,2026-06-24 13:45,2026-06-24 14:30,X-ray order
+1811,179,8,3,ambulatory,2026-06-24 16:45,2026-06-24 17:15,Medication management
+1812,86,18,6,ambulatory,2026-06-24 10:30,2026-06-24 11:15,Pre-op labs
+1813,122,9,3,ambulatory,2026-06-24 08:30,2026-06-24 09:00,Initial intake assessment
+1814,167,13,5,emergency,2026-06-24 11:00,2026-06-24 11:45,Sprain/strain
+1815,39,6,2,ambulatory,2026-06-24 12:30,2026-06-24 12:50,Ear infection
+1816,34,18,6,ambulatory,2026-06-24 14:45,2026-06-24 15:00,Routine bloodwork
+1817,129,12,4,ambulatory,2026-06-25 14:30,2026-06-25 15:15,Sports injury recovery
+1818,103,14,5,urgent,2026-06-25 14:00,2026-06-25 14:15,Fever eval
+1819,188,5,2,wellness,2026-06-25 14:45,2026-06-25 15:15,Sports physical
+1820,151,9,3,ambulatory,2026-06-25 08:00,2026-06-25 08:45,Depression follow-up
+1821,219,8,3,ambulatory,2026-06-25 13:30,2026-06-25 14:00,Initial intake assessment
+1822,56,1,1,ambulatory,2026-06-25 16:45,2026-06-25 17:45,Annual physical
+1823,212,8,3,ambulatory,2026-06-25 08:15,2026-06-25 09:15,Anxiety management
+1824,215,7,3,ambulatory,2026-06-25 09:45,2026-06-25 10:05,Medication management
+1825,130,16,6,ambulatory,2026-06-25 11:00,2026-06-25 12:00,Imaging follow-up
+1826,54,14,5,urgent,2026-06-25 16:30,2026-06-25 17:30,Fever eval
+1827,174,12,4,ambulatory,2026-06-25 09:15,2026-06-25 10:00,Sports injury recovery
+1828,46,9,3,ambulatory,2026-06-25 16:15,2026-06-25 17:15,Depression follow-up
+1829,15,15,5,urgent,2026-06-26 11:00,2026-06-26 11:15,Acute respiratory infection
+1830,148,14,5,urgent,2026-06-26 15:15,2026-06-26 15:35,Fever eval
+1831,76,7,3,ambulatory,2026-06-26 09:30,2026-06-26 10:00,Depression follow-up
+1832,17,1,1,ambulatory,2026-06-26 11:00,2026-06-26 11:15,Annual physical
+1833,190,18,6,ambulatory,2026-06-26 14:30,2026-06-26 14:50,Pre-op labs
+1834,84,14,5,urgent,2026-06-26 12:00,2026-06-26 12:30,Sprain/strain
+1835,192,18,6,ambulatory,2026-06-26 14:45,2026-06-26 15:05,Imaging follow-up
+1836,104,13,5,urgent,2026-06-26 16:15,2026-06-26 16:35,Acute respiratory infection
+1837,170,3,1,ambulatory,2026-06-26 12:30,2026-06-26 13:30,Diabetes management
+1838,86,5,2,ambulatory,2026-06-26 08:30,2026-06-26 08:45,Well-child visit
+1839,45,4,2,ambulatory,2026-06-26 12:00,2026-06-26 13:00,Ear infection
+1840,184,16,6,ambulatory,2026-06-26 08:30,2026-06-26 08:50,Imaging follow-up
+1841,85,2,1,wellness,2026-06-26 13:45,2026-06-26 14:30,Diabetes management
+1842,160,15,5,urgent,2026-06-26 11:00,2026-06-26 11:15,Fever eval
+1843,71,6,2,wellness,2026-06-26 15:00,2026-06-26 15:15,Well-child visit
+1844,66,15,5,urgent,2026-06-26 16:30,2026-06-26 17:00,Fever eval
+1845,188,9,3,ambulatory,2026-06-26 13:15,2026-06-26 14:00,Depression follow-up
+1846,3,14,5,urgent,2026-06-26 16:30,2026-06-26 17:30,Sprain/strain
+1847,170,6,2,wellness,2026-06-29 10:15,2026-06-29 10:35,Sports physical
+1848,11,4,2,ambulatory,2026-06-29 16:30,2026-06-29 17:30,Asthma follow-up
+1849,83,17,6,ambulatory,2026-06-29 16:15,2026-06-29 16:30,X-ray order
+1850,52,6,2,ambulatory,2026-06-29 15:30,2026-06-29 16:00,Sports physical
+1851,17,3,1,wellness,2026-06-29 12:45,2026-06-29 13:45,Diabetes management
+1852,66,11,4,ambulatory,2026-06-29 13:15,2026-06-29 13:45,Post-surgical rehab
+1853,104,18,6,ambulatory,2026-06-29 15:45,2026-06-29 16:00,X-ray order
+1854,122,15,5,urgent,2026-06-29 10:15,2026-06-29 11:00,Fever eval
+1855,13,6,2,wellness,2026-06-29 16:30,2026-06-29 16:50,Well-child visit
+1856,2,18,6,ambulatory,2026-06-29 09:30,2026-06-29 09:45,Pre-op labs
+1857,67,17,6,ambulatory,2026-06-29 12:45,2026-06-29 13:30,Pre-op labs
+1858,212,18,6,ambulatory,2026-06-29 14:15,2026-06-29 14:30,Routine bloodwork
+1859,182,10,4,ambulatory,2026-06-29 16:30,2026-06-29 17:00,Post-surgical rehab
+1860,218,18,6,ambulatory,2026-06-29 11:15,2026-06-29 11:30,X-ray order
+1861,47,17,6,ambulatory,2026-06-29 14:30,2026-06-29 15:00,Imaging follow-up
+1862,144,5,2,wellness,2026-06-30 08:45,2026-06-30 09:15,Sports physical
+1863,87,4,2,ambulatory,2026-06-30 09:45,2026-06-30 10:45,Sports physical
+1864,114,8,3,ambulatory,2026-06-30 13:45,2026-06-30 14:15,Initial intake assessment
+1865,167,14,5,urgent,2026-06-30 11:30,2026-06-30 12:30,Acute respiratory infection
+1866,186,1,1,ambulatory,2026-06-30 12:00,2026-06-30 13:00,Diabetes management
+1867,119,5,2,ambulatory,2026-06-30 11:30,2026-06-30 11:50,Immunizations
+1868,120,2,1,wellness,2026-06-30 13:45,2026-06-30 14:30,Diabetes management
+1869,96,12,4,ambulatory,2026-06-30 15:15,2026-06-30 15:45,Lower back pain
+1870,214,4,2,wellness,2026-06-30 13:45,2026-06-30 14:00,Asthma follow-up
+1871,198,3,1,ambulatory,2026-06-30 09:15,2026-06-30 09:30,Diabetes management
+1872,103,8,3,wellness,2026-06-30 15:00,2026-06-30 16:00,Initial intake assessment
+1873,147,5,2,ambulatory,2026-06-30 08:15,2026-06-30 08:30,Ear infection
+1874,26,2,1,ambulatory,2026-06-30 09:45,2026-06-30 10:30,Hypertension follow-up
+1875,70,12,4,ambulatory,2026-06-30 08:45,2026-06-30 09:05,Sports injury recovery
+1876,149,2,1,ambulatory,2026-06-30 16:45,2026-06-30 17:15,Diabetes management
+1877,35,1,1,wellness,2026-06-30 16:15,2026-06-30 17:15,Hypertension follow-up
+1878,49,2,1,ambulatory,2026-06-30 15:30,2026-06-30 16:00,Annual physical
+1879,146,9,3,ambulatory,2026-06-30 15:00,2026-06-30 15:45,Anxiety management
+1880,206,13,5,urgent,2026-06-30 13:45,2026-06-30 14:30,Acute respiratory infection
+1881,121,6,2,wellness,2026-06-30 12:00,2026-06-30 12:15,Sports physical
+1882,140,12,4,ambulatory,2026-07-01 10:30,2026-07-01 11:15,Balance/fall prevention
+1883,55,18,6,ambulatory,2026-07-01 10:30,2026-07-01 11:30,Routine bloodwork
+1884,88,15,5,urgent,2026-07-01 09:15,2026-07-01 10:15,Laceration
+1885,139,15,5,urgent,2026-07-01 09:15,2026-07-01 10:00,Fever eval
+1886,134,3,1,ambulatory,2026-07-01 11:15,2026-07-01 12:15,Hypertension follow-up
+1887,3,2,1,ambulatory,2026-07-01 08:45,2026-07-01 09:30,Cold/flu symptoms
+1888,112,14,5,urgent,2026-07-01 09:15,2026-07-01 09:30,Sprain/strain
+1889,102,12,4,ambulatory,2026-07-01 16:00,2026-07-01 16:20,Lower back pain
+1890,168,5,2,ambulatory,2026-07-01 14:30,2026-07-01 15:00,Ear infection
+1891,193,15,5,urgent,2026-07-01 11:00,2026-07-01 11:20,Minor fracture eval
+1892,144,2,1,wellness,2026-07-01 09:15,2026-07-01 09:45,Medication refill
+1893,64,2,1,ambulatory,2026-07-01 11:45,2026-07-01 12:00,Annual physical
+1894,141,10,4,ambulatory,2026-07-02 16:45,2026-07-02 17:05,Lower back pain
+1895,140,14,5,urgent,2026-07-02 11:30,2026-07-02 12:00,Sprain/strain
+1896,80,17,6,ambulatory,2026-07-02 13:30,2026-07-02 14:00,Routine bloodwork
+1897,163,6,2,wellness,2026-07-02 15:00,2026-07-02 15:15,Sports physical
+1898,7,18,6,ambulatory,2026-07-02 11:00,2026-07-02 11:30,X-ray order
+1899,208,6,2,ambulatory,2026-07-02 16:30,2026-07-02 17:15,Asthma follow-up
+1900,112,9,3,ambulatory,2026-07-02 08:45,2026-07-02 09:05,Initial intake assessment
+1901,46,1,1,ambulatory,2026-07-02 14:45,2026-07-02 15:45,Cold/flu symptoms
+1902,220,6,2,ambulatory,2026-07-02 12:45,2026-07-02 13:15,Well-child visit
+1903,124,16,6,ambulatory,2026-07-02 08:45,2026-07-02 09:00,Routine bloodwork
+1904,148,2,1,ambulatory,2026-07-02 14:30,2026-07-02 14:50,Annual physical
+1905,39,11,4,ambulatory,2026-07-02 10:45,2026-07-02 11:45,Sports injury recovery
+1906,67,3,1,wellness,2026-07-02 14:30,2026-07-02 14:50,Hypertension follow-up
+1907,113,14,5,urgent,2026-07-02 15:45,2026-07-02 16:30,Sprain/strain
+1908,105,13,5,urgent,2026-07-02 16:15,2026-07-02 16:45,Minor fracture eval
+1909,209,5,2,wellness,2026-07-03 08:45,2026-07-03 09:05,Immunizations
+1910,138,2,1,ambulatory,2026-07-03 13:15,2026-07-03 13:30,Hypertension follow-up
+1911,65,14,5,urgent,2026-07-03 16:30,2026-07-03 17:00,Fever eval
+1912,80,2,1,ambulatory,2026-07-03 16:00,2026-07-03 16:15,Cold/flu symptoms
+1913,9,17,6,ambulatory,2026-07-03 09:30,2026-07-03 09:50,Pre-op labs
+1914,128,18,6,ambulatory,2026-07-03 11:00,2026-07-03 11:45,Routine bloodwork
+1915,101,18,6,ambulatory,2026-07-03 12:30,2026-07-03 13:15,Routine bloodwork
+1916,21,2,1,wellness,2026-07-03 08:15,2026-07-03 08:35,Annual physical
+1917,193,15,5,urgent,2026-07-03 08:00,2026-07-03 09:00,Sprain/strain
+1918,169,7,3,wellness,2026-07-03 09:00,2026-07-03 09:15,Initial intake assessment
+1919,44,14,5,urgent,2026-07-03 14:45,2026-07-03 15:15,Sprain/strain
+1920,52,13,5,urgent,2026-07-03 08:30,2026-07-03 09:15,Fever eval
+1921,67,1,1,ambulatory,2026-07-03 15:15,2026-07-03 16:15,Cold/flu symptoms
+1922,145,1,1,ambulatory,2026-07-03 15:45,2026-07-03 16:00,Hypertension follow-up
+1923,40,3,1,wellness,2026-07-03 13:15,2026-07-03 14:00,Diabetes management
+1924,152,4,2,ambulatory,2026-07-06 13:30,2026-07-06 13:45,Well-child visit
+1925,5,4,2,ambulatory,2026-07-06 13:45,2026-07-06 14:05,Ear infection
+1926,99,10,4,ambulatory,2026-07-06 10:30,2026-07-06 11:30,Post-surgical rehab
+1927,187,17,6,ambulatory,2026-07-06 15:15,2026-07-06 15:35,Imaging follow-up
+1928,162,13,5,urgent,2026-07-06 13:30,2026-07-06 14:00,Sprain/strain
+1929,218,18,6,ambulatory,2026-07-06 12:15,2026-07-06 12:45,Routine bloodwork
+1930,149,2,1,ambulatory,2026-07-06 08:00,2026-07-06 08:45,Medication refill
+1931,33,5,2,ambulatory,2026-07-06 10:45,2026-07-06 11:00,Immunizations
+1932,60,3,1,ambulatory,2026-07-06 09:30,2026-07-06 09:45,Hypertension follow-up
+1933,193,16,6,ambulatory,2026-07-06 15:15,2026-07-06 16:00,Imaging follow-up
+1934,56,10,4,ambulatory,2026-07-06 13:30,2026-07-06 14:15,Lower back pain
+1935,202,17,6,ambulatory,2026-07-06 15:00,2026-07-06 15:20,Pre-op labs
+1936,187,14,5,emergency,2026-07-06 11:45,2026-07-06 12:15,Laceration
+1937,18,17,6,ambulatory,2026-07-06 12:30,2026-07-06 12:45,Imaging follow-up
+1938,46,14,5,urgent,2026-07-06 11:00,2026-07-06 12:00,Acute respiratory infection
+1939,79,1,1,ambulatory,2026-07-06 14:00,2026-07-06 15:00,Diabetes management
+1940,117,14,5,urgent,2026-07-06 11:15,2026-07-06 11:45,Sprain/strain
+1941,215,6,2,wellness,2026-07-06 11:00,2026-07-06 11:30,Asthma follow-up
+1942,6,14,5,urgent,2026-07-06 16:30,2026-07-06 17:00,Acute respiratory infection
+1943,13,17,6,ambulatory,2026-07-06 10:15,2026-07-06 10:45,Imaging follow-up
+1944,14,5,2,wellness,2026-07-06 12:00,2026-07-06 12:15,Ear infection
+1945,125,10,4,ambulatory,2026-07-07 16:00,2026-07-07 17:00,Sports injury recovery
+1946,158,16,6,ambulatory,2026-07-07 15:00,2026-07-07 15:45,Pre-op labs
+1947,132,13,5,emergency,2026-07-07 10:30,2026-07-07 11:15,Laceration
+1948,3,4,2,ambulatory,2026-07-07 15:45,2026-07-07 16:45,Well-child visit
+1949,129,11,4,ambulatory,2026-07-07 13:45,2026-07-07 14:00,Lower back pain
+1950,188,17,6,ambulatory,2026-07-07 09:00,2026-07-07 09:15,X-ray order
+1951,169,5,2,ambulatory,2026-07-07 14:15,2026-07-07 15:00,Asthma follow-up
+1952,90,16,6,ambulatory,2026-07-07 08:45,2026-07-07 09:45,X-ray order
+1953,40,2,1,wellness,2026-07-07 15:15,2026-07-07 16:00,Medication refill
+1954,73,2,1,ambulatory,2026-07-07 15:15,2026-07-07 16:15,Hypertension follow-up
+1955,161,15,5,urgent,2026-07-07 13:00,2026-07-07 13:30,Sprain/strain
+1956,145,5,2,ambulatory,2026-07-07 14:45,2026-07-07 15:30,Asthma follow-up
+1957,109,16,6,ambulatory,2026-07-07 12:30,2026-07-07 12:50,Imaging follow-up
+1958,129,16,6,ambulatory,2026-07-07 08:45,2026-07-07 09:30,Imaging follow-up
+1959,62,4,2,ambulatory,2026-07-07 15:45,2026-07-07 16:00,Immunizations
+1960,215,10,4,ambulatory,2026-07-07 14:00,2026-07-07 14:30,Post-surgical rehab
+1961,76,2,1,wellness,2026-07-08 08:00,2026-07-08 08:20,Medication refill
+1962,205,1,1,ambulatory,2026-07-08 11:15,2026-07-08 11:45,Hypertension follow-up
+1963,159,2,1,ambulatory,2026-07-08 08:45,2026-07-08 09:30,Annual physical
+1964,132,13,5,urgent,2026-07-08 15:15,2026-07-08 15:45,Minor fracture eval
+1965,2,10,4,ambulatory,2026-07-08 10:15,2026-07-08 11:00,Post-surgical rehab
+1966,48,7,3,ambulatory,2026-07-08 09:30,2026-07-08 10:00,Anxiety management
+1967,111,2,1,ambulatory,2026-07-08 16:00,2026-07-08 16:30,Diabetes management
+1968,9,9,3,wellness,2026-07-08 16:45,2026-07-08 17:45,Medication management
+1969,208,6,2,ambulatory,2026-07-08 12:30,2026-07-08 12:50,Immunizations
+1970,19,4,2,ambulatory,2026-07-08 16:00,2026-07-08 17:00,Asthma follow-up
+1971,22,8,3,ambulatory,2026-07-08 12:45,2026-07-08 13:15,Anxiety management
+1972,169,17,6,ambulatory,2026-07-08 10:30,2026-07-08 10:50,Routine bloodwork
+1973,179,16,6,ambulatory,2026-07-08 11:15,2026-07-08 11:30,Pre-op labs
+1974,1,8,3,wellness,2026-07-08 12:00,2026-07-08 13:00,Anxiety management
+1975,51,1,1,ambulatory,2026-07-08 12:30,2026-07-08 13:15,Cold/flu symptoms
+1976,154,5,2,ambulatory,2026-07-08 08:45,2026-07-08 09:45,Immunizations
+1977,135,12,4,ambulatory,2026-07-08 15:00,2026-07-08 15:15,Lower back pain
+1978,104,3,1,ambulatory,2026-07-08 09:00,2026-07-08 09:20,Hypertension follow-up
+1979,166,18,6,ambulatory,2026-07-08 16:00,2026-07-08 17:00,Routine bloodwork
+1980,76,8,3,ambulatory,2026-07-09 09:15,2026-07-09 09:45,Initial intake assessment
+1981,103,9,3,ambulatory,2026-07-09 12:45,2026-07-09 13:30,Medication management
+1982,64,3,1,ambulatory,2026-07-09 09:00,2026-07-09 09:20,Cold/flu symptoms
+1983,147,14,5,urgent,2026-07-09 12:15,2026-07-09 12:30,Laceration
+1984,214,11,4,ambulatory,2026-07-09 08:00,2026-07-09 08:15,Sports injury recovery
+1985,86,17,6,ambulatory,2026-07-09 14:45,2026-07-09 15:05,Imaging follow-up
+1986,123,4,2,wellness,2026-07-09 08:15,2026-07-09 09:00,Immunizations
+1987,55,11,4,ambulatory,2026-07-09 14:00,2026-07-09 14:20,Lower back pain
+1988,196,17,6,ambulatory,2026-07-09 14:15,2026-07-09 14:45,Pre-op labs
+1989,214,16,6,ambulatory,2026-07-09 10:45,2026-07-09 11:05,Routine bloodwork
+1990,203,4,2,ambulatory,2026-07-09 15:45,2026-07-09 16:30,Asthma follow-up
+1991,119,17,6,ambulatory,2026-07-09 10:00,2026-07-09 11:00,Pre-op labs
+1992,95,10,4,ambulatory,2026-07-09 12:45,2026-07-09 13:15,Post-surgical rehab
+1993,217,4,2,ambulatory,2026-07-09 11:30,2026-07-09 12:00,Well-child visit
+1994,14,17,6,ambulatory,2026-07-09 08:00,2026-07-09 08:45,Routine bloodwork
+1995,118,3,1,ambulatory,2026-07-09 16:30,2026-07-09 16:45,Medication refill
+1996,143,3,1,wellness,2026-07-09 10:15,2026-07-09 10:35,Annual physical
+1997,19,13,5,urgent,2026-07-09 08:30,2026-07-09 09:15,Acute respiratory infection
+1998,33,1,1,ambulatory,2026-07-09 16:15,2026-07-09 16:45,Hypertension follow-up
+1999,17,2,1,wellness,2026-07-09 11:00,2026-07-09 11:45,Cold/flu symptoms
+2000,161,8,3,wellness,2026-07-09 09:45,2026-07-09 10:45,Anxiety management
+2001,147,15,5,urgent,2026-07-09 11:15,2026-07-09 12:00,Laceration
+2002,67,6,2,wellness,2026-07-10 13:15,2026-07-10 14:15,Immunizations
+2003,206,4,2,wellness,2026-07-10 14:45,2026-07-10 15:30,Well-child visit
+2004,182,6,2,wellness,2026-07-10 08:30,2026-07-10 09:15,Well-child visit
+2005,200,13,5,emergency,2026-07-10 15:45,2026-07-10 16:30,Laceration
+2006,44,17,6,ambulatory,2026-07-10 09:45,2026-07-10 10:15,X-ray order
+2007,138,10,4,ambulatory,2026-07-10 08:15,2026-07-10 09:15,Balance/fall prevention
+2008,66,16,6,ambulatory,2026-07-10 15:30,2026-07-10 15:45,Pre-op labs
+2009,109,3,1,ambulatory,2026-07-10 13:45,2026-07-10 14:45,Cold/flu symptoms
+2010,53,4,2,ambulatory,2026-07-10 08:00,2026-07-10 09:00,Asthma follow-up
+2011,65,18,6,ambulatory,2026-07-10 16:15,2026-07-10 16:30,X-ray order
+2012,59,2,1,wellness,2026-07-10 14:30,2026-07-10 15:15,Annual physical
+2013,18,9,3,ambulatory,2026-07-10 10:45,2026-07-10 11:45,Initial intake assessment
+2014,91,14,5,emergency,2026-07-10 13:00,2026-07-10 14:00,Fever eval
+2015,33,15,5,urgent,2026-07-10 10:45,2026-07-10 11:05,Laceration
+2016,70,18,6,ambulatory,2026-07-10 10:30,2026-07-10 11:30,X-ray order
+2017,157,17,6,ambulatory,2026-07-10 14:45,2026-07-10 15:15,Imaging follow-up
+2018,17,5,2,ambulatory,2026-07-10 14:00,2026-07-10 14:30,Sports physical
+2019,142,14,5,urgent,2026-07-10 08:00,2026-07-10 08:20,Fever eval
+2020,32,13,5,urgent,2026-07-13 13:15,2026-07-13 14:00,Acute respiratory infection
+2021,78,15,5,urgent,2026-07-13 11:30,2026-07-13 12:30,Acute respiratory infection
+2022,23,4,2,ambulatory,2026-07-13 13:15,2026-07-13 14:15,Sports physical
+2023,151,9,3,ambulatory,2026-07-13 11:00,2026-07-13 11:15,Anxiety management
+2024,212,14,5,urgent,2026-07-13 10:15,2026-07-13 10:30,Fever eval
+2025,145,5,2,ambulatory,2026-07-13 15:30,2026-07-13 16:30,Sports physical
+2026,5,13,5,urgent,2026-07-13 12:30,2026-07-13 12:45,Laceration
+2027,136,11,4,ambulatory,2026-07-13 15:00,2026-07-13 15:20,Lower back pain
+2028,153,6,2,ambulatory,2026-07-13 08:00,2026-07-13 09:00,Ear infection
+2029,151,15,5,urgent,2026-07-13 11:00,2026-07-13 12:00,Minor fracture eval
+2030,33,18,6,ambulatory,2026-07-13 15:00,2026-07-13 16:00,Pre-op labs
+2031,91,18,6,ambulatory,2026-07-13 10:30,2026-07-13 10:50,Imaging follow-up
+2032,63,9,3,ambulatory,2026-07-14 08:00,2026-07-14 08:45,Medication management
+2033,169,15,5,urgent,2026-07-14 12:30,2026-07-14 13:15,Sprain/strain
+2034,73,14,5,urgent,2026-07-14 11:30,2026-07-14 12:00,Acute respiratory infection
+2035,54,12,4,ambulatory,2026-07-14 16:30,2026-07-14 17:15,Balance/fall prevention
+2036,173,7,3,ambulatory,2026-07-14 13:45,2026-07-14 14:05,Initial intake assessment
+2037,26,9,3,wellness,2026-07-14 15:45,2026-07-14 16:45,Medication management
+2038,83,15,5,urgent,2026-07-14 12:00,2026-07-14 12:15,Fever eval
+2039,23,13,5,urgent,2026-07-14 10:45,2026-07-14 11:05,Acute respiratory infection
+2040,14,6,2,ambulatory,2026-07-14 10:15,2026-07-14 10:30,Asthma follow-up
+2041,92,12,4,ambulatory,2026-07-14 13:30,2026-07-14 13:45,Post-surgical rehab
+2042,50,7,3,ambulatory,2026-07-14 12:30,2026-07-14 12:50,Medication management
+2043,64,3,1,wellness,2026-07-14 09:15,2026-07-14 09:30,Hypertension follow-up
+2044,39,16,6,ambulatory,2026-07-14 16:15,2026-07-14 17:15,Pre-op labs
+2045,172,13,5,urgent,2026-07-14 08:30,2026-07-14 08:50,Minor fracture eval
+2046,2,14,5,urgent,2026-07-14 15:45,2026-07-14 16:05,Sprain/strain
+2047,190,12,4,ambulatory,2026-07-14 11:45,2026-07-14 12:00,Lower back pain
+2048,111,13,5,emergency,2026-07-14 15:00,2026-07-14 16:00,Laceration
+2049,80,17,6,ambulatory,2026-07-14 08:45,2026-07-14 09:45,Routine bloodwork
+2050,61,15,5,urgent,2026-07-14 11:00,2026-07-14 11:20,Laceration
+2051,45,7,3,ambulatory,2026-07-15 08:00,2026-07-15 08:20,Depression follow-up
+2052,81,7,3,ambulatory,2026-07-15 16:30,2026-07-15 16:45,Initial intake assessment
+2053,41,7,3,wellness,2026-07-15 16:00,2026-07-15 16:45,Anxiety management
+2054,83,6,2,ambulatory,2026-07-15 12:45,2026-07-15 13:05,Asthma follow-up
+2055,210,14,5,urgent,2026-07-15 13:15,2026-07-15 13:30,Sprain/strain
+2056,179,9,3,wellness,2026-07-15 12:45,2026-07-15 13:45,Anxiety management
+2057,35,12,4,ambulatory,2026-07-15 16:15,2026-07-15 16:30,Post-surgical rehab
+2058,102,6,2,wellness,2026-07-15 16:00,2026-07-15 16:15,Asthma follow-up
+2059,135,3,1,ambulatory,2026-07-15 09:15,2026-07-15 09:30,Annual physical
+2060,22,16,6,ambulatory,2026-07-15 09:30,2026-07-15 10:30,Routine bloodwork
+2061,103,15,5,emergency,2026-07-15 15:00,2026-07-15 15:30,Acute respiratory infection
+2062,141,5,2,wellness,2026-07-15 13:45,2026-07-15 14:15,Immunizations
+2063,1,3,1,ambulatory,2026-07-16 15:00,2026-07-16 15:30,Cold/flu symptoms
+2064,171,2,1,ambulatory,2026-07-16 15:15,2026-07-16 15:35,Diabetes management
+2065,94,11,4,ambulatory,2026-07-16 15:30,2026-07-16 16:00,Sports injury recovery
+2066,89,4,2,ambulatory,2026-07-16 14:30,2026-07-16 14:45,Well-child visit
+2067,55,6,2,ambulatory,2026-07-16 12:00,2026-07-16 12:45,Well-child visit
+2068,190,14,5,urgent,2026-07-16 15:45,2026-07-16 16:30,Sprain/strain
+2069,12,6,2,ambulatory,2026-07-16 16:30,2026-07-16 17:30,Sports physical
+2070,129,2,1,ambulatory,2026-07-16 10:30,2026-07-16 11:30,Annual physical
+2071,112,12,4,ambulatory,2026-07-16 11:15,2026-07-16 11:30,Balance/fall prevention
+2072,178,16,6,ambulatory,2026-07-16 08:30,2026-07-16 09:30,Imaging follow-up
+2073,210,13,5,urgent,2026-07-16 15:15,2026-07-16 15:45,Minor fracture eval
+2074,127,3,1,wellness,2026-07-16 10:00,2026-07-16 11:00,Annual physical
+2075,219,1,1,ambulatory,2026-07-16 15:30,2026-07-16 16:00,Medication refill
+2076,117,1,1,ambulatory,2026-07-16 15:30,2026-07-16 15:50,Diabetes management
+2077,208,4,2,ambulatory,2026-07-17 13:15,2026-07-17 14:15,Asthma follow-up
+2078,119,18,6,ambulatory,2026-07-17 15:30,2026-07-17 15:50,Routine bloodwork
+2079,157,4,2,ambulatory,2026-07-17 11:45,2026-07-17 12:00,Ear infection
+2080,54,18,6,ambulatory,2026-07-17 12:45,2026-07-17 13:45,Imaging follow-up
+2081,123,5,2,wellness,2026-07-17 11:45,2026-07-17 12:45,Asthma follow-up
+2082,181,13,5,emergency,2026-07-17 10:15,2026-07-17 11:15,Fever eval
+2083,77,3,1,ambulatory,2026-07-17 11:00,2026-07-17 11:20,Cold/flu symptoms
+2084,91,5,2,ambulatory,2026-07-17 11:00,2026-07-17 11:45,Immunizations
+2085,143,10,4,ambulatory,2026-07-17 15:00,2026-07-17 16:00,Sports injury recovery
+2086,161,16,6,ambulatory,2026-07-17 16:15,2026-07-17 16:45,Routine bloodwork
+2087,70,18,6,ambulatory,2026-07-17 14:30,2026-07-17 14:50,Imaging follow-up
+2088,54,13,5,urgent,2026-07-17 10:00,2026-07-17 10:45,Minor fracture eval
+2089,115,8,3,wellness,2026-07-17 11:30,2026-07-17 11:50,Initial intake assessment
+2090,89,6,2,wellness,2026-07-17 13:45,2026-07-17 14:00,Immunizations
+2091,55,2,1,ambulatory,2026-07-17 16:30,2026-07-17 16:50,Cold/flu symptoms
+2092,209,2,1,ambulatory,2026-07-17 08:30,2026-07-17 09:00,Annual physical
+2093,203,12,4,ambulatory,2026-07-20 11:45,2026-07-20 12:30,Post-surgical rehab
+2094,219,18,6,ambulatory,2026-07-20 09:30,2026-07-20 10:00,Pre-op labs
+2095,77,4,2,ambulatory,2026-07-20 16:30,2026-07-20 17:30,Asthma follow-up
+2096,42,18,6,ambulatory,2026-07-20 12:30,2026-07-20 12:50,X-ray order
+2097,81,14,5,emergency,2026-07-20 12:15,2026-07-20 12:35,Laceration
+2098,58,16,6,ambulatory,2026-07-20 11:00,2026-07-20 12:00,X-ray order
+2099,109,2,1,wellness,2026-07-20 08:30,2026-07-20 08:50,Medication refill
+2100,215,2,1,ambulatory,2026-07-20 13:45,2026-07-20 14:00,Diabetes management
+2101,94,17,6,ambulatory,2026-07-20 14:30,2026-07-20 15:30,Imaging follow-up
+2102,7,11,4,ambulatory,2026-07-20 13:30,2026-07-20 14:00,Post-surgical rehab
+2103,20,11,4,ambulatory,2026-07-20 16:15,2026-07-20 17:00,Sports injury recovery
+2104,166,18,6,ambulatory,2026-07-20 16:15,2026-07-20 16:30,X-ray order
+2105,126,5,2,ambulatory,2026-07-20 12:30,2026-07-20 13:15,Well-child visit
+2106,188,3,1,wellness,2026-07-20 10:30,2026-07-20 11:00,Diabetes management
+2107,3,17,6,ambulatory,2026-07-20 10:15,2026-07-20 10:30,Imaging follow-up
+2108,23,3,1,wellness,2026-07-20 08:30,2026-07-20 08:45,Diabetes management
+2109,156,5,2,ambulatory,2026-07-20 09:15,2026-07-20 09:30,Immunizations
+2110,23,12,4,ambulatory,2026-07-20 09:15,2026-07-20 09:35,Balance/fall prevention
+2111,160,12,4,ambulatory,2026-07-20 14:15,2026-07-20 14:35,Post-surgical rehab
+2112,30,4,2,ambulatory,2026-07-20 10:00,2026-07-20 10:15,Well-child visit
+2113,144,11,4,ambulatory,2026-07-21 08:15,2026-07-21 08:45,Balance/fall prevention
+2114,212,1,1,wellness,2026-07-21 09:00,2026-07-21 09:15,Hypertension follow-up
+2115,141,15,5,urgent,2026-07-21 09:00,2026-07-21 09:20,Laceration
+2116,6,13,5,urgent,2026-07-21 11:30,2026-07-21 12:30,Laceration
+2117,89,8,3,ambulatory,2026-07-21 15:45,2026-07-21 16:30,Initial intake assessment
+2118,31,13,5,urgent,2026-07-21 14:00,2026-07-21 14:15,Acute respiratory infection
+2119,6,5,2,ambulatory,2026-07-21 13:30,2026-07-21 13:50,Asthma follow-up
+2120,8,13,5,urgent,2026-07-21 15:00,2026-07-21 16:00,Acute respiratory infection
+2121,47,7,3,ambulatory,2026-07-21 12:15,2026-07-21 13:15,Initial intake assessment
+2122,63,16,6,ambulatory,2026-07-21 15:30,2026-07-21 16:30,Imaging follow-up
+2123,176,16,6,ambulatory,2026-07-21 13:30,2026-07-21 14:30,Routine bloodwork
+2124,55,16,6,ambulatory,2026-07-21 12:15,2026-07-21 12:35,Pre-op labs
+2125,216,6,2,wellness,2026-07-21 11:15,2026-07-21 11:45,Well-child visit
+2126,80,9,3,ambulatory,2026-07-21 14:30,2026-07-21 14:45,Anxiety management
+2127,59,2,1,ambulatory,2026-07-21 15:30,2026-07-21 15:45,Diabetes management
+2128,2,5,2,wellness,2026-07-22 09:00,2026-07-22 10:00,Ear infection
+2129,27,10,4,ambulatory,2026-07-22 12:45,2026-07-22 13:30,Post-surgical rehab
+2130,201,13,5,urgent,2026-07-22 13:30,2026-07-22 14:15,Sprain/strain
+2131,51,4,2,ambulatory,2026-07-22 12:30,2026-07-22 12:45,Sports physical
+2132,218,4,2,ambulatory,2026-07-22 09:45,2026-07-22 10:45,Immunizations
+2133,176,8,3,ambulatory,2026-07-22 09:45,2026-07-22 10:30,Depression follow-up
+2134,50,3,1,ambulatory,2026-07-22 08:00,2026-07-22 08:30,Annual physical
+2135,62,16,6,ambulatory,2026-07-22 12:30,2026-07-22 12:50,Pre-op labs
+2136,85,15,5,urgent,2026-07-22 13:00,2026-07-22 13:30,Sprain/strain
+2137,190,1,1,wellness,2026-07-22 15:30,2026-07-22 15:45,Diabetes management
+2138,184,3,1,ambulatory,2026-07-22 15:15,2026-07-22 15:35,Cold/flu symptoms
+2139,209,4,2,ambulatory,2026-07-22 11:15,2026-07-22 11:30,Ear infection
+2140,143,8,3,ambulatory,2026-07-22 10:30,2026-07-22 11:00,Initial intake assessment
+2141,45,17,6,ambulatory,2026-07-22 11:30,2026-07-22 12:30,X-ray order
+2142,92,15,5,urgent,2026-07-22 14:45,2026-07-22 15:15,Acute respiratory infection
+2143,121,9,3,ambulatory,2026-07-23 09:30,2026-07-23 09:45,Initial intake assessment
+2144,125,16,6,ambulatory,2026-07-23 09:00,2026-07-23 09:45,Imaging follow-up
+2145,205,11,4,ambulatory,2026-07-23 12:15,2026-07-23 13:00,Sports injury recovery
+2146,124,18,6,ambulatory,2026-07-23 12:45,2026-07-23 13:05,X-ray order
+2147,41,4,2,ambulatory,2026-07-23 16:00,2026-07-23 17:00,Immunizations
+2148,106,8,3,wellness,2026-07-23 08:15,2026-07-23 09:00,Depression follow-up
+2149,136,6,2,ambulatory,2026-07-23 09:00,2026-07-23 09:20,Asthma follow-up
+2150,136,7,3,wellness,2026-07-23 16:45,2026-07-23 17:00,Depression follow-up
+2151,61,12,4,ambulatory,2026-07-23 12:30,2026-07-23 13:30,Balance/fall prevention
+2152,219,7,3,ambulatory,2026-07-23 12:30,2026-07-23 13:15,Initial intake assessment
+2153,23,5,2,wellness,2026-07-23 16:15,2026-07-23 16:30,Sports physical
+2154,50,16,6,ambulatory,2026-07-23 12:30,2026-07-23 13:30,Pre-op labs
+2155,15,16,6,ambulatory,2026-07-23 11:15,2026-07-23 11:35,Pre-op labs
+2156,184,6,2,ambulatory,2026-07-23 15:30,2026-07-23 16:30,Asthma follow-up
+2157,39,6,2,ambulatory,2026-07-23 15:45,2026-07-23 16:30,Well-child visit
+2158,152,15,5,urgent,2026-07-23 08:00,2026-07-23 08:45,Minor fracture eval
+2159,67,7,3,ambulatory,2026-07-23 10:30,2026-07-23 11:15,Depression follow-up
+2160,121,15,5,urgent,2026-07-23 08:00,2026-07-23 08:15,Minor fracture eval
+2161,60,4,2,ambulatory,2026-07-23 09:15,2026-07-23 10:15,Asthma follow-up
+2162,69,10,4,ambulatory,2026-07-23 15:15,2026-07-23 16:15,Post-surgical rehab
+2163,5,15,5,urgent,2026-07-23 14:30,2026-07-23 15:30,Acute respiratory infection
+2164,159,14,5,urgent,2026-07-23 10:45,2026-07-23 11:45,Fever eval
+2165,135,4,2,wellness,2026-07-24 11:00,2026-07-24 11:30,Sports physical
+2166,25,1,1,wellness,2026-07-24 16:30,2026-07-24 17:00,Cold/flu symptoms
+2167,112,2,1,wellness,2026-07-24 16:45,2026-07-24 17:30,Hypertension follow-up
+2168,186,11,4,ambulatory,2026-07-24 09:00,2026-07-24 09:20,Lower back pain
+2169,91,2,1,wellness,2026-07-24 14:15,2026-07-24 15:15,Cold/flu symptoms
+2170,74,6,2,ambulatory,2026-07-24 11:30,2026-07-24 11:45,Asthma follow-up
+2171,170,16,6,ambulatory,2026-07-24 10:45,2026-07-24 11:30,Pre-op labs
+2172,212,3,1,ambulatory,2026-07-24 10:15,2026-07-24 11:00,Medication refill
+2173,133,3,1,ambulatory,2026-07-24 14:00,2026-07-24 15:00,Diabetes management
+2174,177,18,6,ambulatory,2026-07-24 11:45,2026-07-24 12:00,Pre-op labs
+2175,172,15,5,urgent,2026-07-24 08:15,2026-07-24 09:00,Acute respiratory infection
+2176,70,15,5,urgent,2026-07-24 14:45,2026-07-24 15:45,Fever eval
+2177,198,18,6,ambulatory,2026-07-24 13:15,2026-07-24 13:30,Imaging follow-up
+2178,139,11,4,ambulatory,2026-07-24 12:45,2026-07-24 13:15,Balance/fall prevention
+2179,131,2,1,ambulatory,2026-07-27 11:00,2026-07-27 11:30,Annual physical
+2180,164,6,2,ambulatory,2026-07-27 12:15,2026-07-27 12:35,Ear infection
+2181,210,16,6,ambulatory,2026-07-27 09:30,2026-07-27 09:50,Routine bloodwork
+2182,108,5,2,wellness,2026-07-27 12:45,2026-07-27 13:15,Sports physical
+2183,111,8,3,wellness,2026-07-27 09:00,2026-07-27 10:00,Anxiety management
+2184,179,14,5,urgent,2026-07-27 13:30,2026-07-27 14:00,Acute respiratory infection
+2185,81,2,1,wellness,2026-07-27 08:00,2026-07-27 08:15,Annual physical
+2186,208,2,1,ambulatory,2026-07-27 15:00,2026-07-27 16:00,Hypertension follow-up
+2187,30,12,4,ambulatory,2026-07-27 11:45,2026-07-27 12:45,Sports injury recovery
+2188,106,3,1,wellness,2026-07-27 15:00,2026-07-27 15:30,Cold/flu symptoms
+2189,153,10,4,ambulatory,2026-07-27 11:15,2026-07-27 11:30,Balance/fall prevention
+2190,57,3,1,ambulatory,2026-07-27 10:00,2026-07-27 11:00,Annual physical
+2191,11,17,6,ambulatory,2026-07-27 08:15,2026-07-27 09:00,Imaging follow-up
+2192,66,2,1,wellness,2026-07-27 08:45,2026-07-27 09:00,Hypertension follow-up
+2193,213,18,6,ambulatory,2026-07-27 13:00,2026-07-27 13:15,Pre-op labs
+2194,139,13,5,urgent,2026-07-27 09:00,2026-07-27 09:30,Laceration
+2195,131,6,2,ambulatory,2026-07-27 10:00,2026-07-27 11:00,Immunizations
+2196,155,15,5,urgent,2026-07-28 09:00,2026-07-28 09:15,Acute respiratory infection
+2197,17,4,2,ambulatory,2026-07-28 08:15,2026-07-28 09:15,Sports physical
+2198,66,14,5,urgent,2026-07-28 14:00,2026-07-28 14:30,Laceration
+2199,68,8,3,ambulatory,2026-07-28 13:00,2026-07-28 13:45,Medication management
+2200,111,5,2,wellness,2026-07-28 16:15,2026-07-28 17:15,Ear infection
+2201,79,16,6,ambulatory,2026-07-28 10:00,2026-07-28 10:20,Imaging follow-up
+2202,137,15,5,urgent,2026-07-28 12:45,2026-07-28 13:30,Laceration
+2203,127,17,6,ambulatory,2026-07-28 10:45,2026-07-28 11:05,Pre-op labs
+2204,100,11,4,ambulatory,2026-07-28 09:00,2026-07-28 09:30,Balance/fall prevention
+2205,70,10,4,ambulatory,2026-07-28 14:45,2026-07-28 15:30,Sports injury recovery
+2206,34,5,2,ambulatory,2026-07-28 09:15,2026-07-28 10:00,Immunizations
+2207,134,13,5,urgent,2026-07-28 13:30,2026-07-28 13:50,Laceration
+2208,188,2,1,ambulatory,2026-07-28 13:15,2026-07-28 13:45,Diabetes management
+2209,59,12,4,ambulatory,2026-07-28 12:15,2026-07-28 12:45,Post-surgical rehab
+2210,186,16,6,ambulatory,2026-07-28 09:30,2026-07-28 10:00,X-ray order
+2211,175,13,5,urgent,2026-07-28 15:45,2026-07-28 16:45,Laceration
+2212,56,1,1,ambulatory,2026-07-28 16:00,2026-07-28 16:45,Hypertension follow-up
+2213,133,5,2,wellness,2026-07-28 14:15,2026-07-28 14:35,Sports physical
+2214,211,14,5,urgent,2026-07-28 10:30,2026-07-28 11:15,Laceration
+2215,143,18,6,ambulatory,2026-07-28 10:00,2026-07-28 11:00,X-ray order
+2216,2,16,6,ambulatory,2026-07-28 12:45,2026-07-28 13:45,X-ray order
+2217,121,3,1,ambulatory,2026-07-29 11:00,2026-07-29 11:20,Diabetes management
+2218,169,4,2,wellness,2026-07-29 08:45,2026-07-29 09:00,Ear infection
+2219,72,13,5,urgent,2026-07-29 12:30,2026-07-29 13:00,Sprain/strain
+2220,18,16,6,ambulatory,2026-07-29 15:00,2026-07-29 15:20,Pre-op labs
+2221,203,1,1,wellness,2026-07-29 12:15,2026-07-29 13:15,Medication refill
+2222,18,15,5,urgent,2026-07-29 16:00,2026-07-29 16:45,Acute respiratory infection
+2223,117,10,4,ambulatory,2026-07-29 14:15,2026-07-29 14:35,Lower back pain
+2224,155,1,1,ambulatory,2026-07-29 12:00,2026-07-29 12:30,Cold/flu symptoms
+2225,135,15,5,urgent,2026-07-29 11:45,2026-07-29 12:05,Sprain/strain
+2226,184,17,6,ambulatory,2026-07-29 10:15,2026-07-29 10:30,X-ray order
+2227,220,10,4,ambulatory,2026-07-29 16:45,2026-07-29 17:30,Sports injury recovery
+2228,154,4,2,ambulatory,2026-07-29 11:00,2026-07-29 11:45,Sports physical
+2229,9,14,5,emergency,2026-07-29 12:30,2026-07-29 13:30,Acute respiratory infection
+2230,24,18,6,ambulatory,2026-07-29 09:30,2026-07-29 09:45,X-ray order
+2231,192,2,1,ambulatory,2026-07-29 15:00,2026-07-29 15:15,Hypertension follow-up
+2232,87,15,5,urgent,2026-07-29 13:30,2026-07-29 14:15,Laceration
+2233,148,14,5,urgent,2026-07-29 15:15,2026-07-29 15:45,Acute respiratory infection
+2234,19,6,2,wellness,2026-07-29 13:15,2026-07-29 13:35,Well-child visit
+2235,25,16,6,ambulatory,2026-07-29 09:00,2026-07-29 09:20,Imaging follow-up

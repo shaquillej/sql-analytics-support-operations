@@ -1,0 +1,19 @@
+provider_id,name,specialty,department_id
+1,Justin Rivera,Family Medicine,1
+2,Michael Miller,Family Medicine,1
+3,Andrew Murphy,Family Medicine,1
+4,Scott Stewart,Pediatrics,2
+5,Andrew Morgan,Pediatrics,2
+6,Mary Wilson,Pediatrics,2
+7,Sharon Moore,Behavioral Health,3
+8,Kimberly Campbell,Behavioral Health,3
+9,Ruth Phillips,Behavioral Health,3
+10,George Garcia,Physical Therapy,4
+11,Stephanie Miller,Physical Therapy,4
+12,Larry Bailey,Physical Therapy,4
+13,Matthew Campbell,Urgent Care,5
+14,Stephen Torres,Urgent Care,5
+15,Elizabeth Roberts,Urgent Care,5
+16,Nicholas Edwards,Diagnostic Services,6
+17,Ruth Peterson,Diagnostic Services,6
+18,Emily Richardson,Diagnostic Services,6
